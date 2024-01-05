@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Socratica Toolbox",
+    pageTitle: "Socratica",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

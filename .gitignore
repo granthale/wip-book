@@ -9,4 +9,7 @@ buildinfo
 private/
 .replit
 replit.nix
-public
+# public
+public/icons
+public/images
+public/static
