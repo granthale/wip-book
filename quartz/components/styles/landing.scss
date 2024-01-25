@@ -18,7 +18,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2);
-  gap: 36px;
+  gap: 12px;
 }
 
 .card {
@@ -80,43 +80,22 @@
 }
 
 .card-1 {
-  background: #649aea;
+  background: #E74018;
   background-image: url("./static/1-noise.png");
   background-size: cover;
   overflow: visible;
 }
 
-.card-illustration-1 {
-  position: absolute;
-  bottom: 0;
-  left: -15px;
-  width: 70%;
-}
-
 .card-2 {
-  background: #aab172;
+  background: #D6A97D;
   background-image: url("./static/2-noise.png");
   background-size: cover;
 }
 
-.card-illustration-2 {
-  position: absolute;
-  width: 50%;
-  bottom: 20px;
-  left: 40px;
-}
-
 .card-3 {
-  background: #bf7d1a;
+  background: #00A16C;
   background-image: url("./static/3-noise.png");
   background-size: cover;
-}
-
-.card-illustration-3 {
-  position: absolute;
-  width: 50%;
-  bottom: -40px;
-  left: 30%;
 }
 
 .card-4 {
@@ -125,25 +104,11 @@
   background-size: cover;
 }
 
-.card-illustration-4 {
-  position: absolute;
-  width: 50%;
-  bottom: 0;
-  right: -10px;
-}
-
 .card-5 {
   background: #eb856f;
   background-image: url("./static/5-noise.png");
   background-size: cover;
   overflow: visible;
-}
-
-.card-illustration-5 {
-  position: absolute;
-  width: 80%;
-  bottom: 0;
-  right: -10px;
 }
 
 /* ANIMATIONS */

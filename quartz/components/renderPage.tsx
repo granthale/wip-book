@@ -124,16 +124,6 @@ export function renderPage(
     <html>
       <Head {...componentData} />
       <body data-slug={slug}>
-        <div class="marquee">
-          <p>
-            the tactic toolbox • the tactic toolbox • the tactic toolbox • the tactic toolbox • the
-            tactic toolbox • the tactic toolbox • the tactic toolbox • the tactic toolbox • the
-            tactic toolbox • the tactic toolbox • the tactic toolbox • the tactic toolbox • the
-            tactic toolbox • the tactic toolbox • the tactic toolbox • the tactic toolbox • the
-            tactic toolbox • the tactic toolbox • the tactic toolbox • the tactic toolbox • the
-            tactic toolbox • the tactic toolbox
-          </p>
-        </div>
         {slug === "index" && <LandingComponent {...componentData} />}
         {slug !== "index" && (
           <div id="quartz-root" class="page">

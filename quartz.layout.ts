@@ -23,18 +23,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.PageTitle(),
+    // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    // Component.Search(),
     // Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.DesktopOnly(Component.Graph()),
-    Component.DesktopOnly(Component.Backlinks()),
   ],
-  right: [
-    // Component.Graph(),
-  ],
+  right: [Component.Search(), Component.Graph(), Component.DesktopOnly(Component.Backlinks())],
 }
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {

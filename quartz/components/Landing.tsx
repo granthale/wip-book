@@ -1,76 +1,41 @@
 import { QuartzComponentConstructor } from "./types"
 import landingStyle from "./styles/landing.scss"
+import Search from "./Search"
 
-export const TOTAL_CARDS = 8
+export const TOTAL_CARDS = 12
 export const CARDS = {
   basics: (
-    <a href={"/basics"}>
+    <a href={"/tools-for-thought"}>
       <div class="card card-1">
-        <p class="card-title">The Basics</p>
-        <p class="card-subhead">Issue 001</p>
-        <img src="/static/1-illo.png" class="card-illustration-1" />
+        <p class="card-title">Tools for Thought</p>
       </div>
     </a>
   ),
   "getting-started": (
-    <a href={"/getting-started"}>
+    <a href={"/internet-n-tech-history"}>
       <div class="card card-2">
-        <p class="card-title">Getting Started</p>
-        <p class="card-subhead">Issue 002</p>
-        <img src="/static/2-illo.png" class="card-illustration-2" />
+        <p class="card-title">Internet & Technology History</p>
       </div>
     </a>
   ),
   "growing-people": (
-    <a href={"/growing-people"}>
+    <a href={"/global-economy"}>
       <div class="card card-3">
-        <p class="card-title">Growing People</p>
-        <p class="card-subhead">Issue 003</p>
-        <img src="/static/3-illo.png" class="card-illustration-3" />
-      </div>
-    </a>
-  ),
-  "superboosting-ideas": (
-    <a href={"/superboosting-ideas"}>
-      <div class="card card-4">
-        <p class="card-title">Super- boosting Ideas</p>
-        <p class="card-subhead">Issue 004</p>
-        <img src="/static/4-illo.png" class="card-illustration-4" />
-      </div>
-    </a>
-  ),
-  maintenance: (
-    <a href={"/maintenance"}>
-      <div class="card card-5">
-        <p class="card-title">Maintenance</p>
-        <p class="card-subhead">Issue 005</p>
-        <img src="/static/5-illo.png" class="card-illustration-5" />
+        <p class="card-title">Global Economy</p>
       </div>
     </a>
   ),
 }
 
 export default (() => {
+
   function LandingComponent() {
     return (
       <div>
         <div class="content-container">
-          <p class="landing-header">Welcome to Socratica</p>
-          <p class="page-subhead">
-            This is a guide •{" "}
-            <a href="https://www.socratica.info/" target="_blank">
-              Back to main site
-            </a>{" "}
-            •{" "}
-            <a href="https://github.com/Socratica-Org/toolbox" target="_blank">
-              Contribute
-            </a>{" "}
-            •{" "}
-            <a href="https://toolbox.socratica.info/credits" target="_self">
-              Credits
-            </a>
-          </p>
-
+        <div class="landing-header">Hello, welcome to our garden.</div>
+        <br />
+        {/* TODO, add search and navbar */}
           <div class="issue-container">
             {Object.values(CARDS)}
             {Array(TOTAL_CARDS - Object.keys(CARDS).length)
@@ -78,7 +43,6 @@ export default (() => {
               .map(() => (
                 <div class="card card-coming">
                   <p class="card-title">Coming Soon</p>
-                  <p class="card-subhead">Issue XXX</p>
                 </div>
               ))}
           </div>
