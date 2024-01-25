@@ -2,37 +2,37 @@
 <rss version="2.0">
     <channel>
       <title>Garden</title>
-      <link>https://toolbox.socratica.info</link>
+      <link>https://toolbox.com</link>
       <description>Last 10 notes on Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>example</title>
-    <link>https://toolbox.socratica.info/example</link>
-    <guid>https://toolbox.socratica.info/example</guid>
-    <description>Here is an example page linked to in Quartz.</description>
+    <link>https://toolbox.com/example</link>
+    <guid>https://toolbox.com/example</guid>
+    <description>Here is an example page linked to in Quartz!.</description>
     <pubDate>Thu, 25 Jan 2024 02:55:00 GMT</pubDate>
   </item><item>
     <title>Global Economy</title>
-    <link>https://toolbox.socratica.info/global-economy</link>
-    <guid>https://toolbox.socratica.info/global-economy</guid>
+    <link>https://toolbox.com/global-economy</link>
+    <guid>https://toolbox.com/global-economy</guid>
     <description>Here’s a page to collect all topics related to: IMF &amp; World Bank Chinese State Capitalism International Monetary Policy Financialization US Dollar dominance .</description>
     <pubDate>Thu, 25 Jan 2024 02:42:24 GMT</pubDate>
   </item><item>
     <title>Welcome to our garden.</title>
-    <link>https://toolbox.socratica.info/</link>
-    <guid>https://toolbox.socratica.info/</guid>
+    <link>https://toolbox.com/</link>
+    <guid>https://toolbox.com/</guid>
     <description></description>
     <pubDate>Thu, 25 Jan 2024 02:34:09 GMT</pubDate>
   </item><item>
     <title>Internet &amp; Tech History</title>
-    <link>https://toolbox.socratica.info/internet-n-tech-history</link>
-    <guid>https://toolbox.socratica.info/internet-n-tech-history</guid>
+    <link>https://toolbox.com/internet-n-tech-history</link>
+    <guid>https://toolbox.com/internet-n-tech-history</guid>
     <description></description>
     <pubDate>Thu, 25 Jan 2024 02:34:53 GMT</pubDate>
   </item><item>
     <title>Tools for Thought</title>
-    <link>https://toolbox.socratica.info/tools-for-thought</link>
-    <guid>https://toolbox.socratica.info/tools-for-thought</guid>
+    <link>https://toolbox.com/tools-for-thought</link>
+    <guid>https://toolbox.com/tools-for-thought</guid>
     <description>Welcome to a page on using technology to think and learn more effectively See example.</description>
     <pubDate>Thu, 25 Jan 2024 02:43:18 GMT</pubDate>
   </item>
