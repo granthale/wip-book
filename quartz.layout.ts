@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Placeholder: "https://www.wikipedia.org/",
+      Home: "http://localhost:8080/",
     },
   }),
 }
@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    // Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -24,12 +24,15 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     // Component.Search(),
-    // Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.DesktopOnly(Component.Graph()),
   ],
-  right: [Component.Search(), Component.Graph(), Component.DesktopOnly(Component.Backlinks())],
+  right: [
+    Component.Search(),
+    Component.Graph(),
+    Component.DesktopOnly(Component.Backlinks()),
+  ],
 }
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {

@@ -39,7 +39,9 @@ export default (() => {
       <div>
         <div class="content-container">
           <div class="landing-header">Hello, welcome to our garden.</div>
-          <p class="page-subhead">Check the <a href="/about">about section</a> to learn more.</p>
+          <p class="page-subhead">
+            Check the <a href="/about">about section</a> to learn more.
+          </p>
           {/* TODO, add search and navbar */}
           <div class="issue-container">
             {Object.values(CARDS)}

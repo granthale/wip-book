@@ -1,43 +1,28 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-body {
-  background-image: url("/static/bg.png") !important;
-  margin: 0;
-}
+// body {
+//   margin: 0;
+//   position: relative; /* Required for the pseudo-element to position correctly */
+//   z-index: 1;
+// }
+
+// body::before {
+//   content: "";
+//   position: absolute;
+//   top: 0;
+//   right: 0;
+//   bottom: 0;
+//   left: 0;
+//   background-image: url("/static/bg-garden.png");
+//   opacity: 0.25;
+//   z-index: -1; /* Places the image behind the content of the body */
+// }
 
 @font-face {
   font-family: "Tiempos";
   src: url("/static/tiempos-light.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
-}
-
-/* HEADER AT TOP OF WEBSITE */
-.marquee {
-  background-color: black;
-  overflow: hidden;
-  width: 100%;
-  font-family: monospace;
-  white-space: nowrap;
-  height: 40px;
-}
-
-.marquee p {
-  color: white;
-  font-weight: 700;
-  animation: loopText 15s infinite linear;
-  line-height: unset;
-}
-
-@keyframes loopText {
-  from {
-    transform: translateX(0);
-  }
-
-  to {
-    transform: translateX(-25%);
-  }
 }
 
 /* HEADER AT TOP OF WEBSITE */
@@ -67,25 +52,4 @@ body {
     padding-top: 5px;
     margin: 0;
   }
-}
-
-
-body[data-slug="getting-started"] .article-header {
-  border: #949C61; 
-  background: #9CA665
-}
-
-body[data-slug="growing-people"] .article-header {
-  border:  #AD7018; 
-  background: #BD7C18;
-}
-
-body[data-slug="superboosting-ideas"] .article-header {
-  border:  #9F7389; 
-  background: #AC7D94;
-}
-
-body[data-slug="maintenance"] .article-header {
-  border:  #D37662; 
-  background: #EB846D;
 }
