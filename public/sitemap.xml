@@ -1,4 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://toolbox.com/about</loc>
+    <lastmod>2024-01-28T01:16:30.056Z</lastmod>
+  </url><url>
+    <loc>https://toolbox.com/energy</loc>
+    <lastmod>2024-01-26T03:05:38.072Z</lastmod>
+  </url><url>
     <loc>https://toolbox.com/example</loc>
     <lastmod>2024-01-25T02:55:00.171Z</lastmod>
   </url><url>
@@ -8,7 +14,7 @@
     <loc>https://toolbox.com/</loc>
     <lastmod>2024-01-25T02:34:09.493Z</lastmod>
   </url><url>
-    <loc>https://toolbox.com/internet-n-tech-history</loc>
+    <loc>https://toolbox.com/tech-history</loc>
     <lastmod>2024-01-25T02:34:53.496Z</lastmod>
   </url><url>
     <loc>https://toolbox.com/tools-for-thought</loc>

@@ -5,12 +5,12 @@
   font-weight: 700;
   line-height: normal;
 }
-
+ 
 .page-subhead {
   font-size: 14px;
   margin-bottom: 48px;
   font-family: var(--codeFont);
-  text-transform: uppercase;
+  // text-transform: uppercase;
 }
 
 /* ISSUE CARDS */
@@ -19,6 +19,10 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2);
   gap: 12px;
+
+  margin: auto;
+  justify-content: center;
+  align-content: center;
 }
 
 .card {
@@ -56,21 +60,9 @@
   color: white;
 }
 
-.card img {
-  transition: all 0.3s;
-  transform: rotate(0) scale(1);
-}
-
 .card:hover {
   transform: scale(1.02);
   /* Make card bigger on hover */
-}
-
-.card:hover img {
-  transform: rotate(-20deg) scale(1.05);
-  transition: all 0.3s;
-  // animation: shake 0.3s;
-  /* Apply shake animation to image on hover */
 }
 
 /* CARD COLORS */
@@ -81,26 +73,26 @@
 
 .card-1 {
   background: #E74018;
-  background-image: url("./static/1-noise.png");
+  background-image: url("./static/red-garden.png");
   background-size: cover;
   overflow: visible;
 }
 
 .card-2 {
   background: #D6A97D;
-  background-image: url("./static/2-noise.png");
+  background-image: url("./static/tan-garden.png");
   background-size: cover;
 }
 
 .card-3 {
   background: #00A16C;
-  background-image: url("./static/3-noise.png");
+  background-image: url("./static/dollar-garden.png");
   background-size: cover;
 }
 
 .card-4 {
   background: #ad7e95;
-  background-image: url("./static/4-noise.png");
+  background-image: url("./static/purple-garden.png");
   background-size: cover;
 }
 

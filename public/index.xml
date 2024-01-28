@@ -6,6 +6,18 @@
       <description>Last 10 notes on Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>About</title>
+    <link>https://toolbox.com/about</link>
+    <guid>https://toolbox.com/about</guid>
+    <description></description>
+    <pubDate>Sun, 28 Jan 2024 01:16:30 GMT</pubDate>
+  </item><item>
+    <title>Energy</title>
+    <link>https://toolbox.com/energy</link>
+    <guid>https://toolbox.com/energy</guid>
+    <description></description>
+    <pubDate>Fri, 26 Jan 2024 03:05:38 GMT</pubDate>
+  </item><item>
     <title>example</title>
     <link>https://toolbox.com/example</link>
     <guid>https://toolbox.com/example</guid>
@@ -25,15 +37,15 @@
     <pubDate>Thu, 25 Jan 2024 02:34:09 GMT</pubDate>
   </item><item>
     <title>Internet &amp; Tech History</title>
-    <link>https://toolbox.com/internet-n-tech-history</link>
-    <guid>https://toolbox.com/internet-n-tech-history</guid>
+    <link>https://toolbox.com/tech-history</link>
+    <guid>https://toolbox.com/tech-history</guid>
     <description></description>
     <pubDate>Thu, 25 Jan 2024 02:34:53 GMT</pubDate>
   </item><item>
     <title>Tools for Thought</title>
     <link>https://toolbox.com/tools-for-thought</link>
     <guid>https://toolbox.com/tools-for-thought</guid>
-    <description>Welcome to a page on using technology to think and learn more effectively See example.</description>
+    <description>Welcome to a page on using technology to think and learn more effectively. This section aims to answer three questions How can LLMs be used to extend pre-existing flashcards (Anki or otherwise) to push our understanding and facilitate learning? How to incentivize big-tech investments in Tools for Thought? Why are Tools for Thought important? How do we get people to examine what they know more often? See example.</description>
     <pubDate>Thu, 25 Jan 2024 02:43:18 GMT</pubDate>
   </item>
     </channel>
