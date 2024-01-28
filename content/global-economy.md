@@ -9,3 +9,5 @@ Here's a page to collect all topics related to:
 - International Monetary Policy
 - Financialization
 - US Dollar dominance
+
+![[xi.jpg|600]]
