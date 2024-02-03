@@ -7,7 +7,7 @@ function ArticleTitle({ fileData, displayClass }: QuartzComponentProps) {
   if (title) {
     return (
       <>
-        <div class="header-card mobile-only">{card}</div>
+        {/* <div class="header-card mobile-only">{card}</div> */}
         <h1 class={`article-title ${displayClass ?? ""}`}>{title}</h1>
       </>
     )

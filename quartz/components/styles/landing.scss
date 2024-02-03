@@ -1,16 +1,27 @@
+.landing {
+  width: 100%;
+  max-width: 2048px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
 .landing-header {
   font-size: 48px;
-  margin: 64px 0 8px 0;
+  margin: 0px 0 8px 0;
   font-family: "Tiempos", sans-serif;
   font-weight: 700;
   line-height: normal;
 }
- 
+
 .page-subhead {
   font-size: 14px;
   margin-bottom: 48px;
   font-family: var(--codeFont);
   // text-transform: uppercase;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
 }
 
 /* ISSUE CARDS */
@@ -68,20 +79,20 @@
 }
 
 .card-1 {
-  background: #E74018;
+  background: #e74018;
   background-image: url("./static/red-garden.png");
   background-size: cover;
   overflow: visible;
 }
 
 .card-2 {
-  background: #D6A97D;
+  background: #d6a97d;
   background-image: url("./static/tan-garden.png");
   background-size: cover;
 }
 
 .card-3 {
-  background: #00A16C;
+  background: #00a16c;
   background-image: url("./static/dollar-garden.png");
   background-size: cover;
 }

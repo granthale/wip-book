@@ -1,3 +1,3 @@
 ---
-title: Energy
+title: §Energy
 ---

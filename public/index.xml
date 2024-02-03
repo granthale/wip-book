@@ -6,47 +6,23 @@
       <description>Last 10 notes on Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>How can LLMs be used to extend pre-existing flashcards (Anki or otherwise) to push our understanding and facilitate learning?</title>
-    <link>https://toolbox.com/How-can-LLMs-be-used-to-extend-pre-existing-flashcards-(Anki-or-otherwise)-to-push-our-understanding-and-facilitate-learning-q</link>
-    <guid>https://toolbox.com/How-can-LLMs-be-used-to-extend-pre-existing-flashcards-(Anki-or-otherwise)-to-push-our-understanding-and-facilitate-learning-q</guid>
-    <description>Hello there!.</description>
-    <pubDate>Sun, 28 Jan 2024 01:47:59 GMT</pubDate>
-  </item><item>
-    <title>How do we get people to examine what they know more often?</title>
-    <link>https://toolbox.com/How-do-we-get-people-to-examine-what-they-know-more-often-q</link>
-    <guid>https://toolbox.com/How-do-we-get-people-to-examine-what-they-know-more-often-q</guid>
-    <description></description>
-    <pubDate>Sun, 28 Jan 2024 01:50:21 GMT</pubDate>
-  </item><item>
-    <title>How to incentivize big-tech investments in Tools for Thought? Why are Tools for Thought important?</title>
-    <link>https://toolbox.com/How-to-incentivize-big-tech-investments-in-Tools-for-Thought-q-Why-are-Tools-for-Thought-important-q</link>
-    <guid>https://toolbox.com/How-to-incentivize-big-tech-investments-in-Tools-for-Thought-q-Why-are-Tools-for-Thought-important-q</guid>
-    <description></description>
-    <pubDate>Sun, 28 Jan 2024 01:50:02 GMT</pubDate>
-  </item><item>
     <title>About</title>
     <link>https://toolbox.com/about</link>
     <guid>https://toolbox.com/about</guid>
-    <description>This website was created with Quartz v4. Huge shoutout to Jacky Zhao. The code base is clean beyond measure. This website’s design was also inspired by Socratica.</description>
+    <description> Photos? Link to authors Potentially abstract our names away at some point, point towards this becoming a platform As for who we are, our names are Grant and Sam.</description>
     <pubDate>Sun, 28 Jan 2024 01:16:30 GMT</pubDate>
   </item><item>
-    <title>Energy</title>
+    <title>§Economics</title>
+    <link>https://toolbox.com/economics</link>
+    <guid>https://toolbox.com/economics</guid>
+    <description>Here’s a page to collect all topics related to: IMF &amp; World Bank Chinese State Capitalism International Monetary Policy Financialization US Dollar dominance .</description>
+    <pubDate>Thu, 25 Jan 2024 02:42:24 GMT</pubDate>
+  </item><item>
+    <title>§Energy</title>
     <link>https://toolbox.com/energy</link>
     <guid>https://toolbox.com/energy</guid>
     <description></description>
     <pubDate>Fri, 26 Jan 2024 03:05:38 GMT</pubDate>
-  </item><item>
-    <title>example</title>
-    <link>https://toolbox.com/example</link>
-    <guid>https://toolbox.com/example</guid>
-    <description>Here is an example page linked to in Quartz! Example h1 § Example h2 § Example h2 § Example h1 § Example h2 § Example h2 §.</description>
-    <pubDate>Thu, 25 Jan 2024 02:55:00 GMT</pubDate>
-  </item><item>
-    <title>Global Economy</title>
-    <link>https://toolbox.com/global-economy</link>
-    <guid>https://toolbox.com/global-economy</guid>
-    <description>Here’s a page to collect all topics related to: IMF &amp; World Bank Chinese State Capitalism International Monetary Policy Financialization US Dollar dominance .</description>
-    <pubDate>Thu, 25 Jan 2024 02:42:24 GMT</pubDate>
   </item><item>
     <title>Welcome to our garden.</title>
     <link>https://toolbox.com/</link>
@@ -54,16 +30,34 @@
     <description></description>
     <pubDate>Thu, 25 Jan 2024 02:34:09 GMT</pubDate>
   </item><item>
-    <title>Internet &amp; Tech History</title>
+    <title>§Internet and Computer History</title>
     <link>https://toolbox.com/tech-history</link>
     <guid>https://toolbox.com/tech-history</guid>
     <description>Dream Machine § “Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J.</description>
     <pubDate>Thu, 25 Jan 2024 02:34:53 GMT</pubDate>
   </item><item>
-    <title>Tools for Thought</title>
+    <title>technology is an idea or object that makes something easier</title>
+    <link>https://toolbox.com/technology-is-an-idea-or-object-that-makes-something-easier</link>
+    <guid>https://toolbox.com/technology-is-an-idea-or-object-that-makes-something-easier</guid>
+    <description>An average implicit definition of technology is something that involves electronics. And while that’s one manifestation, it’s far from the word’s main meaning.</description>
+    <pubDate>Sat, 03 Feb 2024 20:35:24 GMT</pubDate>
+  </item><item>
+    <title>technology is not just software</title>
+    <link>https://toolbox.com/technology-is-not-just-software</link>
+    <guid>https://toolbox.com/technology-is-not-just-software</guid>
+    <description>To define “technology” as information software is a disservice. See technology is an idea or object that makes something easier. Not only is it definitionally incorrect but it’s conceptually misleading.</description>
+    <pubDate>Sat, 03 Feb 2024 20:40:36 GMT</pubDate>
+  </item><item>
+    <title>tools for thought enable and unlock human comprehension and creativity</title>
+    <link>https://toolbox.com/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</link>
+    <guid>https://toolbox.com/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</guid>
+    <description>Tools for thought basically means what it says. It’s a technology that expands and improves our ability to work with and create ideas. To me, this raises the question of what the difference is between this and technology? See technology is an idea or object that makes something easier.</description>
+    <pubDate>Sat, 03 Feb 2024 20:34:26 GMT</pubDate>
+  </item><item>
+    <title>§Tools for Thought</title>
     <link>https://toolbox.com/tools-for-thought</link>
     <guid>https://toolbox.com/tools-for-thought</guid>
-    <description>Welcome to a page on using technology to think and learn more effectively. This section aims to answer three questions How can LLMs be used to extend pre-existing flashcards (Anki or otherwise) to push our understanding and facilitate learning? How to incentivize big-tech investments in Tools for Thought? Why are Tools for Thought important? How do we get people to examine what they know more often? See example.</description>
+    <description>Welcome to a page on using technology to think and learn more effectively. Let’s start with the basics: What is a tool for thought?.</description>
     <pubDate>Thu, 25 Jan 2024 02:43:18 GMT</pubDate>
   </item>
     </channel>

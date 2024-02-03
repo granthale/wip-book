@@ -3,10 +3,13 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import Landing from "./Landing"
+import Nav from "./Nav"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments } from "../util/path"
 import { visit } from "unist-util-visit"
 import { Root, Element } from "hast"
+import Search from "./Search"
+import RecentNotes from "./RecentNotes"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -119,12 +122,43 @@ export function renderPage(
   )
 
   const LandingComponent = Landing()
+  const SearchComponent = Search()
+  const RecentNotesComponent = RecentNotes()
 
   const doc = (
     <html>
       <Head {...componentData} />
       <body data-slug={slug}>
-        {slug === "index" && <LandingComponent {...componentData} />}
+        <div
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            justifyContent: "space-between",
+            alignItems: "center",
+            width: "100%",
+            maxWidth: "2048px",
+            margin: "0 auto",
+            padding: "0 15px",
+          }}
+        >
+          <a href="/">
+            <img
+              style={{ marginLeft: "20px", marginTop: "30px" }}
+              class="logo"
+              height="100px"
+              src="/static/seed.png"
+              alt="seed"
+            />
+          </a>
+          <span style={{ paddingRight: "70px" }}>
+            <SearchComponent {...componentData} />
+          </span>
+        </div>
+        {slug === "index" && (
+          <div>
+            <LandingComponent {...componentData} />
+          </div>
+        )}
         {slug !== "index" && (
           <div id="quartz-root" class="page">
             <Body {...componentData}>
