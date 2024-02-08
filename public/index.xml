@@ -6,59 +6,65 @@
       <description>Last 10 notes on Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>About</title>
-    <link>https://toolbox.com/about</link>
-    <guid>https://toolbox.com/about</guid>
-    <description> Photos? Link to authors Potentially abstract our names away at some point, point towards this becoming a platform As for who we are, our names are Grant and Sam.</description>
-    <pubDate>Sun, 28 Jan 2024 01:16:30 GMT</pubDate>
-  </item><item>
     <title>§Economics</title>
-    <link>https://toolbox.com/economics</link>
-    <guid>https://toolbox.com/economics</guid>
+    <link>https://toolbox.com/EntryPoint/economics</link>
+    <guid>https://toolbox.com/EntryPoint/economics</guid>
     <description>Here’s a page to collect all topics related to: IMF &amp; World Bank Chinese State Capitalism International Monetary Policy Financialization US Dollar dominance .</description>
     <pubDate>Thu, 25 Jan 2024 02:42:24 GMT</pubDate>
   </item><item>
     <title>§Energy</title>
-    <link>https://toolbox.com/energy</link>
-    <guid>https://toolbox.com/energy</guid>
+    <link>https://toolbox.com/EntryPoint/energy</link>
+    <guid>https://toolbox.com/EntryPoint/energy</guid>
     <description></description>
     <pubDate>Fri, 26 Jan 2024 03:05:38 GMT</pubDate>
+  </item><item>
+    <title>§Internet and Computer History</title>
+    <link>https://toolbox.com/EntryPoint/tech-history</link>
+    <guid>https://toolbox.com/EntryPoint/tech-history</guid>
+    <description>Dream Machine § “Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J.</description>
+    <pubDate>Thu, 25 Jan 2024 02:34:53 GMT</pubDate>
+  </item><item>
+    <title>§Tools for Thought</title>
+    <link>https://toolbox.com/EntryPoint/tools-for-thought</link>
+    <guid>https://toolbox.com/EntryPoint/tools-for-thought</guid>
+    <description>Welcome to a page on using technology to think and learn more effectively. Let’s start with the basics: What is a tool for thought?.</description>
+    <pubDate>Thu, 25 Jan 2024 02:43:18 GMT</pubDate>
+  </item><item>
+    <title>technology is an idea or object that makes something easier</title>
+    <link>https://toolbox.com/Notes/technology-is-an-idea-or-object-that-makes-something-easier</link>
+    <guid>https://toolbox.com/Notes/technology-is-an-idea-or-object-that-makes-something-easier</guid>
+    <description>An average implicit definition of technology is something that involves electronics. And while that’s one manifestation, it’s far from the word’s main meaning.</description>
+    <pubDate>Sat, 03 Feb 2024 20:35:24 GMT</pubDate>
+  </item><item>
+    <title>technology is not just software</title>
+    <link>https://toolbox.com/Notes/technology-is-not-just-software</link>
+    <guid>https://toolbox.com/Notes/technology-is-not-just-software</guid>
+    <description>To define “technology” as information software is a disservice. See technology is an idea or object that makes something easier. Not only is it definitionally incorrect but it’s conceptually misleading.</description>
+    <pubDate>Sat, 03 Feb 2024 20:40:36 GMT</pubDate>
+  </item><item>
+    <title>tools for thought enable and unlock human comprehension and creativity</title>
+    <link>https://toolbox.com/Notes/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</link>
+    <guid>https://toolbox.com/Notes/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</guid>
+    <description>Tools for thought basically means what it says. It’s a technology that expands and improves our ability to work with and create ideas. To me, this raises the question of what the difference is between this and technology? See technology is an idea or object that makes something easier.</description>
+    <pubDate>Sat, 03 Feb 2024 20:34:26 GMT</pubDate>
+  </item><item>
+    <title>Writing Example</title>
+    <link>https://toolbox.com/Writing/writing-example</link>
+    <guid>https://toolbox.com/Writing/writing-example</guid>
+    <description></description>
+    <pubDate>Thu, 08 Feb 2024 21:34:30 GMT</pubDate>
+  </item><item>
+    <title>About</title>
+    <link>https://toolbox.com/about</link>
+    <guid>https://toolbox.com/about</guid>
+    <description>Thesis § We believe that the chronological blog is an artifact of the past. Instead we believe in work in progress and keeping the garage door open. We don’t wait until an answer is fully grown.</description>
+    <pubDate>Sun, 28 Jan 2024 01:16:30 GMT</pubDate>
   </item><item>
     <title>Welcome to our garden.</title>
     <link>https://toolbox.com/</link>
     <guid>https://toolbox.com/</guid>
     <description></description>
     <pubDate>Thu, 25 Jan 2024 02:34:09 GMT</pubDate>
-  </item><item>
-    <title>§Internet and Computer History</title>
-    <link>https://toolbox.com/tech-history</link>
-    <guid>https://toolbox.com/tech-history</guid>
-    <description>Dream Machine § “Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J.</description>
-    <pubDate>Thu, 25 Jan 2024 02:34:53 GMT</pubDate>
-  </item><item>
-    <title>technology is an idea or object that makes something easier</title>
-    <link>https://toolbox.com/technology-is-an-idea-or-object-that-makes-something-easier</link>
-    <guid>https://toolbox.com/technology-is-an-idea-or-object-that-makes-something-easier</guid>
-    <description>An average implicit definition of technology is something that involves electronics. And while that’s one manifestation, it’s far from the word’s main meaning.</description>
-    <pubDate>Sat, 03 Feb 2024 20:35:24 GMT</pubDate>
-  </item><item>
-    <title>technology is not just software</title>
-    <link>https://toolbox.com/technology-is-not-just-software</link>
-    <guid>https://toolbox.com/technology-is-not-just-software</guid>
-    <description>To define “technology” as information software is a disservice. See technology is an idea or object that makes something easier. Not only is it definitionally incorrect but it’s conceptually misleading.</description>
-    <pubDate>Sat, 03 Feb 2024 20:40:36 GMT</pubDate>
-  </item><item>
-    <title>tools for thought enable and unlock human comprehension and creativity</title>
-    <link>https://toolbox.com/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</link>
-    <guid>https://toolbox.com/tools-for-thought-enable-and-unlock-human-comprehension-and-creativity</guid>
-    <description>Tools for thought basically means what it says. It’s a technology that expands and improves our ability to work with and create ideas. To me, this raises the question of what the difference is between this and technology? See technology is an idea or object that makes something easier.</description>
-    <pubDate>Sat, 03 Feb 2024 20:34:26 GMT</pubDate>
-  </item><item>
-    <title>§Tools for Thought</title>
-    <link>https://toolbox.com/tools-for-thought</link>
-    <guid>https://toolbox.com/tools-for-thought</guid>
-    <description>Welcome to a page on using technology to think and learn more effectively. Let’s start with the basics: What is a tool for thought?.</description>
-    <pubDate>Thu, 25 Jan 2024 02:43:18 GMT</pubDate>
   </item>
     </channel>
   </rss>

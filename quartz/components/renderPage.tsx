@@ -3,13 +3,11 @@ import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
 import Landing from "./Landing"
-import Nav from "./Nav"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments } from "../util/path"
 import { visit } from "unist-util-visit"
 import { Root, Element } from "hast"
 import Search from "./Search"
-import RecentNotes from "./RecentNotes"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -123,7 +121,6 @@ export function renderPage(
 
   const LandingComponent = Landing()
   const SearchComponent = Search()
-  const RecentNotesComponent = RecentNotes()
 
   const doc = (
     <html>
@@ -136,7 +133,7 @@ export function renderPage(
             justifyContent: "space-between",
             alignItems: "center",
             width: "100%",
-            maxWidth: "2048px",
+            maxWidth: "1480px",
             margin: "0 auto",
             padding: "0 15px",
           }}
@@ -150,15 +147,10 @@ export function renderPage(
               alt="seed"
             />
           </a>
-          <span style={{ paddingRight: "70px" }}>
-            <SearchComponent {...componentData} />
-          </span>
+          <SearchComponent {...componentData} />
         </div>
-        {slug === "index" && (
-          <div>
-            <LandingComponent {...componentData} />
-          </div>
-        )}
+        <br />
+        {slug === "index" && <LandingComponent {...componentData} />}
         {slug !== "index" && (
           <div id="quartz-root" class="page">
             <Body {...componentData}>

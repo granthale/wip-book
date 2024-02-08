@@ -135,14 +135,60 @@ hr.solid {
   }
 }
 
+.flexer {
+  display: flex;
+}
+
+.recent-notes {
+  min-width: 300px;
+  & > h3 {
+    margin: 0.5rem 0 0 0;
+    font-size: 1.25rem;
+    font-style: bold;
+  }
+
+  & > ul.recent-ul {
+    list-style: none;
+    margin-top: 1rem;
+    padding-left: 0;
+
+    & > li {
+      margin: 1rem 0;
+      .section > .desc > h3 > a {
+        background-color: transparent;
+      }
+
+      .section > .meta {
+        margin: 0 0 0.5rem 0;
+        opacity: 0.6;
+      }
+    }
+  }
+}
+
+.about {
+  padding-left: 50px;
+}
+
 @media screen and (max-width: 1200px) {
   .header-card {
     width: 300px;
   }
 
+  .recent-notes {
+    display: none;
+  }
+  .about {
+    padding-left: 0px;
+  }
+
   .content-container {
     width: 95%;
     margin: 0 auto;
+
+    & > .flexer {
+      display: block;
+    }
   }
 
   .issue-container {
