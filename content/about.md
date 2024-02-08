@@ -33,4 +33,13 @@ More importantly, check out whose ideas inspired this website:
 - Jackie Zhao
 - …
 
+In short, this website does two things.
+
+<ol>
+    <li>It provides a platform for displayed and deconstructed curiosities.</li>
+    <li>
+    It gives room for intellectuals and entrepreneurs to build and grow on knowledge in the style of a digital garden, and through this, come to think about anything and everything in a more sophisticated way.
+    </li>
+</ol>
+
 We’d love your input and feedback. Feel free to email us at XXX.

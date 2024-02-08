@@ -54,28 +54,17 @@ export default (() => {
     return (
       <div class="landing">
         <div class="content-container">
-          <div class="landing-header">Hello, welcome to our garden.</div>
+          {/* <div class="landing-header">Hello, welcome to our garden.</div>
           <p class="page-subhead">
             Check the <a href="/about">about section</a> to learn more.
-          </p>
+          </p> */}
           <div class="flexer">
             <div class="recent-notes">
               <RecentWritingComponent {...componentData} />
               <RecentNotesComponent {...componentData} />
             </div>
             <div class="about">
-              <p>
-                In short, this website does two things.
-                <ol>
-                  <li>It provides a platform for displayed and deconstructed curiosities.</li>
-                  <li>
-                    It gives room for intellectuals and entrepreneurs to build and grow on knowledge
-                    in the style of a digital garden, and through this, come to think about anything
-                    and everything in a more sophisticated way.
-                  </li>
-                </ol>
-              </p>
-              <hr class="solid"></hr>
+              {/* <hr class="solid"></hr> */}
               <br />
               <div class="issue-container">
                 {Object.values(CARDS)}

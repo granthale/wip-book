@@ -124,33 +124,37 @@ export function renderPage(
 
   const doc = (
     <html>
-      <Head {...componentData} />
+      <Head {...componentData} /> */
       <body data-slug={slug}>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-between",
-            alignItems: "center",
-            width: "100%",
-            maxWidth: "1480px",
-            margin: "0 auto",
-            padding: "0 15px",
-          }}
-        >
-          <a href="/">
-            <img
-              style={{ marginLeft: "20px", marginTop: "30px" }}
-              class="logo"
-              height="100px"
-              src="/static/seed.png"
-              alt="seed"
-            />
-          </a>
-          <SearchComponent {...componentData} />
-        </div>
-        <br />
-        {slug === "index" && <LandingComponent {...componentData} />}
+        {slug === "index" && (
+          <>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "row",
+                justifyContent: "space-between",
+                alignItems: "center",
+                width: "100%",
+                maxWidth: "1480px",
+                margin: "0 auto",
+                padding: "0 15px",
+              }}
+            >
+              <a href="/">
+                <img
+                  style={{ marginLeft: "20px", marginTop: "30px" }}
+                  class="logo"
+                  height="125px"
+                  src="/static/seed.png"
+                  alt="seed"
+                />
+              </a>
+              <SearchComponent {...componentData} />
+            </div>
+            <br />
+            <LandingComponent {...componentData} />
+          </>
+        )}
         {slug !== "index" && (
           <div id="quartz-root" class="page">
             <Body {...componentData}>
