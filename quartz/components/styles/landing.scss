@@ -72,12 +72,6 @@ hr.solid {
   /* Make card bigger on hover */
 }
 
-/* CARD COLORS */
-
-.card-coming {
-  background: #cfccc4;
-}
-
 .card-1 {
   background: #e74018;
   background-image: url("./static/red-garden.png");
@@ -109,24 +103,6 @@ hr.solid {
   background-size: cover;
   overflow: visible;
 }
-
-/* ANIMATIONS */
-
-//   @keyframes shake {
-
-//   0% {
-
-//   }
-
-//   50% {
-//       transform: rotate(-20deg);
-//   }
-
-//   100% {
-//     transform: rotate(-10deg);
-// }
-
-//   }
 
 /* media queries */
 @media screen and (max-width: 1400px) {

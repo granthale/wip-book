@@ -19,14 +19,14 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     // Component.PageTitle(),
-    // Component.Search(),
+    // Component.Spacer(),
+    Component.Search(),
     Component.DesktopOnly(Component.TableOfContents()),
     // Component.DesktopOnly(Component.Explorer()),
     // Component.DesktopOnly(Component.Graph()),
   ],
   right: [
     // Component.Search(),
-    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Graph()),
     Component.Backlinks(),
   ],

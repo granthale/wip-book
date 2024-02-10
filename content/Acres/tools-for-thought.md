@@ -1,5 +1,5 @@
 ---
-title: §Tools for Thought
+title: § Tools for Thought
 ---
 
 Welcome to a page on using [[technology is an idea or object that makes something easier|technology]] to think and learn more effectively.

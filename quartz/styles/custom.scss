@@ -1,22 +1,5 @@
 @use "./base.scss";
-
-// body {
-//   margin: 0;
-//   position: relative; /* Required for the pseudo-element to position correctly */
-//   z-index: 1;
-// }
-
-// body::before {
-//   content: "";
-//   position: absolute;
-//   top: 0;
-//   right: 0;
-//   bottom: 0;
-//   left: 0;
-//   background-image: url("/static/bg-garden.png");
-//   opacity: 0.25;
-//   z-index: -1; /* Places the image behind the content of the body */
-// }
+@use "./variables.scss" as *;
 
 @font-face {
   font-family: "Tiempos";
@@ -36,18 +19,17 @@
   border-radius: 5px;
   margin-top: 50px;
   padding: 25px;
-  border: 1px solid #5687D1;
-  background: #6096E6;
-
+  border: 1px solid #5687d1;
+  background: #6096e6;
 
   h1 {
-    color: #F9F5E9;
+    color: #f9f5e9;
     padding: 0px;
     margin: 0;
   }
 
   p {
-    color: #F9F5E9;
+    color: #f9f5e9;
     padding: 0;
     padding-top: 5px;
     margin: 0;

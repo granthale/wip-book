@@ -1,6 +1,5 @@
 ---
-title: §Economics
-tags: roots
+title: § Economics
 ---
 
 Here's a page to collect all topics related to:

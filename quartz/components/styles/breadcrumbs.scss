@@ -1,4 +1,5 @@
 .breadcrumb-container {
+  font-size: 1.25rem;
   margin: 0;
   margin-top: 0.75rem;
   padding: 0;
@@ -14,11 +15,8 @@
     margin-left: 0.5rem;
     line-height: normal;
   }
-
-  font-family: var(--codeFont);
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  text-transform: uppercase;
 }
