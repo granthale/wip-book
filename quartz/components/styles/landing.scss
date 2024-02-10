@@ -28,7 +28,7 @@ hr.solid {
 .issue-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2);
+  grid-template-rows: repeat(2, 1fr);
   gap: 12px;
 }
 
@@ -48,7 +48,7 @@ hr.solid {
 .header-card {
   width: 100px;
   margin: 1em 0 0;
-  display: inline-block;
+  display: inline-grid;
 }
 
 .card-title {
@@ -59,13 +59,13 @@ hr.solid {
   color: white;
 }
 
-.card-subhead {
-  font-size: 12px;
-  text-transform: uppercase;
-  font-family: monospace;
-  margin-top: 0;
-  color: white;
-}
+// .card-subhead {
+//   font-size: 12px;
+//   text-transform: uppercase;
+//   font-family: monospace;
+//   margin-top: 0;
+//   color: white;
+// }
 
 .card:hover {
   transform: scale(1.02);
@@ -97,11 +97,12 @@ hr.solid {
   background-size: cover;
 }
 
-.card-5 {
-  background: #eb856f;
-  background-image: url("./static/5-noise.png");
+.card-soil {
+  background: #8c6962;
+  background-image: url("./static/soil.webp");
   background-size: cover;
-  overflow: visible;
+  // grid-column: 1 / -1;
+  // height: 100px;
 }
 
 /* media queries */
@@ -116,6 +117,7 @@ hr.solid {
 }
 
 .recent-notes {
+  padding-right: 50px;
   min-width: 300px;
   & > h3 {
     margin: 0.5rem 0 0 0;
@@ -142,10 +144,6 @@ hr.solid {
   }
 }
 
-.about {
-  padding-left: 50px;
-}
-
 @media screen and (max-width: 1200px) {
   .header-card {
     width: 300px;
@@ -154,17 +152,10 @@ hr.solid {
   .recent-notes {
     display: none;
   }
-  .about {
-    padding-left: 0px;
-  }
 
   .content-container {
     width: 95%;
     margin: 0 auto;
-
-    & > .flexer {
-      display: block;
-    }
   }
 
   .issue-container {
