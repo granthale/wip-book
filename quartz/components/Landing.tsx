@@ -6,27 +6,27 @@ import { SimpleSlug } from "../util/path"
 export const TOTAL_CARDS = 5
 export const CARDS = {
   tools_for_thought: (
-    <a href={"Acres/tools-for-thought"} class="card card-1">
+    <a href={"Plots/tools-for-thought"} class="card card-1">
       <p class="card-title">Tools for Thought</p>
     </a>
   ),
   tech_history: (
-    <a href={"Acres/tech-history"} class="card card-2">
+    <a href={"Plots/tech-history"} class="card card-2">
       <p class="card-title">Internet & Computer History</p>
     </a>
   ),
-  economics: (
-    <a href={"Acres/economics"} class="card card-3">
-      <p class="card-title">Economics</p>
+  payment_systems: (
+    <a href={"Plots/payments"} class="card card-3">
+      <p class="card-title">Payments</p>
     </a>
   ),
   energy: (
-    <a href={"Acres/energy"} class="card card-4">
-      <p class="card-title">Energy</p>
+    <a href={"Plots/climate-n-energy"} class="card card-4">
+      <p class="card-title">Climate & Energy</p>
     </a>
   ),
   soil: (
-    <a href={"/Soil"} class="card card-soil">
+    <a href={"Soil"} class="card card-soil">
       <p className="card-title">Soil</p>
     </a>
   ),

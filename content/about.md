@@ -2,44 +2,44 @@
 title: About
 ---
 
-# Thesis
+## Thesis
 
-We believe that the chronological blog is an artifact of the past. Instead we believe in work in progress and keeping the garage door open. We don't wait until an answer is fully grown. We write above, below, and around powerful questions.
+In short, this website gives room for intellectuals and entrepreneurs to build and grow on knowledge in the style of a digital garden.
 
-# Gardening
+We believe that **the chronological blog is an artifact of the past**. Pieces and notes on this platform will continue to evolve over time, mirroring the similar process with ideas. It is very much work in progress and we love interaction with readers.
 
-We write by gardening. In each topic's case, a seed is planted. From that moment on, the questions generated become the sustaining nutrients. [include something about how this gives people context on what we're thinking].
+This approach reduces the barrier for you to hear from us and allows a more accurate representation of our thinking over time.
 
-These seeds will grow into saplings, and with enough patience into full-fledged trees which will take the form of different answers and perspectives.
+## Gardening
 
-# About Us
+How exactly does this work? We write by [gardening](https://maggieappleton.com/garden-history).
 
-As for who we are, our names are Grant and Sam. We're two good friends in the early stages of our life. We met in 2023 while backpacking through Taiwan, and are now back at work as Consultants in the US and Switzerland respectively. Despite busy professional lives, we're still trying to hone our ability to learn and think by asking and answering meaningful questions.
+- [ ] TODO
 
-# Purpose
+You'll notice that there are several types of notes:
 
-To a large degree, this platform is an attempt to map our cognitive models and thinking styles, whilst simultaneously answering meaningful questions. Here’s an example...
+1. Seed
+2. Budding
+3. Evergreen
 
-To an almost equal degree, the platform is also an attempt to help others think differently about certain topics, through the way topics are deconstructed by our garden of curiosities.
+## About Us
 
-In case you’re interested how our opinions and thinking have come about, click on our names to discover more about us.
+As for who we are, our names are Grant and Sam.
 
-# Influences
+We're two good friends in the early stages of life. We met in 2023 while backpacking through Taiwan, and are now back at work as Consultants in the US and Switzerland respectively.
 
-More importantly, check out whose ideas inspired this website:
+Despite busy professional lives, we're still trying to hone our ability to learn and think by asking and answering meaningful questions.
 
-- Maggie Appleton
-- Andy Matuschak
-- Jackie Zhao
-- …
+## Purpose
 
-In short, this website does two things.
+To a large degree, this website is an attempt to showcase our thinking in public. We are also hoping to help you gain easy entry points into topics that we find fascinating.
 
-<ol>
-    <li>It provides a platform for displayed and deconstructed curiosities.</li>
-    <li>
-    It gives room for intellectuals and entrepreneurs to build and grow on knowledge in the style of a digital garden, and through this, come to think about anything and everything in a more sophisticated way.
-    </li>
-</ol>
+In case you’re interested in how our opinions and thinking have come about, click on our names to discover more about us.
 
-We’d love your input and feedback. Feel free to email us at XXX.
+## Influences
+
+Equally as important: check out the people who have inspired this website:
+
+- [Andy Matuschak](https://andymatuschak.org/)
+- [Maggie Appleton](https://maggieappleton.com/)
+- [Jackie Zhao](https://jzhao.xyz/)

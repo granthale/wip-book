@@ -1,5 +1,5 @@
 ---
-title: § Internet and Computer History
+title: § Internet & Computer History
 ---
 
 # Dream Machine
