@@ -1,4 +1,4 @@
 ---
-title: "Mature"
+title: "Evergreen"
 description: "Full-fledged essay"
 ---
