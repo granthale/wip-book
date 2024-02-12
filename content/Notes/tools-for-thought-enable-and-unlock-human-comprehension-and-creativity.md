@@ -1,4 +1,7 @@
 ---
-title: tools for thought enable and unlock human comprehension and creativity
+title: tools for thought empower thinking & expression
 ---
-Tools for thought basically means what it says. It's a technology that expands and improves our ability to work with and create ideas. To me, this raises the question of what the difference is between this and technology? See [[technology is an idea or object that makes something easier]].
+Tools for thought is a fairly self-explanatory term. You could consider a writing device as a tool for thought. technology that expands and improves our ability to work with and create ideas.
+
+
+To me, this raises the question of what the difference is between this and technology? See [[technology is an idea or object that makes something easier]].
