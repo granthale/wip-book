@@ -28,6 +28,7 @@ export const CARDS = {
   soil: (
     <a href={"Soil"} class="card card-soil">
       <p className="card-title">Soil</p>
+      <p className="card-subhead">Experimental garden bed</p>
     </a>
   ),
 }
@@ -53,7 +54,8 @@ export default (() => {
         <div class="content-container">
           <div class="landing-header">Hello, welcome to our garden.</div>
           <p class="page-subhead">
-            Check the <a href="/about">about section</a> to learn more.
+            We write above, below, and beyond powerful ideas. Check the{" "}
+            <a href="/about">about section</a> to learn more.
           </p>
           <div class="flexer">
             <div class="recent-notes">

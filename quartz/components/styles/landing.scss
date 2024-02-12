@@ -59,13 +59,14 @@ hr.solid {
   color: white;
 }
 
-// .card-subhead {
-//   font-size: 12px;
-//   text-transform: uppercase;
-//   font-family: monospace;
-//   margin-top: 0;
-//   color: white;
-// }
+.card-subhead {
+  font-size: 18px;
+  font-family: "Tiempos", sans-serif;
+  // text-transform: uppercase;
+  // font-family: monospace;
+  // margin-top: 0;
+  color: white;
+}
 
 .card:hover {
   transform: scale(1.02);
@@ -99,7 +100,7 @@ hr.solid {
 
 .card-soil {
   background: #8c6962;
-  background-image: url("./static/soil.webp");
+  background-image: url("./static/soil.png");
   background-size: cover;
   // grid-column: 1 / -1;
   // height: 100px;
@@ -150,7 +151,8 @@ hr.solid {
   }
 
   .recent-notes {
-    display: none;
+    min-width: 250px;
+    max-width: 250px;
   }
 
   .content-container {
@@ -194,5 +196,16 @@ hr.solid {
     left: unset;
     top: 15px;
     right: 60px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .recent-notes {
+    // min-width: 300px;
+    // max-width: none;
+    display: none;
+  }
+  .flexer {
+    flex-direction: column-reverse;
   }
 }

@@ -124,7 +124,7 @@ export function renderPage(
 
   const doc = (
     <html>
-      <Head {...componentData} /> 
+      <Head {...componentData} />
       <body data-slug={slug}>
         {slug === "index" && (
           <>
