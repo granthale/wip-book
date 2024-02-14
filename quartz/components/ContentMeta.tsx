@@ -9,15 +9,16 @@ export default (() => {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
 
-      // if (fileData.dates) {
-      //   segments.push(formatDate(getDate(cfg, fileData)!))
-      // }
-
-      if (fileData.frontmatter?.authors) {
-        segments.push(`Written by ${fileData.frontmatter.authors.join(", ")}`)
+      if (fileData.dates) {
+        segments.push(`Planted ${formatDate(getDate(cfg, fileData)!)}`)
+        segments.push(`Last Watered ${formatDate(getDate(cfg, fileData)!)}`)
       }
 
-      segments.push(timeTaken)
+      // if (fileData.frontmatter?.authors) {
+      //   segments.push(`Written by ${fileData.frontmatter.authors.join(", ")}`)
+      // }
+
+      // segments.push(timeTaken)
       return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
     } else {
       return null
