@@ -17,7 +17,7 @@ We chose this format because **we believe that the chronological blog is an arti
 
 ## Who's we?
 
-Our names are [[Grant]] & [[Sam]]. We're two good friends in the early stages of life. We met in 2023 while backpacking through Taiwan, and are now back at work in the US and Switzerland respectively. Despite busy professional lives, we're continuing to learn and think by asking and answering dynamic questions. This website is the fruit of that pursuit.
+Our names are [[Authors/Grant]] & [[Authors/Sam]]. We're two good friends in the early stages of life. We met in 2023 while backpacking through Taiwan, and are now back at work in the US and Switzerland respectively. Despite busy professional lives, we're continuing to learn and think by asking and answering dynamic questions. This website is the fruit of that pursuit.
 
 ## Onwards and upwards!
 
@@ -26,4 +26,4 @@ Here's to powerful ideas, thoughtful writing, and good coffee! See ya around!
 <!-- > [!note]
 > This platform is very much a work in progress and we'd love to hear from you. Reach out at ==TODO== -->
 
-Before you leave, check out [the people who inspired this website](influences). They've expanded the way we think about learning and know that if you enjoy our garden you'll certainly enjoy theirs.
+Before you leave, check out [the people who inspired this website](influences). They've expanded the way we think about learning & writing. We know that if you enjoy our garden you'll certainly enjoy theirs.

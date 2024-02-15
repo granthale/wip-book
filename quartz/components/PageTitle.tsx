@@ -3,9 +3,9 @@ import { CARDS } from "./Landing"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
-  const title = cfg?.pageTitle ?? "Untitled Quartz"
+  // const title = cfg?.pageTitle ?? "Untitled Quartz"
   const baseDir = pathToRoot(fileData.slug!)
-  const card = CARDS[fileData.slug as keyof typeof CARDS]
+  // const card = CARDS[fileData.slug as keyof typeof CARDS]
   return (
     <>
       <a class={`page-title logo ${displayClass ?? ""}`} href={baseDir}>

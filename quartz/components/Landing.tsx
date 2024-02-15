@@ -2,6 +2,7 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import landingStyle from "./styles/landing.scss"
 import RecentNotes from "./RecentNotes"
 import { SimpleSlug } from "../util/path"
+import Search from "./Search"
 
 export const TOTAL_CARDS = 5
 export const CARDS = {
@@ -49,33 +50,49 @@ const RecentNotesComponent = RecentNotes({
 
 export default (() => {
   function LandingComponent(componentData: QuartzComponentProps) {
+    const SearchComponent = Search()
     return (
-      <div class="landing">
-        <div class="content-container">
-          <div class="landing-header">Hello, welcome to our garden.</div>
-          <p class="page-subhead">
-            We write above, below, and beyond powerful ideas. Check the{" "}
-            <a href="/about">about section</a> to learn more.
-          </p>
-          <div class="flexer">
-            <div class="recent-notes">
-              <br />
-              <RecentWritingComponent {...componentData} />
-              <RecentNotesComponent {...componentData} />
-            </div>
-            <div class="issue-container">
-              {Object.values(CARDS)}
-              {/* {Array(TOTAL_CARDS - Object.keys(CARDS).length)
+      <>
+        <div class="landing">
+          <div class="navbar">
+            <a href="/">
+              <img
+                class="logo"
+                style={{ marginTop: "30px" }}
+                height="125px"
+                src="/static/seed.png"
+                alt="seed"
+              />
+            </a>
+            <SearchComponent {...componentData} />
+          </div>
+          <br />
+          <div class="content-container">
+            <div class="landing-header">Hello, welcome to our garden.</div>
+            <p class="page-subhead">
+              We write above, below, and beyond powerful ideas. Check the{" "}
+              <a href="/about">about section</a> to learn more.
+            </p>
+            <div class="flexer">
+              <div class="recent-notes">
+                <br />
+                <RecentWritingComponent {...componentData} />
+                <RecentNotesComponent {...componentData} />
+              </div>
+              <div class="issue-container">
+                {Object.values(CARDS)}
+                {/* {Array(TOTAL_CARDS - Object.keys(CARDS).length)
                 .fill(0)
                 .map(() => (
                   <div class="card card-coming">
                     <p class="card-title">Coming Soon</p>
                   </div>
                 ))} */}
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      </>
     )
   }
 

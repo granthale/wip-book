@@ -16,6 +16,10 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date 
   return data.dates?.[cfg.defaultDateType]
 }
 
+export function getCreatedDate(data: QuartzPluginData): Date | undefined {
+  return data.dates?.["created"]
+}
+
 export function formatDate(d: Date): string {
   return d.toLocaleDateString("en-US", {
     year: "numeric",
