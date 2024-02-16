@@ -1,5 +1,6 @@
 ---
 title: Defining Technology
+author: Grant
 tag: seed
 ---
 

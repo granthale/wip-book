@@ -1,5 +1,6 @@
 ---
 title: Tools for Thought Empower Thinking & Expression
+author: Grant
 tag: seed
 ---
 Tools for thought is a fairly self-explanatory term. You could consider a writing device as a tool for thought. technology that expands and improves our ability to work with and create ideas.

@@ -1,6 +1,6 @@
 ---
 title: SRSxLLM
-authors: Grant
+author: Grant
 tags: seed
 ---
 

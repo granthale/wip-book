@@ -10,12 +10,19 @@ function createAuthorElement(author: string, link: string) {
   author = author.trim()
   link = link.trim()
   // if the link is present and not empty
-  if (link.replaceAll(" ", "") != "") {
-    const authorUrl = new URL(link)
+  if (author.replaceAll(" ", "") != "") {
+    // if (link.replaceAll(" ", "") != "") {
+    // const authorUrl = new URL(link)
 
     var image_element = null
-    if (authorUrl.hostname == "github.com") {
-      image_element = <img src={authorUrl + ".png"} alt="" />
+    // if (authorUrl.hostname == "github.com") {
+    // image_element = <img src={authorUrl + ".png"} alt="" />
+    // }
+
+    if (author === "Grant") {
+      link = "/Authors/grant"
+    } else if (author === "Sam") {
+      link = "/Authors/sam"
     }
 
     return (

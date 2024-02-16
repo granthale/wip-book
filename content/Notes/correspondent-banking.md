@@ -1,7 +1,6 @@
 ---
 title: Correspondent Banking
 author: Grant
-authorlink: https://granthale.com
 tags: seed
 ---
 How is one money sent from one person to the next? The answer, it depends. It depends on whether the person you are sending money to banked at the same place as you?

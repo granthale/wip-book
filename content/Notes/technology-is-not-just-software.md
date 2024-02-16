@@ -1,5 +1,6 @@
 ---
 title: Technology is Not Just Software
+author: Grant
 tag: seed
 ---
 
