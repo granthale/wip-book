@@ -3,6 +3,7 @@ import landingStyle from "./styles/landing.scss"
 import RecentNotes from "./RecentNotes"
 import { SimpleSlug } from "../util/path"
 import Search from "./Search"
+import Darkmode from "./Darkmode"
 
 export const TOTAL_CARDS = 5
 export const CARDS = {
@@ -51,6 +52,7 @@ const RecentNotesComponent = RecentNotes({
 export default (() => {
   function LandingComponent(componentData: QuartzComponentProps) {
     const SearchComponent = Search()
+    // const DarkmodeComponent = Darkmode()
     return (
       <>
         <div class="landing">

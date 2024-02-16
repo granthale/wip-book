@@ -72,7 +72,6 @@ declare module "vfile" {
       title: string
       tags: string[]
       authors?: string[]
-      issueNo: number
     }
   }
 }
