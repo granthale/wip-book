@@ -59,7 +59,7 @@ export default (() => {
     var authorsElements = []
 
     if (authors) {
-      var message = "This was written by"
+      var message = "Written by"
       for (var i of range(authors.length)) {
         var link = ""
         if (i < authorLinks?.length) {

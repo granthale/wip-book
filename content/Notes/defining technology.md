@@ -4,7 +4,7 @@ author: Grant
 tag: seed
 ---
 
-When someone invokes the word "technology", they're often implicitly referring to electronics. And while that's one illustration, it's far from the word's main meaning. See [[technology is not just software]].
+When someone invokes the word "technology", they're often implicitly referring to electronics. And while that's one illustration, it's far from the word's main meaning. See [[technology is not just software]]
 
 I like Miriam Webster's definition:
 

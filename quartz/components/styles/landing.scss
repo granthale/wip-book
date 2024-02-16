@@ -42,6 +42,7 @@ hr.solid {
 .issue-container {
   display: grid;
   grid-template-columns: repeat(3, 250px);
+  // grid-template-columns: repeat(4, 250px);
   grid-template-rows: repeat(2, 1fr);
   gap: 12px;
 }
@@ -170,7 +171,6 @@ hr.solid {
 @media screen and (max-width: 1200px) {
   .issue-container {
     grid-template-columns: repeat(1, minmax(250px, 1fr));
-    gap: 8px;
   }
   .navbar {
     max-width: 885px;
@@ -178,6 +178,11 @@ hr.solid {
 }
 
 @media screen and (max-width: 750px) {
+  // .issue-container {
+  //   grid-template-columns: repeat(1, minmax(250px, 1fr));
+  //   gap: 8px;
+  // }
+
   .recent-notes {
     display: none;
   }
