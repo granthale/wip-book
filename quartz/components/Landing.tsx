@@ -59,7 +59,7 @@ export default (() => {
               <img
                 class="logo"
                 style={{ marginTop: "30px" }}
-                height="125px"
+                height="180px"
                 src="/static/seed.png"
                 alt="seed"
               />
@@ -70,7 +70,7 @@ export default (() => {
           <div class="content-container">
             <div class="landing-header">Hello, welcome to our garden.</div>
             <p class="page-subhead">
-              We write above, below, and beyond powerful ideas. Check the{" "}
+              We write above, below, and beyond powerful ideas. Check out the{" "}
               <a href="/about">about section</a> to learn more.
             </p>
             <div class="flexer">

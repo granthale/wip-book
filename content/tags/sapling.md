@@ -1,4 +1,4 @@
 ---
 title: "Sapling"
-description: "Idea in progress"
+description: "Idea in progress. Revisited and revised."
 ---

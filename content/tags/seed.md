@@ -1,4 +1,4 @@
 ---
 title: "Seed"
-description: "Newly planted idea"
+description: "Newly planted ideas. Still very much WIP."
 ---

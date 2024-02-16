@@ -1,5 +1,5 @@
 ---
-title: technology is not just software
+title: Technology is Not Just Software
 tag: seed
 ---
 
