@@ -1,9 +1,8 @@
 ---
-title: SRSxLLM
 author: Grant
-tags: seed
+tags:
+  - seed
 ---
-
 Spaced repetition software (**SRS**) offers a powerful and simple way to reinforce learning but it takes time and energy to create questions to review, sometimes up to 2-3x longer than just reading the content itself. And while creating the cards is a way to grapple with material and our own epistemology, it's difficult to do a great job for two reasons:
 
 1. It's **difficult** to write good prompts

@@ -6,11 +6,23 @@
       <description>Last 10 notes on Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>About</title>
+    <link>https://toolbox.com/About</link>
+    <guid>https://toolbox.com/About</guid>
+    <description> “The skill of writing is to create a context in which other people can think” — Edwin Schlossberg Thesis § As you peruse, you’ll notice that this isn’t your average blog.</description>
+    <pubDate>Sun, 18 Feb 2024 14:20:19 GMT</pubDate>
+  </item><item>
+    <title>Influences</title>
+    <link>https://toolbox.com/Agricultural-Influences</link>
+    <guid>https://toolbox.com/Agricultural-Influences</guid>
+    <description>Consider these our agricultural stewards: Andy Matuschak Maggie Appleton Jackie Zhao .</description>
+    <pubDate>Sat, 17 Feb 2024 15:10:35 GMT</pubDate>
+  </item><item>
     <title>Grant Hale</title>
     <link>https://toolbox.com/Authors/grant</link>
     <guid>https://toolbox.com/Authors/grant</guid>
-    <description></description>
-    <pubDate>Mon, 12 Feb 2024 21:19:18 GMT</pubDate>
+    <description>Grant is a curious chap. You can find out more about him at his personal website.</description>
+    <pubDate>Sun, 18 Feb 2024 14:25:45 GMT</pubDate>
   </item><item>
     <title>Sam Bidwell</title>
     <link>https://toolbox.com/Authors/sam</link>
@@ -18,53 +30,41 @@
     <description></description>
     <pubDate>Mon, 12 Feb 2024 21:19:16 GMT</pubDate>
   </item><item>
+    <title>Correspondent Banking</title>
+    <link>https://toolbox.com/Notes/Correspondent-Banking</link>
+    <guid>https://toolbox.com/Notes/Correspondent-Banking</guid>
+    <description>How is money sent from one person to the next? It depends on whether the person you are sending money to banked at the same place as you? References § A Simple Explanation of How Money Moves Around the Banking System.</description>
+    <pubDate>Sat, 17 Feb 2024 14:22:39 GMT</pubDate>
+  </item><item>
+    <title>Defining Technology</title>
+    <link>https://toolbox.com/Notes/Defining-Technology</link>
+    <guid>https://toolbox.com/Notes/Defining-Technology</guid>
+    <description>When someone invokes the word “technology”, they’re often implicitly referring to electronics. And while that’s one illustration, it’s far from the word’s main meaning.</description>
+    <pubDate>Sat, 17 Feb 2024 14:26:35 GMT</pubDate>
+  </item><item>
     <title>SRSxLLM</title>
     <link>https://toolbox.com/Notes/SRSxLLM</link>
     <guid>https://toolbox.com/Notes/SRSxLLM</guid>
     <description>Spaced repetition software (SRS) offers a powerful and simple way to reinforce learning but it takes time and energy to create questions to review, sometimes up to 2-3x longer than just reading the content itself.</description>
-    <pubDate>Fri, 16 Feb 2024 18:04:26 GMT</pubDate>
+    <pubDate>Sat, 17 Feb 2024 14:26:33 GMT</pubDate>
   </item><item>
-    <title>Correspondent Banking</title>
-    <link>https://toolbox.com/Notes/correspondent-banking</link>
-    <guid>https://toolbox.com/Notes/correspondent-banking</guid>
-    <description>How is one money sent from one person to the next? The answer, it depends. It depends on whether the person you are sending money to banked at the same place as you? References § A Simple Explanation of How Money Moves Around the Banking System.</description>
-    <pubDate>Fri, 16 Feb 2024 18:04:16 GMT</pubDate>
+    <title>Technology is Not Just Software</title>
+    <link>https://toolbox.com/Notes/Technology-is-Not-Just-Software</link>
+    <guid>https://toolbox.com/Notes/Technology-is-Not-Just-Software</guid>
+    <description>To define “technology” as information software is a disservice. See Defining Technology. Damn straight! Not only is it definitionally incorrect but it’s conceptually misleading.</description>
+    <pubDate>Sat, 17 Feb 2024 14:26:20 GMT</pubDate>
+  </item><item>
+    <title>Tools for Thought Empower Thinking and Expression</title>
+    <link>https://toolbox.com/Notes/Tools-for-Thought-Empower-Thinking-and-Expression</link>
+    <guid>https://toolbox.com/Notes/Tools-for-Thought-Empower-Thinking-and-Expression</guid>
+    <description>Tools for thought is a fairly self-explanatory term. You could consider a writing device as a tool for thought. technology that expands and improves our ability to work with and create ideas.</description>
+    <pubDate>Sat, 17 Feb 2024 14:26:04 GMT</pubDate>
   </item><item>
     <title>§ Climate &amp; Energy</title>
     <link>https://toolbox.com/Plots/climate-n-energy</link>
     <guid>https://toolbox.com/Plots/climate-n-energy</guid>
-    <description>Reading in progress! Whole Earth Discipline .</description>
-    <pubDate>Fri, 16 Feb 2024 16:37:29 GMT</pubDate>
-  </item><item>
-    <title>§ Payments</title>
-    <link>https://toolbox.com/Plots/payments</link>
-    <guid>https://toolbox.com/Plots/payments</guid>
-    <description>We take sending and receiving money for granted. After all, we just have to open Zelle, tap “send”, and money magically enters someone else’s account.</description>
-    <pubDate>Fri, 16 Feb 2024 16:39:47 GMT</pubDate>
-  </item><item>
-    <title>§ Internet &amp; Computer History</title>
-    <link>https://toolbox.com/Plots/tech-history</link>
-    <guid>https://toolbox.com/Plots/tech-history</guid>
-    <description>Dream Machine § “Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J.</description>
-    <pubDate>Sun, 11 Feb 2024 00:52:50 GMT</pubDate>
-  </item><item>
-    <title>§ Tools for Thought</title>
-    <link>https://toolbox.com/Plots/tools-for-thought</link>
-    <guid>https://toolbox.com/Plots/tools-for-thought</guid>
-    <description>Welcome to a page on using technology to think and learn more effectively. Let’s start with the basics: What is a tool for thought? Three key questions § I’m focusing on answering three questions: How can LLMs enhance spaced repetition software? How can we solve the public goods problem when developing tools for thought? How do we nudge people to examine what they know instead of defaulting to consuming more content? .</description>
-    <pubDate>Thu, 15 Feb 2024 17:44:38 GMT</pubDate>
-  </item><item>
-    <title>About</title>
-    <link>https://toolbox.com/about</link>
-    <guid>https://toolbox.com/about</guid>
-    <description> “The skill of writing is to create a context in which other people can think” — Edwin Schlossberg Thesis § As you peruse, you’ll notice that this isn’t your average blog.</description>
-    <pubDate>Thu, 15 Feb 2024 17:45:10 GMT</pubDate>
-  </item><item>
-    <title>Welcome to our garden.</title>
-    <link>https://toolbox.com/</link>
-    <guid>https://toolbox.com/</guid>
-    <description></description>
-    <pubDate>Thu, 25 Jan 2024 02:34:09 GMT</pubDate>
+    <description>Reading in progress!.</description>
+    <pubDate>Sun, 18 Feb 2024 14:26:02 GMT</pubDate>
   </item>
     </channel>
   </rss>

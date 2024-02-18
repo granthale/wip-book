@@ -1,13 +1,11 @@
 ---
 title: § Tools for Thought
 ---
+Welcome to a page on using [[Defining Technology|technology]] to think and learn more effectively.
 
-Welcome to a page on using [[defining technology|technology]] to think and learn more effectively.
-
-Let's start with the basics: [[tools for thought empower thinking and expression|What is a tool for thought?]]
+Let's start with the basics: [[Tools for Thought Empower Thinking and Expression|What is a tool for thought?]]
 
 ## Three key questions
-
 I'm focusing on answering three questions:
 
 1. [[SRSxLLM|How can LLMs enhance spaced repetition software?]]

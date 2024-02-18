@@ -1,7 +1,6 @@
 ---
 title: § Internet & Computer History
 ---
-
 # Dream Machine
 
 "Behind every great revolution is a vision, and behind one of the greatest revolutions of our time—personal computing—is the vision of J. C. R. Licklider.

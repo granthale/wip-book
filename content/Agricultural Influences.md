@@ -1,7 +1,6 @@
 ---
 title: Influences
 ---
-
 Consider these our agricultural stewards:
 
 - [Andy Matuschak](https://andymatuschak.org/)

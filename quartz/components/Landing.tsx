@@ -35,12 +35,12 @@ export const CARDS = {
   ),
 }
 
-const RecentWritingComponent = RecentNotes({
-  title: "Recent Writing",
+const RecentPiecesComponent = RecentNotes({
+  title: "Recent Pieces",
   limit: 4,
   filter: (f) =>
-    f.slug!.startsWith("Writing/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-  linkToMore: "Writing/" as SimpleSlug,
+    f.slug!.startsWith("Pieces/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
+  linkToMore: "Pieces/" as SimpleSlug,
 })
 const RecentNotesComponent = RecentNotes({
   title: "Recent Notes",
@@ -56,20 +56,20 @@ export default (() => {
     return (
       <>
         <div class="landing">
-          <div class="navbar">
-            <a href="/">
-              <img
-                class="logo"
-                style={{ marginTop: "30px" }}
-                height="180px"
-                src="/static/seed.png"
-                alt="seed"
-              />
-            </a>
-            <SearchComponent {...componentData} />
-          </div>
-          <br />
           <div class="content-container">
+            <div class="navbar">
+              <a href="/">
+                <img
+                  class="logo"
+                  style={{ marginTop: "30px" }}
+                  height="180px"
+                  src="/static/seed.png"
+                  alt="seed"
+                />
+              </a>
+              <SearchComponent {...componentData} />
+            </div>
+            <br />
             <div class="landing-header">Hello, welcome to our garden.</div>
             <p class="page-subhead">
               We write above, below, and beyond powerful ideas. Check out the{" "}
@@ -78,7 +78,7 @@ export default (() => {
             <div class="flexer">
               <div class="recent-notes">
                 <br />
-                <RecentWritingComponent {...componentData} />
+                <RecentPiecesComponent {...componentData} />
                 <RecentNotesComponent {...componentData} />
               </div>
               <div class="issue-container">

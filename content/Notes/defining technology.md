@@ -1,10 +1,9 @@
 ---
-title: Defining Technology
 author: Grant
-tag: seed
+tags:
+  - seed
 ---
-
-When someone invokes the word "technology", they're often implicitly referring to electronics. And while that's one illustration, it's far from the word's main meaning. See [[technology is not just software]]
+When someone invokes the word "technology", they're often implicitly referring to electronics. And while that's one illustration, it's far from the word's main meaning. See [[Technology is Not Just Software]]
 
 I like Miriam Webster's definition:
 
@@ -18,4 +17,4 @@ More generally, for the purposes of this blog, a technology is:
 
 > Something that enables something to do something
 
-See [[tools for thought empower thinking and expression]]
+See [[Tools for Thought Empower Thinking and Expression]]
