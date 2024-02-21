@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "d953f8128646177d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0ae762c35d1cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f3a176452e7863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SRSxLLM.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a4aee517d8ec540",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78d9406c4da692a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f929e7348403c66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e919186f4d6038ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "atomic habits",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "2f104a6f59ed5620",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.50271224975586
+  },
+  "right": {
+    "id": "4c14fe70e16e0c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfb7186a3344cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a86ec64a78b7e216",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/SRSxLLM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "325e36e2dea5ef9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/SRSxLLM.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f24f86a4c96452f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a1eacfd12685f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/SRSxLLM.md"
+              }
+            }
+          },
+          {
+            "id": "c258cfa7eb0c3656",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "45a05b9b4a31a486",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notes/SRSxLLM.md"
+              }
+            }
+          },
+          {
+            "id": "ec698afd8659327a",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": false,
+      "random-note:Open random note": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "daily-notes:Open today's daily note": true,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b8f3a176452e7863",
+  "lastOpenFiles": [
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
+    "Notes/SRSxLLM.md",
+    "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
+    "DRAFTS_GRANT/Desirable features for automated Anki flashcards.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "DRAFTS_GRANT/Slow software.md",
+    "DRAFTS_SAM",
+    "Notes/Technology is Not Just Software.md",
+    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
+    "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS_GRANT/Our learning baseline is set too low.md",
+    "Notes/Defining Technology.md",
+    "Notes/Tools for Thought Empower Thinking and Expression.md",
+    "DRAFTS/The right amount of friction is good.md",
+    "DRAFTS.md",
+    "DRAFTS_GRANT",
+    "our learning baseline is set much too low.md",
+    "Soil/What is Web3?.md",
+    "Notes/What is Web3?.md",
+    "Notes/Canvas.canvas",
+    "Notes/Test.md",
+    "Untitled.canvas",
+    "Plots/climate-n-energy.md",
+    "Authors/grant.md",
+    "About.md",
+    "images/growth.png",
+    "Pieces/example.md",
+    "tags/sapling.md",
+    "tags/seed.md",
+    "Powerful Ideas.md",
+    "Agricultural Influences.md",
+    "obsidian-templates",
+    "REFERENCE/READWISE/Tweets",
+    "REFERENCE/READWISE/Articles",
+    "REFERENCE/READWISE/Books",
+    "REFERENCE/READWISE",
+    "REFERENCE",
+    "REFERENCE/IMAGES/how to create a good habit.png",
+    "REFERENCE/IMAGES/how to break a bad habit.png",
+    "REFERENCE/NOTES/MOVIES",
+    "REFERENCE/IMAGES/iconic-addition-multiplication.png",
+    "REFERENCE/IMAGES/triangle-area.png",
+    "REFERENCE/IMAGES/towards-intuitive-understanding.png",
+    "DAILY/2024/February",
+    "REFERENCE/IMAGES/Search Inside Yourself.jpeg",
+    "REFERENCE/IMAGES/stability-plasticity.png",
+    "REFERENCE/IMAGES/path-to-project.png",
+    "REFERENCE/IMAGES/currency_pegs.png",
+    "REFERENCE/cognitive biases.canvas",
+    "INBOX/US History.canvas",
+    "Untitled 1.canvas"
+  ]
+}

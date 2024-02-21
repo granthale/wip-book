@@ -1,6 +1,0 @@
----
-author: Sam
-tags:
-  - seed
----
-

@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "cfe478a16d9602ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "81be2a6afff30810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93146db7272354a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REFERENCE/keep the momentum going! Asia was only the start.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d302357ac5e98b58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d3eee1e5079f14e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac895a4e56b07589",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a8f3df58ce9b84c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3c5e75a93c220905",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Momentum",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "88742c2e0772b6c0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ec8f50921badb9ad",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d5c2003219bb7236",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a1ec5f0a1d617dbc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "05c802ea794b5563",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8240cafdfbe0e1a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "405e36ad556ad357",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "87d960ff61d91724",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "dbfolder:Create a new database table": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4a8f3df58ce9b84c",
+  "lastOpenFiles": [
+    "REFERENCE/keep the momentum going! Asia was only the start.md",
+    "REFERENCE/READWISE/Articles/In Praise of Slowing Down.md",
+    "DAILY/2023/December/2023-12-27.md",
+    "⭐️/🔍/🔍 Thematic Direction.md",
+    "⭐️/🔍/🔍🔍🔍🔍.md",
+    "DAILY/2024/January/2024-01-07.md",
+    "DAILY/2024/January/2024-01-06.md",
+    "08 - READWISE/Books/The Art of Learning.md",
+    "01 - DAILY/2023/December/2023-12-30.md",
+    "⭐️/❓Questions.md",
+    "03 - REFERENCE/🎒 Asia Takeaways.md",
+    "⭐️/🎒 Asia.md",
+    "01 - DAILY/2023/December/2023-12-28.md",
+    "01 - DAILY/2023/December/2023-12-27.md",
+    "01 - DAILY/2023/December/2023-12-26.md",
+    "❓Questions.md",
+    "01 - DAILY/2023/December/2023-12-26 2.md",
+    "Things I'm noticing returning to the US.md",
+    "friendship topics.md",
+    "05 - INBOX/set time to walk somewhere interesting alone.md",
+    "08 - READWISE/Articles/What Do Poor People Think About Poverty.md",
+    "08 - READWISE/Articles/How the American economy did under Donald Trump.md",
+    "08 - READWISE/Articles/A healthy, nutritious diet is much more expensive than a calorie sufficient one. As a result, three billion people cannot afford a healthy diet..md",
+    "prioritize people positively.md",
+    "01 - DAILY/2023/December/2023-12-25.md",
+    "01 - DAILY/2023/December/2023-12-24.md",
+    "03 - REFERENCE/IMAGES/inertia-spectrum.png",
+    "03 - REFERENCE/IMAGES/UIUC-class-hierarchy.png",
+    "03 - REFERENCE/octopus.png",
+    "03 - REFERENCE/yearning-hierarchy.png",
+    "03 - REFERENCE/progress.png",
+    "INBOX/US History.canvas",
+    "NOTES/NOTION/Writing/Writing/Top of my To do list 95c6cf4619a54955a2791d0f51276314/Screenshot_2023-08-12_at_3.23.31_PM.png",
+    "NOTES/NOTION/Writing/Writing/Top of my To do list 95c6cf4619a54955a2791d0f51276314/FsASBdoakAE8mVu.png",
+    "NOTES/NOTION/Writing/Writing/On Human Condition 88ac8e0160654bc3a52dabca27891ea4/17.png",
+    "NOTES/NOTION/Writing/Writing/On Digital Nomadism 2f8a25b01f6b4fe7be0b4a32521aeac7/San Francisco fdee0f50362f4e359fbed7948d40bd0a/San Francisco (1) 05b7b00bc4ba4a118ad02e3e4a714a13/People eee02012f59a4c6fa9f6f4b66195b37f_all.csv",
+    "NOTES/NOTION/Writing/Writing/On Learning a64085b05b9544ec89585911ba40330e/Screenshot_2023-08-31_at_12.57.48_PM.png",
+    "NOTES/NOTION/Writing/Writing/Other 054c497fbc11421eb219b4fedc1f9665/Keep Walking the Path 4fa8ac06ba694d829232edc08e04f586/Screenshot_2023-05-20_at_12.03.56_PM.png",
+    "NOTES/NOTION/Writing/Writing/On Digital Nomadism 2f8a25b01f6b4fe7be0b4a32521aeac7/San Francisco fdee0f50362f4e359fbed7948d40bd0a/San Francisco (1) 05b7b00bc4ba4a118ad02e3e4a714a13/People eee02012f59a4c6fa9f6f4b66195b37f.csv",
+    "REFERENCE/cognitive biases.canvas",
+    "US History.canvas"
+  ]
+}

@@ -58,14 +58,8 @@ export default (() => {
         <div class="landing">
           <div class="content-container">
             <div class="navbar">
-              <a href="/">
-                <img
-                  class="logo"
-                  style={{ marginTop: "30px" }}
-                  height="180px"
-                  src="/static/seed.png"
-                  alt="seed"
-                />
+              <a href="/" class="page-title">
+                <img height="180px" src="static/seed.png" alt="seed" />
               </a>
               <SearchComponent {...componentData} />
             </div>

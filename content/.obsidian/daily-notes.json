@@ -1,0 +1,6 @@
+{
+  "folder": "DAILY",
+  "template": "MISC/TEMPLATES/DAILY NOTE",
+  "autorun": false,
+  "format": "YYYY/MMMM/YYYY-MM-DD"
+}

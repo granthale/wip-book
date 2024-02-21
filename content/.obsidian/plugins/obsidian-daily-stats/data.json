@@ -1,0 +1,103 @@
+{
+  "dayCounts": {
+    "2024/1/4": 199,
+    "2024/1/5": 771,
+    "2024/1/6": 245,
+    "2024/1/7": 130,
+    "2024/1/8": 9,
+    "2024/1/9": 346,
+    "2024/1/10": 14,
+    "2024/1/11": 505,
+    "2024/1/12": 129,
+    "2024/1/13": 293,
+    "2024/1/14": 406,
+    "2024/1/15": 552,
+    "2024/1/16": 698,
+    "2024/1/17": 256,
+    "2024/1/18": 56,
+    "2024/1/19": 1,
+    "2024/1/20": 352
+  },
+  "todaysWordCount": {
+    "Soil/What is Web3?.md": {
+      "initial": 3,
+      "current": 172
+    },
+    "Notes/SRSxLLM.md": {
+      "initial": 226,
+      "current": 339
+    },
+    "Notes/Our learning baseline is set too low.md": {
+      "initial": 166,
+      "current": 170
+    },
+    "Notes/Untitled.md": {
+      "initial": 1,
+      "current": 4
+    },
+    "Notes/Reading produces satisfaction, regardless of how well we understand.md": {
+      "initial": 206,
+      "current": 206
+    },
+    "Notes/Effective habits for spaced repetition review.md": {
+      "initial": 1,
+      "current": 4
+    },
+    "Notes/reading produces satisfaction, regardless of how well we understand.md": {
+      "initial": 206,
+      "current": 205
+    },
+    "Notes/Technology is Not Just Software.md": {
+      "initial": 49,
+      "current": 48
+    },
+    "The right amount of friction is good.md": {
+      "initial": 0,
+      "current": 0
+    },
+    "Notes/The right amount of friction is good.md": {
+      "initial": 0,
+      "current": 4
+    },
+    "Notes/Slow software.md": {
+      "initial": 1,
+      "current": 4
+    },
+    "DRAFTS/Slow software.md": {
+      "initial": 5,
+      "current": 42
+    },
+    "Desirable features for automated Anki flashcards.md": {
+      "initial": 298,
+      "current": 301
+    },
+    "Notes/Correspondent Banking.md": {
+      "initial": 61,
+      "current": 63
+    },
+    "DRAFTS/Correspondent Banking.md": {
+      "initial": 61,
+      "current": 61
+    },
+    "DRAFTS/Desirable features for automated Anki flashcards.md": {
+      "initial": 301,
+      "current": 304
+    },
+    "DRAFTS/Prompt Techniques for GPT.md": {
+      "initial": 1,
+      "current": 4
+    },
+    "DRAFTS/Prompt Engineering for LearnOS.md": {
+      "initial": 4,
+      "current": 4
+    },
+    "DRAFTS_GRANT/Prompt Engineering for LearnOS.md": {
+      "initial": 4,
+      "current": 4
+    },
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md": {
+      "initial": 1,
+      "current": 6
+    }
+  }
+}

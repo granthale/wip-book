@@ -9,6 +9,7 @@
 }
 
 .navbar {
+  margin-top: 32px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -155,12 +156,11 @@ hr.solid {
 
 @media screen and (max-width: 1510px) {
   .landing {
-    max-width: 865px;
+    max-width: 750px;
   }
 
   .navbar {
-    max-width: 865px;
-  }
+    position: initial;  }
 
   .issue-container {
     grid-template-columns: repeat(2, 250px);
