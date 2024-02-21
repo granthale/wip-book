@@ -8,6 +8,6 @@ Let's start with the basics: [[Tools for Thought Empower Thinking and Expression
 ## Three key questions
 I'm focusing on answering three questions:
 
-1. [[SRSxLLM|How can LLMs enhance spaced repetition software?]]
+1. [[How can LLMs enhance spaced repetition software?]]
 2. How can we solve the public goods problem when developing tools for thought?
 3. How do we nudge people to examine what they know instead of defaulting to consuming more content?

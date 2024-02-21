@@ -30,41 +30,41 @@
     <description></description>
     <pubDate>Mon, 12 Feb 2024 21:19:16 GMT</pubDate>
   </item><item>
-    <title>Correspondent Banking</title>
-    <link>https://toolbox.com/NOTES/Correspondent-Banking</link>
-    <guid>https://toolbox.com/NOTES/Correspondent-Banking</guid>
-    <description>How is money sent from one person to the next? It depends on whether the person you are sending money to banked at the same place as you? References § A Simple Explanation of How Money Moves Around the Banking System.</description>
-    <pubDate>Sat, 17 Feb 2024 14:22:39 GMT</pubDate>
-  </item><item>
     <title>Defining Technology</title>
-    <link>https://toolbox.com/NOTES/Defining-Technology</link>
-    <guid>https://toolbox.com/NOTES/Defining-Technology</guid>
+    <link>https://toolbox.com/Notes/Defining-Technology</link>
+    <guid>https://toolbox.com/Notes/Defining-Technology</guid>
     <description>When we invoke the word “technology”, we’re often implicitly referring to electronics. And while that’s one illustration, it’s far from the word’s main meaning.</description>
     <pubDate>Mon, 19 Feb 2024 13:35:20 GMT</pubDate>
   </item><item>
-    <title>SRSxLLM</title>
-    <link>https://toolbox.com/NOTES/SRSxLLM</link>
-    <guid>https://toolbox.com/NOTES/SRSxLLM</guid>
+    <title>Desirable features for automated flashcards</title>
+    <link>https://toolbox.com/Notes/Desirable-features-for-automated-flashcards</link>
+    <guid>https://toolbox.com/Notes/Desirable-features-for-automated-flashcards</guid>
+    <description>This note collects ideas that LLMs could help implement. From me § To “lay down signposts” while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text I find this to be particularly useful when reading about new concepts.</description>
+    <pubDate>Wed, 21 Feb 2024 21:30:48 GMT</pubDate>
+  </item><item>
+    <title>How can LLMs enhance spaced repetition software?</title>
+    <link>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</link>
+    <guid>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</guid>
     <description>Spaced repetition software (SRS) is a powerful way to reinforce what we know. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself.</description>
-    <pubDate>Wed, 21 Feb 2024 00:13:17 GMT</pubDate>
+    <pubDate>Wed, 21 Feb 2024 21:35:02 GMT</pubDate>
+  </item><item>
+    <title>Prompt writing principles for flashcards</title>
+    <link>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</link>
+    <guid>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</guid>
+    <description>Andy’s original list § Prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications I would add § Concise Encoded from multiple angles Causes Explanations Generate an example Connect / relate ideas Similarities / differences Significance / effects / so-what Revised using Bloom’s Taxonomy Special use cases: § Application prompts Switch question each time Make sure that Unusual Applications by Andy Salience prompts —How to write good prompts A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.</description>
+    <pubDate>Wed, 21 Feb 2024 21:39:05 GMT</pubDate>
   </item><item>
     <title>Technology is Not Just Software</title>
-    <link>https://toolbox.com/NOTES/Technology-is-Not-Just-Software</link>
-    <guid>https://toolbox.com/NOTES/Technology-is-Not-Just-Software</guid>
+    <link>https://toolbox.com/Notes/Technology-is-Not-Just-Software</link>
+    <guid>https://toolbox.com/Notes/Technology-is-Not-Just-Software</guid>
     <description>To define “technology” as information software is a disservice. See Defining Technology. Not only is it definitionally incorrect but it’s conceptually misleading.</description>
     <pubDate>Wed, 21 Feb 2024 00:01:12 GMT</pubDate>
   </item><item>
     <title>Tools for Thought Empower Thinking and Expression</title>
-    <link>https://toolbox.com/NOTES/Tools-for-Thought-Empower-Thinking-and-Expression</link>
-    <guid>https://toolbox.com/NOTES/Tools-for-Thought-Empower-Thinking-and-Expression</guid>
+    <link>https://toolbox.com/Notes/Tools-for-Thought-Empower-Thinking-and-Expression</link>
+    <guid>https://toolbox.com/Notes/Tools-for-Thought-Empower-Thinking-and-Expression</guid>
     <description>Tools for thought is a fairly self-explanatory term. You could consider a writing device as a tool for thought. technology that expands and improves our ability to work with and create ideas.</description>
     <pubDate>Sat, 17 Feb 2024 14:26:04 GMT</pubDate>
-  </item><item>
-    <title>§ Climate &amp; Energy</title>
-    <link>https://toolbox.com/Plots/climate-n-energy</link>
-    <guid>https://toolbox.com/Plots/climate-n-energy</guid>
-    <description>Reading in progress!.</description>
-    <pubDate>Sun, 18 Feb 2024 14:26:02 GMT</pubDate>
   </item>
     </channel>
   </rss>

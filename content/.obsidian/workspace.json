@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c0ae762c35d1cb8",
+        "id": "263a9e5ce018e7ab",
         "type": "tabs",
         "children": [
           {
-            "id": "b8f3a176452e7863",
+            "id": "6ec529cd2e589dd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SRSxLLM.md",
+                "file": "Notes/Prompt writing principles for flashcards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SRSxLLM.md",
+                "file": "Notes/Prompt writing principles for flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SRSxLLM.md",
+                "file": "Notes/Prompt writing principles for flashcards.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SRSxLLM.md"
+                "file": "Notes/Prompt writing principles for flashcards.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/SRSxLLM.md"
+                "file": "Notes/Prompt writing principles for flashcards.md"
               }
             }
           },
@@ -180,10 +180,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b8f3a176452e7863",
+  "active": "6ec529cd2e589dd6",
   "lastOpenFiles": [
+    "Notes/Bloom's Taxonomy.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/How can LLMs enhance spaced repetition software?.md",
+    "Notes/Desirable features for automated flashcards.md",
+    "Plots/tools-for-thought.md",
+    "Plots/climate-n-energy.md",
+    "Plots/payments.md",
+    "Plots/tech-history.md",
+    "About.md",
     "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
-    "Notes/SRSxLLM.md",
     "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
     "DRAFTS_GRANT/Desirable features for automated Anki flashcards.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
@@ -204,15 +212,7 @@
     "Notes/Canvas.canvas",
     "Notes/Test.md",
     "Untitled.canvas",
-    "Plots/climate-n-energy.md",
-    "Authors/grant.md",
-    "About.md",
     "images/growth.png",
-    "Pieces/example.md",
-    "tags/sapling.md",
-    "tags/seed.md",
-    "Powerful Ideas.md",
-    "Agricultural Influences.md",
     "obsidian-templates",
     "REFERENCE/READWISE/Tweets",
     "REFERENCE/READWISE/Articles",

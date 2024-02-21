@@ -16,88 +16,45 @@
     "2024/1/17": 256,
     "2024/1/18": 56,
     "2024/1/19": 1,
-    "2024/1/20": 352
+    "2024/1/20": 352,
+    "2024/1/21": 214
   },
   "todaysWordCount": {
-    "Soil/What is Web3?.md": {
-      "initial": 3,
-      "current": 172
-    },
     "Notes/SRSxLLM.md": {
-      "initial": 226,
-      "current": 339
-    },
-    "Notes/Our learning baseline is set too low.md": {
-      "initial": 166,
-      "current": 170
-    },
-    "Notes/Untitled.md": {
-      "initial": 1,
-      "current": 4
-    },
-    "Notes/Reading produces satisfaction, regardless of how well we understand.md": {
-      "initial": 206,
-      "current": 206
-    },
-    "Notes/Effective habits for spaced repetition review.md": {
-      "initial": 1,
-      "current": 4
-    },
-    "Notes/reading produces satisfaction, regardless of how well we understand.md": {
-      "initial": 206,
-      "current": 205
-    },
-    "Notes/Technology is Not Just Software.md": {
-      "initial": 49,
-      "current": 48
-    },
-    "The right amount of friction is good.md": {
-      "initial": 0,
-      "current": 0
-    },
-    "Notes/The right amount of friction is good.md": {
-      "initial": 0,
-      "current": 4
-    },
-    "Notes/Slow software.md": {
-      "initial": 1,
-      "current": 4
-    },
-    "DRAFTS/Slow software.md": {
-      "initial": 5,
-      "current": 42
+      "initial": 339,
+      "current": 279
     },
     "Desirable features for automated Anki flashcards.md": {
-      "initial": 298,
-      "current": 301
+      "initial": 182,
+      "current": 308
     },
-    "Notes/Correspondent Banking.md": {
-      "initial": 61,
-      "current": 63
+    "Plots/tools-for-thought.md": {
+      "initial": 88,
+      "current": 88
     },
-    "DRAFTS/Correspondent Banking.md": {
-      "initial": 61,
-      "current": 61
+    "Notes/How can LLMs enhance spaced repetition software?.md": {
+      "initial": 279,
+      "current": 293
     },
-    "DRAFTS/Desirable features for automated Anki flashcards.md": {
+    "Notes/Desirable features for automated Anki flashcards.md": {
+      "initial": 308,
+      "current": 300
+    },
+    "Notes/Desirable features for automated flashcards.md": {
       "initial": 301,
-      "current": 304
+      "current": 375
     },
-    "DRAFTS/Prompt Techniques for GPT.md": {
-      "initial": 1,
-      "current": 4
+    "Notes/Untitled.md": {
+      "initial": 165,
+      "current": 165
     },
-    "DRAFTS/Prompt Engineering for LearnOS.md": {
-      "initial": 4,
-      "current": 4
+    "Notes/Prompt writing principles for flashcards.md": {
+      "initial": 165,
+      "current": 155
     },
-    "DRAFTS_GRANT/Prompt Engineering for LearnOS.md": {
-      "initial": 4,
-      "current": 4
-    },
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md": {
-      "initial": 1,
-      "current": 6
+    "Bloom's Taxonomy.md": {
+      "initial": 11,
+      "current": 11
     }
   }
 }
