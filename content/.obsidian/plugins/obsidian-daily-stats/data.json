@@ -17,7 +17,7 @@
     "2024/1/18": 56,
     "2024/1/19": 1,
     "2024/1/20": 352,
-    "2024/1/21": 214
+    "2024/1/21": 253
   },
   "todaysWordCount": {
     "Notes/SRSxLLM.md": {
@@ -42,7 +42,7 @@
     },
     "Notes/Desirable features for automated flashcards.md": {
       "initial": 301,
-      "current": 375
+      "current": 390
     },
     "Notes/Untitled.md": {
       "initial": 165,
@@ -50,11 +50,23 @@
     },
     "Notes/Prompt writing principles for flashcards.md": {
       "initial": 165,
-      "current": 155
+      "current": 157
     },
     "Bloom's Taxonomy.md": {
       "initial": 11,
       "current": 11
+    },
+    "take existing Anki prompts and further develop them.md": {
+      "initial": 1,
+      "current": 22
+    },
+    "DRAFTS_GRANT/take existing Anki prompts and further develop them.md": {
+      "initial": 23,
+      "current": 24
+    },
+    "Notes/Bloom's Taxonomy.md": {
+      "initial": 11,
+      "current": 13
     }
   }
 }

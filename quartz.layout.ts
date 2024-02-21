@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     // Component.Search(),
-    Component.DesktopOnly(Component.Graph()),
+    Component.Graph(),
     Component.Backlinks(),
   ],
 }

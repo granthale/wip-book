@@ -1,3 +1,6 @@
+---
+author: Grant
+---
 ## **[Andy's original list](https://andymatuschak.org/prompts/)**
 
 **Prompts should be:**
