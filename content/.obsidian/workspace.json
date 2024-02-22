@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d126377e3391c71e",
+        "id": "c48c4c3273a32a47",
         "type": "tabs",
         "children": [
           {
-            "id": "d99fffb9f548f9ce",
+            "id": "f720a8eb329f14f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+                "file": "Notes/Desirable features for automating flashcard creation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+                "file": "Notes/Desirable features for automating flashcard creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+                "file": "Notes/Desirable features for automating flashcard creation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
+                "file": "Notes/Desirable features for automating flashcard creation.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
+                "file": "Notes/Desirable features for automating flashcard creation.md"
               }
             }
           },
@@ -181,36 +180,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d99fffb9f548f9ce",
+  "active": "f720a8eb329f14f2",
   "lastOpenFiles": [
-    "Notes/Automate exploring the frontier of knowledge.md",
+    "Notes/Automate learning with Anki.md",
+    "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
+    "DRAFTS_GRANT/Our learning baseline is set too low.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-    "Notes/Desirable features for automating flashcard creation.md",
     "DRAFTS_GRANT/Slow software.md",
-    "Notes/How can LLMs enhance spaced repetition software?.md",
-    "Notes/Bloom's Taxonomy.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/Rephrase and build on existing flashcards.md",
     "Notes/Prompt writing principles for flashcards.md",
+    "Notes/Bloom's Taxonomy.md",
+    "Notes/How can LLMs enhance spaced repetition software?.md",
+    "Andy's list of prompt writing principles.md",
     "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
     "Plots/tools-for-thought.md",
     "Plots/climate-n-energy.md",
     "Plots/payments.md",
     "Plots/tech-history.md",
     "About.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
     "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
     "DRAFTS_GRANT/Desirable features for automated Anki flashcards.md",
-    "DRAFTS_GRANT/Correspondent Banking.md",
     "DRAFTS_SAM",
     "Notes/Technology is Not Just Software.md",
-    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
-    "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/Our learning baseline is set too low.md",
     "Notes/Defining Technology.md",
     "Notes/Tools for Thought Empower Thinking and Expression.md",
     "DRAFTS/The right amount of friction is good.md",
-    "DRAFTS.md",
     "DRAFTS_GRANT",
-    "our learning baseline is set much too low.md",
     "Notes/Canvas.canvas",
     "Untitled.canvas",
     "images/growth.png",

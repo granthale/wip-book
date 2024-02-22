@@ -2,7 +2,8 @@
 author: Grant
 draft: "true"
 ---
-- Takes away our ability to think
-- Robs us of value opportunity to grapple with material
+- Hurts our critical thinking ability
+- Robs us of valuable opportunity to grapple with material and come up with questions ourselves
+- Hallucinations exist, making potential answers less trustworthy. Some believe that this could keep us sharper.
 
-This design will be all about tradeoffs in these departments
+Designing a system will be about making the proper tradeoffs.

@@ -18,6 +18,12 @@
     <description>Consider these our agricultural stewards: Andy Matuschak Maggie Appleton Jackie Zhao .</description>
     <pubDate>Sat, 17 Feb 2024 15:10:35 GMT</pubDate>
   </item><item>
+    <title>Andy&#039;s list of prompt writing principles</title>
+    <link>https://toolbox.com/Andy's-list-of-prompt-writing-principles</link>
+    <guid>https://toolbox.com/Andy's-list-of-prompt-writing-principles</guid>
+    <description>In considering Prompt writing principles for flashcards, one of the more thoughtful resources is Andy Matuschak’s How to write good prompts. According to him, prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications .</description>
+    <pubDate>Thu, 22 Feb 2024 15:24:25 GMT</pubDate>
+  </item><item>
     <title>Grant Hale</title>
     <link>https://toolbox.com/Authors/grant</link>
     <guid>https://toolbox.com/Authors/grant</guid>
@@ -29,6 +35,12 @@
     <guid>https://toolbox.com/Authors/sam</guid>
     <description></description>
     <pubDate>Mon, 12 Feb 2024 21:19:16 GMT</pubDate>
+  </item><item>
+    <title>Automate learning with Anki</title>
+    <link>https://toolbox.com/Notes/Automate-learning-with-Anki</link>
+    <guid>https://toolbox.com/Notes/Automate-learning-with-Anki</guid>
+    <description>In thinking about Desirable features for automating flashcard creation, I’d like to see Anki gently push the boundaries of what we know. @Anton describes it like this: “I tell you something I want to learn about and you generate a spaced repetition program to learn that thing which adapts to my real measured progress.</description>
+    <pubDate>Thu, 22 Feb 2024 15:44:12 GMT</pubDate>
   </item><item>
     <title>Bloom&#039;s Taxonomy</title>
     <link>https://toolbox.com/Notes/Bloom's-Taxonomy</link>
@@ -45,26 +57,14 @@
     <title>Desirable features for automating flashcard creation</title>
     <link>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</link>
     <guid>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</guid>
-    <description>This note collects ideas that LLMs could help implement. From me § To Automate exploring the frontier of knowledge To “lay down signposts” while reading.</description>
-    <pubDate>Thu, 22 Feb 2024 01:23:15 GMT</pubDate>
+    <description>In attempting to answer: How can LLMs enhance spaced repetition software? Many different answers arise.This note collects those possibilities: From me § Rephrase and build on existing flashcards Automate learning with Anki To “lay down signposts” while reading.</description>
+    <pubDate>Thu, 22 Feb 2024 15:44:36 GMT</pubDate>
   </item><item>
     <title>How can LLMs enhance spaced repetition software?</title>
     <link>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</link>
     <guid>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</guid>
     <description>Spaced repetition software (SRS) is a powerful way to reinforce what we know. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself.</description>
     <pubDate>Thu, 22 Feb 2024 01:12:18 GMT</pubDate>
-  </item><item>
-    <title>Prompt writing principles for flashcards</title>
-    <link>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</link>
-    <guid>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</guid>
-    <description>Andy’s original list § Prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications I would add § Concise Encoded from multiple angles Causes Explanations Generate an example Connect / relate ideas Similarities / differences Significance / effects / so-what Revised using Bloom’s Taxonomy Special use cases: § Application prompts Switch question each time Make sure that Unusual Applications by Andy Salience prompts —How to write good prompts A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.</description>
-    <pubDate>Thu, 22 Feb 2024 01:09:24 GMT</pubDate>
-  </item><item>
-    <title>Technology is Not Just Software</title>
-    <link>https://toolbox.com/Notes/Technology-is-Not-Just-Software</link>
-    <guid>https://toolbox.com/Notes/Technology-is-Not-Just-Software</guid>
-    <description>To define “technology” as information software is a disservice. See Defining Technology. Not only is it definitionally incorrect but it’s conceptually misleading.</description>
-    <pubDate>Wed, 21 Feb 2024 00:01:12 GMT</pubDate>
   </item>
     </channel>
   </rss>

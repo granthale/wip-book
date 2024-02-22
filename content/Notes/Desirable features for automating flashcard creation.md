@@ -3,17 +3,19 @@ author: Grant
 tags:
   - seed
 ---
-*This note collects ideas that LLMs could help implement.*
+*In attempting to answer: [[How can LLMs enhance spaced repetition software?]] Many different answers arise.This note collects those possibilities:*
+
 ## From me
-- To [[Automate exploring the frontier of knowledge]]
+- [[Rephrase and build on existing flashcards]]
+- [[Automate learning with Anki]]
 - To "lay down signposts" while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
 	- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
-	- If an LLM could do this iteratively after ingesting a piece of material, this would be useful
+	- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful
 - Ask questions to connect different concepts
-	- Vector-encoding questions could help understand what questions to ask that are close enough to incite greater understanding
-- Auto-generate Q&A from Readwise quotes
-- Starting place for building on the system yourself down the line
-- If you answer a  prompt is consistently wrong, add questions for context
+	- Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.
+- Auto-generate Q&A from Readwise quotes. See [Awesome Readwise](https://github.com/Scarvy/awesome-readwise?tab=readme-ov-file).
+- Generate (likely imperfect) prompts to act as starting places for building out your own prompts
+- If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
 	- From "4th president of the US?" → "Who was the president before James Madison?", "Who was the president after James Madison?"
 - Output LLM-created Q&A to CSV format
 
@@ -26,10 +28,13 @@ tags:
 **[@Milan Cvitkovik](https://twitter.com/MWCvitkovic/status/1614669124424155137)**:
 >- **Generate from articles or my notes** - see [example](https://www.reddit.com/r/Anki/comments/sfbvbw/gpt3_can_generate_anki_cards_oo/)
 >- Change the phrasing of a card each time I see it (but with exact same information). "**Muscle confusion**" for the brain.
->- **Enable interactive cards**, like short convos in a new language or multi-step terminal commands.
+>	- There could be a bank of cards that apply to the same prompt, one of them is pulled each time material should be reviewed
 >- **Same concept in different contexts**
+>- **Rephrase the flashcard in the style of a famous person**. I want Feynman to grill me on physics in a Feynman way
+>- **Enable interactive cards**, like short convos in a new language or multi-step terminal commands.
 >- First, enable me to give verbal answers via transcription. Then, keep a record of my past answers, and **force me to give a new answer/phrasing to a card if my past answers are too similar**
 >- **Auto-merge related cards into harder mega-cards to force chunking**. Also maybe automatically split cards into smaller concepts if I keep blowing them
->- **Rephrase the flashcard in the style of a famous person**. I want Feynman to grill me on physics in a Feynman way
 >- **Inject false or impossible cards randomly** into your deck. Keep your epistemics up! If you know there's always an answer, you'll get complacent
 
+
+- [ ] ==TODO put all potential solutions on a scale of less human involvement → more human involvement==

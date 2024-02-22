@@ -17,84 +17,41 @@
     "2024/1/18": 56,
     "2024/1/19": 1,
     "2024/1/20": 352,
-    "2024/1/21": 473
+    "2024/1/21": 473,
+    "2024/1/22": 455
   },
   "todaysWordCount": {
-    "Notes/SRSxLLM.md": {
-      "initial": 339,
-      "current": 279
-    },
-    "Desirable features for automated Anki flashcards.md": {
-      "initial": 182,
-      "current": 308
-    },
-    "Plots/tools-for-thought.md": {
-      "initial": 88,
-      "current": 88
-    },
-    "Notes/How can LLMs enhance spaced repetition software?.md": {
-      "initial": 279,
-      "current": 293
-    },
-    "Notes/Desirable features for automated Anki flashcards.md": {
-      "initial": 308,
-      "current": 300
-    },
-    "Notes/Desirable features for automated flashcards.md": {
-      "initial": 301,
-      "current": 392
-    },
-    "Notes/Untitled.md": {
-      "initial": 165,
-      "current": 165
-    },
-    "Notes/Prompt writing principles for flashcards.md": {
-      "initial": 165,
-      "current": 159
-    },
-    "Bloom's Taxonomy.md": {
-      "initial": 11,
-      "current": 11
-    },
-    "take existing Anki prompts and further develop them.md": {
-      "initial": 1,
-      "current": 22
-    },
-    "DRAFTS_GRANT/take existing Anki prompts and further develop them.md": {
-      "initial": 23,
-      "current": 12
-    },
-    "Notes/Bloom's Taxonomy.md": {
-      "initial": 11,
-      "current": 15
-    },
-    "Notes/take existing Anki prompts and further develop them.md": {
-      "initial": 13,
-      "current": 101
-    },
-    "DRAFTS_GRANT/Slow software.md": {
-      "initial": 42,
-      "current": 65
-    },
-    "Notes/Take existing Anki prompts and further develop them.md": {
-      "initial": 102,
-      "current": 136
-    },
-    "Notes/Desirable features for automating flashcard creation.md": {
-      "initial": 385,
-      "current": 384
-    },
-    "Notes/Automate exploring the frontier of knowledge.md": {
-      "initial": 136,
-      "current": 180
-    },
-    "Notes/Concerns with LLM-powered Anki.md": {
-      "initial": 0,
-      "current": 4
+    "Notes/Automate learning with Anki.md": {
+      "initial": 180,
+      "current": 263
     },
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md": {
-      "initial": 5,
-      "current": 29
+      "initial": 29,
+      "current": 49
+    },
+    "Notes/Desirable features for automating flashcard creation.md": {
+      "initial": 382,
+      "current": 459
+    },
+    "Rephrase and build on existing flashcards.md": {
+      "initial": 33,
+      "current": 52
+    },
+    "Notes/Rephrase and build on existing flashcards.md": {
+      "initial": 52,
+      "current": 220
+    },
+    "Notes/Prompt writing principles for flashcards.md": {
+      "initial": 159,
+      "current": 112
+    },
+    "Andy's list of prompt writing principles.md": {
+      "initial": 1,
+      "current": 80
+    },
+    "DRAFTS_GRANT/Slow software.md": {
+      "initial": 65,
+      "current": 74
     }
   }
 }
