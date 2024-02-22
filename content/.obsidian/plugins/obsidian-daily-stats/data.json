@@ -17,7 +17,7 @@
     "2024/1/18": 56,
     "2024/1/19": 1,
     "2024/1/20": 352,
-    "2024/1/21": 253
+    "2024/1/21": 473
   },
   "todaysWordCount": {
     "Notes/SRSxLLM.md": {
@@ -42,7 +42,7 @@
     },
     "Notes/Desirable features for automated flashcards.md": {
       "initial": 301,
-      "current": 390
+      "current": 392
     },
     "Notes/Untitled.md": {
       "initial": 165,
@@ -50,7 +50,7 @@
     },
     "Notes/Prompt writing principles for flashcards.md": {
       "initial": 165,
-      "current": 157
+      "current": 159
     },
     "Bloom's Taxonomy.md": {
       "initial": 11,
@@ -62,11 +62,39 @@
     },
     "DRAFTS_GRANT/take existing Anki prompts and further develop them.md": {
       "initial": 23,
-      "current": 24
+      "current": 12
     },
     "Notes/Bloom's Taxonomy.md": {
       "initial": 11,
-      "current": 13
+      "current": 15
+    },
+    "Notes/take existing Anki prompts and further develop them.md": {
+      "initial": 13,
+      "current": 101
+    },
+    "DRAFTS_GRANT/Slow software.md": {
+      "initial": 42,
+      "current": 65
+    },
+    "Notes/Take existing Anki prompts and further develop them.md": {
+      "initial": 102,
+      "current": 136
+    },
+    "Notes/Desirable features for automating flashcard creation.md": {
+      "initial": 385,
+      "current": 384
+    },
+    "Notes/Automate exploring the frontier of knowledge.md": {
+      "initial": 136,
+      "current": 180
+    },
+    "Notes/Concerns with LLM-powered Anki.md": {
+      "initial": 0,
+      "current": 4
+    },
+    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md": {
+      "initial": 5,
+      "current": 29
     }
   }
 }

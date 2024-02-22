@@ -1,9 +1,11 @@
 ---
 author: Grant
+tags:
+  - seed
 ---
 *This note collects ideas that LLMs could help implement.*
 ## From me
-- To [[take existing Anki prompts and further develop them]] using [[Prompt writing principles for flashcards]].
+- To [[Automate exploring the frontier of knowledge]]
 - To "lay down signposts" while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
 	- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
 	- If an LLM could do this iteratively after ingesting a piece of material, this would be useful
@@ -19,7 +21,7 @@ author: Grant
 ## From the culture
 
 **[@Anton](https://twitter.com/atroyn/status/1565641497524985857)**:
->"I tell you something i want to learn about and you generate a spaced repetition program to learn that thing which adapts to my real measured progress. a.i generated quantum country"
+>"I tell you something I want to learn about and you generate a spaced repetition program to learn that thing which adapts to my real measured progress. a.i generated quantum country"
 
 **[@Milan Cvitkovik](https://twitter.com/MWCvitkovic/status/1614669124424155137)**:
 >- **Generate from articles or my notes** - see [example](https://www.reddit.com/r/Anki/comments/sfbvbw/gpt3_can_generate_anki_cards_oo/)

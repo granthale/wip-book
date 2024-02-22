@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_GRANT/take existing Anki prompts and further develop them.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/take existing Anki prompts and further develop them.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/take existing Anki prompts and further develop them.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_GRANT/take existing Anki prompts and further develop them.md"
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_GRANT/take existing Anki prompts and further develop them.md"
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
               }
             }
           },
@@ -183,11 +183,13 @@
   },
   "active": "d99fffb9f548f9ce",
   "lastOpenFiles": [
-    "Notes/Prompt writing principles for flashcards.md",
-    "Notes/Desirable features for automated flashcards.md",
-    "Notes/Bloom's Taxonomy.md",
+    "Notes/Automate exploring the frontier of knowledge.md",
+    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "DRAFTS_GRANT/Slow software.md",
     "Notes/How can LLMs enhance spaced repetition software?.md",
-    "DRAFTS_GRANT/take existing Anki prompts and further develop them.md",
+    "Notes/Bloom's Taxonomy.md",
+    "Notes/Prompt writing principles for flashcards.md",
     "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
     "Plots/tools-for-thought.md",
     "Plots/climate-n-energy.md",
@@ -198,7 +200,6 @@
     "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
     "DRAFTS_GRANT/Desirable features for automated Anki flashcards.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
-    "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM",
     "Notes/Technology is Not Just Software.md",
     "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
@@ -210,7 +211,6 @@
     "DRAFTS.md",
     "DRAFTS_GRANT",
     "our learning baseline is set much too low.md",
-    "Soil/What is Web3?.md",
     "Notes/Canvas.canvas",
     "Untitled.canvas",
     "images/growth.png",

@@ -34,7 +34,7 @@
     <link>https://toolbox.com/Notes/Bloom's-Taxonomy</link>
     <guid>https://toolbox.com/Notes/Bloom's-Taxonomy</guid>
     <description></description>
-    <pubDate>Wed, 21 Feb 2024 21:53:27 GMT</pubDate>
+    <pubDate>Thu, 22 Feb 2024 01:09:28 GMT</pubDate>
   </item><item>
     <title>Defining Technology</title>
     <link>https://toolbox.com/Notes/Defining-Technology</link>
@@ -42,23 +42,23 @@
     <description>When we invoke the word “technology”, we’re often implicitly referring to electronics. And while that’s one illustration, it’s far from the word’s main meaning.</description>
     <pubDate>Mon, 19 Feb 2024 13:35:20 GMT</pubDate>
   </item><item>
-    <title>Desirable features for automated flashcards</title>
-    <link>https://toolbox.com/Notes/Desirable-features-for-automated-flashcards</link>
-    <guid>https://toolbox.com/Notes/Desirable-features-for-automated-flashcards</guid>
-    <description>This note collects ideas that LLMs could help implement. From me § To take existing Anki prompts and further develop them using Prompt writing principles for flashcards.</description>
-    <pubDate>Wed, 21 Feb 2024 21:44:48 GMT</pubDate>
+    <title>Desirable features for automating flashcard creation</title>
+    <link>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</link>
+    <guid>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</guid>
+    <description>This note collects ideas that LLMs could help implement. From me § To Automate exploring the frontier of knowledge To “lay down signposts” while reading.</description>
+    <pubDate>Thu, 22 Feb 2024 01:23:15 GMT</pubDate>
   </item><item>
     <title>How can LLMs enhance spaced repetition software?</title>
     <link>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</link>
     <guid>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</guid>
     <description>Spaced repetition software (SRS) is a powerful way to reinforce what we know. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself.</description>
-    <pubDate>Wed, 21 Feb 2024 21:35:02 GMT</pubDate>
+    <pubDate>Thu, 22 Feb 2024 01:12:18 GMT</pubDate>
   </item><item>
     <title>Prompt writing principles for flashcards</title>
     <link>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</link>
     <guid>https://toolbox.com/Notes/Prompt-writing-principles-for-flashcards</guid>
     <description>Andy’s original list § Prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications I would add § Concise Encoded from multiple angles Causes Explanations Generate an example Connect / relate ideas Similarities / differences Significance / effects / so-what Revised using Bloom’s Taxonomy Special use cases: § Application prompts Switch question each time Make sure that Unusual Applications by Andy Salience prompts —How to write good prompts A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.</description>
-    <pubDate>Wed, 21 Feb 2024 21:53:58 GMT</pubDate>
+    <pubDate>Thu, 22 Feb 2024 01:09:24 GMT</pubDate>
   </item><item>
     <title>Technology is Not Just Software</title>
     <link>https://toolbox.com/Notes/Technology-is-Not-Just-Software</link>

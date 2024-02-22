@@ -9,7 +9,7 @@ I agree that taking the time to create our own flashcards is useful in it's own 
 
 More specifically, **my hypothesis is that outsourcing the creation of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
 
-See [[Desirable features for automated flashcards]] and [[Prompt writing principles for flashcards]].
+See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]].
 
 ---
 ## References

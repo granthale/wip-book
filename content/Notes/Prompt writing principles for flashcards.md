@@ -1,5 +1,7 @@
 ---
 author: Grant
+tags:
+  - seed
 ---
 ## **[Andy's original list](https://andymatuschak.org/prompts/)**
 
