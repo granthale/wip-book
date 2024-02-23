@@ -23,7 +23,8 @@ See [[Andy's list of prompt writing principles]]
 11. **[Unusual Applications by Andy](https://notes.andymatuschak.org/z8v56RCUFx6Zp6sBG6mTL95)**
 12. **[Salience prompts](https://notes.andymatuschak.org/zF8pCkzLVarNsaFyBxF9Aib)**
 
-- [ ] ==TODO Input Piotr Wozniak's Twenty Rules for Formulating Knowledge==
+## Piotr Wozniak's Twenty Rules
+==TODO ==
 
  
 ---

@@ -6,14 +6,14 @@ tags:
 *In attempting to answer: [[How can LLMs enhance spaced repetition software?]] Many different answers arise.This note collects those possibilities:*
 
 ## From me
-- [[Rephrase and build on existing flashcards]]
+- [[Revise and build on existing flashcards]]
 - [[Automate learning with Anki]]
-- To "lay down signposts" while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
+- To lay down signposts while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
 	- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
 	- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful
 - Ask questions to connect different concepts
 	- Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.
-- Auto-generate Q&A from Readwise quotes. See [Awesome Readwise](https://github.com/Scarvy/awesome-readwise?tab=readme-ov-file).
+- Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki).
 - Generate (likely imperfect) prompts to act as starting places for building out your own prompts
 - If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
 	- From "4th president of the US?" → "Who was the president before James Madison?", "Who was the president after James Madison?"

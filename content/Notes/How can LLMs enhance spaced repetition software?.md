@@ -1,15 +1,19 @@
 ---
 author: Grant
 ---
-Spaced repetition software (**SRS**) is a powerful way to reinforce what we know. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself. 
+Spaced repetition software (**SRS**) is a powerful way to reinforce what we know—I personally use Anki on a daily basis. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself. 
 
-So while [[Slow software|friction isn't necessarily bad (especially in software)]], if it keeps potential SRS users from getting started in the first place, perfect has become the enemy of good. This is also certainly not helped by our often [[Our learning baseline is set too low|imagined level of comprehension]] while learning.
+While [[Slow software|friction isn't necessarily bad (especially in software)]], if this keeps potential users of SRS from getting started in the first place, perfect has become the enemy of good. This is also certainly not helped by our often [[Our learning baseline is set too low|imagined level of comprehension]] while learning.
 
-I agree that taking the time to create our own flashcards is useful in it's own right and I'm a big fan of doing so myself. But I also believe that most people leave considerable learning potential on the table. That's why as part of my [Kernel](https://www.kernel.community/en/) adventure, I'm looking into easier ways to onboard people into spaced repetition.
+So while creating flashcards from scratch is a good way to grapple with material, there are a couple things to consider:
+1. Using Anki and other SRSs presents a steep learning curve
+2. Making high quality cards can take a lot of time
 
-More specifically, **my hypothesis is that outsourcing the creation of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
+That's why as part [Kernel](https://www.kernel.community/en/), in an effort to push our ability to learn, I'm looking into ways of augmenting flashcard creation and revision.
 
-See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]].
+**My hypothesis is that outsourcing the creation and revision of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
+
+This page is just the beginning. See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]].
 
 ---
 ## References

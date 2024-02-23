@@ -18,12 +18,12 @@
     "2024/1/19": 1,
     "2024/1/20": 352,
     "2024/1/21": 473,
-    "2024/1/22": 455
+    "2024/1/22": 495
   },
   "todaysWordCount": {
     "Notes/Automate learning with Anki.md": {
       "initial": 180,
-      "current": 263
+      "current": 262
     },
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md": {
       "initial": 29,
@@ -31,7 +31,7 @@
     },
     "Notes/Desirable features for automating flashcard creation.md": {
       "initial": 382,
-      "current": 459
+      "current": 456
     },
     "Rephrase and build on existing flashcards.md": {
       "initial": 33,
@@ -43,7 +43,7 @@
     },
     "Notes/Prompt writing principles for flashcards.md": {
       "initial": 159,
-      "current": 112
+      "current": 109
     },
     "Andy's list of prompt writing principles.md": {
       "initial": 1,
@@ -52,6 +52,14 @@
     "DRAFTS_GRANT/Slow software.md": {
       "initial": 65,
       "current": 74
+    },
+    "Notes/How can LLMs enhance spaced repetition software?.md": {
+      "initial": 294,
+      "current": 314
+    },
+    "Notes/Revise and build on existing flashcards.md": {
+      "initial": 221,
+      "current": 245
     }
   }
 }

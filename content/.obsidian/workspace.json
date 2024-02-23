@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c48c4c3273a32a47",
+        "id": "f487f654a072102e",
         "type": "tabs",
         "children": [
           {
-            "id": "f720a8eb329f14f2",
+            "id": "733578c02647d112",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Desirable features for automating flashcard creation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Desirable features for automating flashcard creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Desirable features for automating flashcard creation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Desirable features for automating flashcard creation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Notes/Desirable features for automating flashcard creation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,9 +170,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f720a8eb329f14f2",
+  "active": "733578c02647d112",
   "lastOpenFiles": [
     "Notes/Automate learning with Anki.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/Revise and build on existing flashcards.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/How can LLMs enhance spaced repetition software?.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
     "DRAFTS_GRANT/Our learning baseline is set too low.md",
@@ -190,11 +184,7 @@
     "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
     "DRAFTS_GRANT/Slow software.md",
-    "Notes/Desirable features for automating flashcard creation.md",
-    "Notes/Rephrase and build on existing flashcards.md",
-    "Notes/Prompt writing principles for flashcards.md",
     "Notes/Bloom's Taxonomy.md",
-    "Notes/How can LLMs enhance spaced repetition software?.md",
     "Andy's list of prompt writing principles.md",
     "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
     "Plots/tools-for-thought.md",
