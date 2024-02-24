@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "38e2c86b532b471e",
+        "id": "fe518553c4c3c0cd",
         "type": "tabs",
         "children": [
           {
-            "id": "29bda335d1637024",
+            "id": "e14b356189e0d0ce",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/example.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/example.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/example.md",
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/example.md"
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
               }
             }
           },
@@ -148,7 +150,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/example.md"
+                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
               }
             }
           },
@@ -180,35 +182,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "29bda335d1637024",
+  "active": "e14b356189e0d0ce",
   "lastOpenFiles": [
-    "DRAFTS_SAM/example.md",
-    "DRAFTS_GRANT/Slow software.md",
-    "Notes/Automate learning with Anki.md",
     "Notes/Prompt writing principles for flashcards.md",
-    "Notes/Revise and build on existing flashcards.md",
-    "Notes/Desirable features for automating flashcard creation.md",
-    "Notes/How can LLMs enhance spaced repetition software?.md",
+    "Abusing LLMs can handicap our critical thinking ability.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "Plots/tools-for-thought.md",
+    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
+    "DRAFTS_GRANT/Slow software.md",
+    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
     "DRAFTS_GRANT/Our learning baseline is set too low.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
-    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-    "Notes/Bloom's Taxonomy.md",
-    "Andy's list of prompt writing principles.md",
-    "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
-    "Plots/tools-for-thought.md",
-    "Plots/climate-n-energy.md",
-    "Plots/payments.md",
+    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/Andy's prompt writing principles.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/Andy Matuschak.md",
     "Plots/tech-history.md",
+    "Plots/climate-n-energy.md",
+    "DRAFTS_SAM/example.md",
+    "Notes/Bloom's Taxonomy.md",
+    "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
+    "Plots/payments.md",
     "About.md",
     "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
-    "DRAFTS_GRANT/Desirable features for automated Anki flashcards.md",
     "DRAFTS_SAM",
-    "Notes/Technology is Not Just Software.md",
-    "Notes/Defining Technology.md",
-    "Notes/Tools for Thought Empower Thinking and Expression.md",
     "DRAFTS_GRANT",
     "Notes/Canvas.canvas",
     "Untitled.canvas",

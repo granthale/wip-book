@@ -3,11 +3,12 @@ author: Grant
 tags:
   - seed
 ---
-*In attempting to answer: [[How can LLMs enhance spaced repetition software?]] Many different answers arise.This note collects those possibilities:*
+*In attempting to answer: [[§ How can LLMs enhance spaced repetition software?]] Many different answers arise.This note collects those possibilities:*
 
 ## From me
-- [[Revise and build on existing flashcards]]
-- [[Automate learning with Anki]]
+- [[LLMs can help revise and build on existing flashcards]]
+- [[LLMs can slowly push the boundaries of what we know]]
+- [[LLMs can act as training wheels for users of spaced repetition systems]]
 - To lay down signposts while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
 	- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
 	- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful

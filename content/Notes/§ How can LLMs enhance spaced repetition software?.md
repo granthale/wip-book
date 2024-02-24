@@ -1,19 +1,19 @@
 ---
 author: Grant
 ---
-Spaced repetition software (**SRS**) is a powerful way to reinforce what we know—I personally use Anki on a daily basis. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself. 
+Spaced repetition software (**SRS**) is a powerful way to reinforce what we know—I personally use Anki every day. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content in the first place. 
 
 While [[Slow software|friction isn't necessarily bad (especially in software)]], if this keeps potential users of SRS from getting started in the first place, perfect has become the enemy of good. This is also certainly not helped by our often [[Our learning baseline is set too low|imagined level of comprehension]] while learning.
 
-So while creating flashcards from scratch is a good way to grapple with material, there are a couple things to consider:
-1. Using Anki and other SRSs presents a steep learning curve
-2. Making high quality cards can take a lot of time
+So while creating flashcards from scratch is a good way to grapple with material, there are a couple things to note:
+1. Using Anki and other SRSs effectively requires a steep learning curve
+2. Making high quality cards can take a lot of time, even after becoming more skilled
 
 That's why as part [Kernel](https://www.kernel.community/en/), in an effort to push our ability to learn, I'm looking into ways of augmenting flashcard creation and revision.
 
 **My hypothesis is that outsourcing the creation and revision of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
 
-This page is just the beginning. See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]].
+This page is just the beginning. See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]] for more.
 
 ---
 ## References

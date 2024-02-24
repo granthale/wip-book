@@ -18,12 +18,6 @@
     <description>Consider these our agricultural stewards: Andy Matuschak Maggie Appleton Jackie Zhao .</description>
     <pubDate>Sat, 17 Feb 2024 15:10:35 GMT</pubDate>
   </item><item>
-    <title>Andy&#039;s list of prompt writing principles</title>
-    <link>https://toolbox.com/Andy's-list-of-prompt-writing-principles</link>
-    <guid>https://toolbox.com/Andy's-list-of-prompt-writing-principles</guid>
-    <description>In considering Prompt writing principles for flashcards, one of the more thoughtful resources is Andy Matuschak’s How to write good prompts. According to him, prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications .</description>
-    <pubDate>Thu, 22 Feb 2024 15:24:25 GMT</pubDate>
-  </item><item>
     <title>Grant Hale</title>
     <link>https://toolbox.com/Authors/grant</link>
     <guid>https://toolbox.com/Authors/grant</guid>
@@ -36,11 +30,17 @@
     <description></description>
     <pubDate>Mon, 12 Feb 2024 21:19:16 GMT</pubDate>
   </item><item>
-    <title>Automate learning with Anki</title>
-    <link>https://toolbox.com/Notes/Automate-learning-with-Anki</link>
-    <guid>https://toolbox.com/Notes/Automate-learning-with-Anki</guid>
-    <description>In thinking about Desirable features for automating flashcard creation, I’d like to see Anki gently push the boundaries of what we know. @Anton describes it like this: “I tell you something I want to learn about and you generate a spaced repetition program to learn that thing which adapts to my real measured progress.</description>
-    <pubDate>Fri, 23 Feb 2024 02:01:01 GMT</pubDate>
+    <title>Andy Matuschak</title>
+    <link>https://toolbox.com/Notes/Andy-Matuschak</link>
+    <guid>https://toolbox.com/Notes/Andy-Matuschak</guid>
+    <description></description>
+    <pubDate>Sat, 24 Feb 2024 18:03:06 GMT</pubDate>
+  </item><item>
+    <title>Andy&#039;s prompt writing principles</title>
+    <link>https://toolbox.com/Notes/Andy's-prompt-writing-principles</link>
+    <guid>https://toolbox.com/Notes/Andy's-prompt-writing-principles</guid>
+    <description>One of the more thoughtful resources on Prompt writing principles for flashcards is Andy Matuschak’s How to write good prompts. According to him, prompts should be: Focused Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent Tractable Effortful Encoded thoroughly Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications .</description>
+    <pubDate>Sat, 24 Feb 2024 18:00:19 GMT</pubDate>
   </item><item>
     <title>Bloom&#039;s Taxonomy</title>
     <link>https://toolbox.com/Notes/Bloom's-Taxonomy</link>
@@ -57,14 +57,14 @@
     <title>Desirable features for automating flashcard creation</title>
     <link>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</link>
     <guid>https://toolbox.com/Notes/Desirable-features-for-automating-flashcard-creation</guid>
-    <description>In attempting to answer: How can LLMs enhance spaced repetition software? Many different answers arise.This note collects those possibilities: From me § Revise and build on existing flashcards Automate learning with Anki To lay down signposts while reading.</description>
-    <pubDate>Fri, 23 Feb 2024 01:56:27 GMT</pubDate>
+    <description>In attempting to answer: § How can LLMs enhance spaced repetition software? Many different answers arise.This note collects those possibilities: From me § LLMs can help revise and build on existing flashcards LLMs can slowly push the boundaries of what we know LLMs can act as training wheels for users of spaced repetition systems To lay down signposts while reading.</description>
+    <pubDate>Sat, 24 Feb 2024 18:06:15 GMT</pubDate>
   </item><item>
-    <title>How can LLMs enhance spaced repetition software?</title>
-    <link>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</link>
-    <guid>https://toolbox.com/Notes/How-can-LLMs-enhance-spaced-repetition-software-q</guid>
-    <description>Spaced repetition software (SRS) is a powerful way to reinforce what we know—I personally use Anki on a daily basis. But it takes time and energy to create questions to review, sometimes up to 2-3x longer than the consumption of content itself.</description>
-    <pubDate>Fri, 23 Feb 2024 01:47:12 GMT</pubDate>
+    <title>LLMs can act as training wheels for users of spaced repetition systems</title>
+    <link>https://toolbox.com/Notes/LLMs-can-act-as-training-wheels-for-users-of-spaced-repetition-systems</link>
+    <guid>https://toolbox.com/Notes/LLMs-can-act-as-training-wheels-for-users-of-spaced-repetition-systems</guid>
+    <description>One thing that I noticed while playing with.</description>
+    <pubDate>Sat, 24 Feb 2024 18:06:26 GMT</pubDate>
   </item>
     </channel>
   </rss>

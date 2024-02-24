@@ -1,4 +1,4 @@
-In considering [[Prompt writing principles for flashcards]], one of the more thoughtful resources is Andy Matuschak's [How to write good prompts](https://andymatuschak.org/prompts/).
+One of the more thoughtful resources on [[Prompt writing principles for flashcards]] is Andy Matuschak's [How to write good prompts](https://andymatuschak.org/prompts/).
 
 **According to him, prompts should be:**
 1. **Focused**

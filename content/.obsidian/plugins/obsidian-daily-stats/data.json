@@ -19,12 +19,60 @@
     "2024/1/20": 352,
     "2024/1/21": 473,
     "2024/1/22": 495,
-    "2024/1/24": 4
+    "2024/1/24": 421
   },
   "todaysWordCount": {
     "DRAFTS_SAM/example.md": {
       "initial": 0,
       "current": 4
+    },
+    "Notes/§ How can LLMs enhance spaced repetition software?.md": {
+      "initial": 314,
+      "current": 323
+    },
+    "Notes/Desirable features for automating flashcard creation.md": {
+      "initial": 456,
+      "current": 469
+    },
+    "LLMs can act as training wheels for early users of spaced repetition systems.md": {
+      "initial": 0,
+      "current": 4
+    },
+    "Notes/Andy's list of prompt writing principles.md": {
+      "initial": 81,
+      "current": 79
+    },
+    "Notes/Prompt writing principles for flashcards.md": {
+      "initial": 109,
+      "current": 142
+    },
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md": {
+      "initial": 6,
+      "current": 12
+    },
+    "Notes/LLMs can help revise and build on existing flashcards.md": {
+      "initial": 244,
+      "current": 556
+    },
+    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md": {
+      "initial": 49,
+      "current": 76
+    },
+    "How does the system know what we actually want to learn about?.md": {
+      "initial": 0,
+      "current": 4
+    },
+    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md": {
+      "initial": 5,
+      "current": 10
+    },
+    "Hurts our critical thinking ability.md": {
+      "initial": 0,
+      "current": 4
+    },
+    "Plots/tools-for-thought.md": {
+      "initial": 88,
+      "current": 88
     }
   }
 }
