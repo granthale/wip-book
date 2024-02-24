@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f487f654a072102e",
+        "id": "38e2c86b532b471e",
         "type": "tabs",
         "children": [
           {
-            "id": "733578c02647d112",
+            "id": "29bda335d1637024",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DRAFTS_SAM/example.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DRAFTS_SAM/example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DRAFTS_SAM/example.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DRAFTS_SAM/example.md"
+              }
             }
           },
           {
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DRAFTS_SAM/example.md"
+              }
             }
           },
           {
@@ -170,8 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "733578c02647d112",
+  "active": "29bda335d1637024",
   "lastOpenFiles": [
+    "DRAFTS_SAM/example.md",
+    "DRAFTS_GRANT/Slow software.md",
     "Notes/Automate learning with Anki.md",
     "Notes/Prompt writing principles for flashcards.md",
     "Notes/Revise and build on existing flashcards.md",
@@ -183,7 +195,6 @@
     "DRAFTS_GRANT/Correspondent Banking.md",
     "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-    "DRAFTS_GRANT/Slow software.md",
     "Notes/Bloom's Taxonomy.md",
     "Andy's list of prompt writing principles.md",
     "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
@@ -198,7 +209,6 @@
     "Notes/Technology is Not Just Software.md",
     "Notes/Defining Technology.md",
     "Notes/Tools for Thought Empower Thinking and Expression.md",
-    "DRAFTS/The right amount of friction is good.md",
     "DRAFTS_GRANT",
     "Notes/Canvas.canvas",
     "Untitled.canvas",
