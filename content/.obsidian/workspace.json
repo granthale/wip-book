@@ -8,35 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e14b356189e0d0ce",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "1dca2edac2083de7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,32 +175,33 @@
   },
   "active": "5f929e7348403c66",
   "lastOpenFiles": [
+    "technology as fundamentally reshaping our lives.md",
+    "set a higher learning baseline for yourself.md",
+    "What is software?.md",
+    "Tribal Warfare in PNG.md",
+    "Soil/TikTok Twins from Georgia.md",
+    "Soil/Ideological divide between young men and women.md",
+    "Plots/Our quirky world.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "DRAFTS/Slow software.md",
+    "DRAFTS/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS/Powerful Ideas.md",
+    "DRAFTS/Our learning baseline is set too low.md",
+    "DRAFTS/Metacognition frameworks as tools for thought.md",
+    "DRAFTS/Is Software is eating the world?.md",
+    "DRAFTS/How does one build spaced repetition as a habit?.md",
+    "DRAFTS/Abusing LLMs can handicap our critical thinking ability.md",
+    "DRAFTS/Effective habits for spaced repetition review.md",
+    "DRAFTS/Concerns with LLM-powered Anki.md",
+    "DRAFTS/Correspondent Banking.md",
+    "DRAFTS",
+    "Anti-Modernity in PNG.md",
     "Abusing LLMs can handicap our critical thinking ability.md",
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
     "DRAFTS_GRANT/Powerful Ideas.md",
     "Observations about tending to a digital garden.md",
     "DRAFTS_GRANT/Abusing LLMs can handicap our critical thinking ability.md",
     "DRAFTS_GRANT/Slow software.md",
-    "Notes/Resources I'm using to learn about climate.md",
-    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "Notes/LLMs can help revise and build on existing flashcards.md",
-    "Notes/Prompt writing principles for flashcards.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
-    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
-    "Plots/climate-n-energy.md",
-    "Plots/tools-for-thought.md",
-    "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/Our learning baseline is set too low.md",
-    "DRAFTS_GRANT/Correspondent Banking.md",
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
-    "Notes/Desirable features for automating flashcard creation.md",
-    "Notes/Andy's prompt writing principles.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/§ How can LLMs enhance spaced repetition software?.md",
-    "Notes/Andy Matuschak.md",
-    "Plots/tech-history.md",
-    "DRAFTS_SAM/example.md",
-    "Notes/Bloom's Taxonomy.md",
     "DRAFTS_SAM",
     "DRAFTS_GRANT",
     "Notes/Canvas.canvas",
@@ -241,7 +219,6 @@
     "REFERENCE/IMAGES/iconic-addition-multiplication.png",
     "REFERENCE/IMAGES/triangle-area.png",
     "REFERENCE/IMAGES/towards-intuitive-understanding.png",
-    "DAILY/2024/February",
     "REFERENCE/IMAGES/Search Inside Yourself.jpeg",
     "REFERENCE/IMAGES/stability-plasticity.png",
     "REFERENCE/IMAGES/path-to-project.png",
