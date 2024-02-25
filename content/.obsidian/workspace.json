@@ -21,8 +21,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "1dca2edac2083de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRAFTS_GRANT/Slow software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+                "file": "DRAFTS_GRANT/Slow software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+                "file": "DRAFTS_GRANT/Slow software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
+                "file": "DRAFTS_GRANT/Slow software.md"
               }
             }
           },
@@ -150,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_GRANT/Concerns with LLM-powered Anki.md"
+                "file": "DRAFTS_GRANT/Slow software.md"
               }
             }
           },
@@ -182,20 +196,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e14b356189e0d0ce",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
-    "Notes/Prompt writing principles for flashcards.md",
     "Abusing LLMs can handicap our critical thinking ability.md",
-    "Notes/LLMs can help revise and build on existing flashcards.md",
-    "Plots/tools-for-thought.md",
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
+    "DRAFTS_GRANT/Powerful Ideas.md",
+    "Observations about tending to a digital garden.md",
+    "DRAFTS_GRANT/Abusing LLMs can handicap our critical thinking ability.md",
     "DRAFTS_GRANT/Slow software.md",
+    "Notes/Resources I'm using to learn about climate.md",
+    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
     "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
+    "Plots/climate-n-energy.md",
+    "Plots/tools-for-thought.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/Our learning baseline is set too low.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
-    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
     "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
     "Notes/Desirable features for automating flashcard creation.md",
     "Notes/Andy's prompt writing principles.md",
@@ -203,13 +222,8 @@
     "Notes/§ How can LLMs enhance spaced repetition software?.md",
     "Notes/Andy Matuschak.md",
     "Plots/tech-history.md",
-    "Plots/climate-n-energy.md",
     "DRAFTS_SAM/example.md",
     "Notes/Bloom's Taxonomy.md",
-    "how do I take Anki prompts and use LLMs to enhance and add to them?.md",
-    "Plots/payments.md",
-    "About.md",
-    "DRAFTS_GRANT/Prompt Engineering for LearnOS.md",
     "DRAFTS_SAM",
     "DRAFTS_GRANT",
     "Notes/Canvas.canvas",
