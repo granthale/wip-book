@@ -20,12 +20,12 @@
     "2024/1/21": 473,
     "2024/1/22": 495,
     "2024/1/24": 586,
-    "2024/1/25": 329
+    "2024/1/25": 445
   },
   "todaysWordCount": {
     "DRAFTS_GRANT/Slow software.md": {
       "initial": 73,
-      "current": 344
+      "current": 371
     },
     "Powerful Ideas.md": {
       "initial": 87,
@@ -38,6 +38,18 @@
     "Observations about tending to a digital garden.md": {
       "initial": 50,
       "current": 57
+    },
+    "Notes/Resources I'm using to learn about climate.md": {
+      "initial": 154,
+      "current": 243
+    },
+    "tags/evergreen.md": {
+      "initial": 11,
+      "current": 11
+    },
+    "DRAFTS_SAM/Tribal Warfare in PNG.md": {
+      "initial": 83,
+      "current": 83
     }
   }
 }

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fe518553c4c3c0cd",
+        "id": "4fe67182210a65f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1dca2edac2083de7",
+            "id": "130ca090a01739dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md"
+                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
               }
             }
           },
@@ -141,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md"
+                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
               }
             }
           },
@@ -175,8 +182,18 @@
   },
   "active": "5f929e7348403c66",
   "lastOpenFiles": [
-    "DRAFTS_GRANT/Slow software.md",
+    "DRAFTS_SAM/technology as fundamentally reshaping our lives.md",
+    "DRAFTS_SAM/Observations about tending to a digital garden.md",
+    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
+    "DRAFTS_SAM/What is software?.md",
+    "DRAFTS_SAM/Anti-Modernity in PNG.md",
+    "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "tags/evergreen.md",
+    "tags/seed.md",
+    "tags/sapling.md",
+    "Notes/Resources I'm using to learn about climate.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/Powerful Ideas.md",
     "DRAFTS_GRANT/Our learning baseline is set too low.md",
     "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
@@ -187,21 +204,11 @@
     "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
     "DRAFTS_GRANT/Abusing LLMs can handicap our critical thinking ability.md",
     "DRAFTS_GRANT",
-    "technology as fundamentally reshaping our lives.md",
-    "set a higher learning baseline for yourself.md",
-    "What is software?.md",
-    "Tribal Warfare in PNG.md",
     "Soil/TikTok Twins from Georgia.md",
     "Soil/Ideological divide between young men and women.md",
     "Plots/Our quirky world.md",
     "Notes/Food for thought about Papua New Guinea.md",
     "DRAFTS/Slow software.md",
-    "DRAFTS/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS/Powerful Ideas.md",
-    "DRAFTS/Our learning baseline is set too low.md",
-    "DRAFTS/Metacognition frameworks as tools for thought.md",
-    "DRAFTS/Is Software is eating the world?.md",
-    "DRAFTS/How does one build spaced repetition as a habit?.md",
     "DRAFTS",
     "DRAFTS_SAM",
     "Notes/Canvas.canvas",

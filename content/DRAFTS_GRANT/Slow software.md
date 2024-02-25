@@ -33,6 +33,10 @@ Slowing down the computer doesn't strike me as enough. Computers used to be slow
 ---
 —[Friction by Jackie Zhao](https://jzhao.xyz/thoughts/friction)
 
+—[Rethinking (Dis)engagement in human-computer interaction](https://www.sciencedirect.com/science/article/pii/S0747563221004325)
+
+—[Slow Technology - Designing for Reflection](https://www.researchgate.net/publication/220141933_Slow_Technology_-_Designing_For_Reflection)
+
 >“The reader lives faster than life, the **writer lives slower**.” 
 
 —James Richardson
