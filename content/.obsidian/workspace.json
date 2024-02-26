@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe67182210a65f3",
+        "id": "ba5db828082cdc85",
         "type": "tabs",
         "children": [
           {
-            "id": "130ca090a01739dd",
+            "id": "66287c7e8a1229eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
+                "file": "Notes/Piotr's 20 rules of knowledge formulation.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
+                "file": "Notes/Piotr's 20 rules of knowledge formulation.md"
               }
             }
           },
@@ -180,35 +181,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "66287c7e8a1229eb",
   "lastOpenFiles": [
+    "images/set_reformulation.png",
+    "Notes/Piotr's 20 rules of knowledge formulation.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "Notes/Resources I'm using to learn about climate.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/Andy Matuschak.md",
+    "Notes/Andy's prompt writing principles.md",
+    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "Notes/Bloom's Taxonomy.md",
+    "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "DRAFTS_SAM/technology as fundamentally reshaping our lives.md",
     "DRAFTS_SAM/Observations about tending to a digital garden.md",
     "DRAFTS_SAM/set a higher learning baseline for yourself.md",
     "DRAFTS_SAM/What is software?.md",
     "DRAFTS_SAM/Anti-Modernity in PNG.md",
-    "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "tags/evergreen.md",
     "tags/seed.md",
     "tags/sapling.md",
-    "Notes/Resources I'm using to learn about climate.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/Powerful Ideas.md",
-    "DRAFTS_GRANT/Our learning baseline is set too low.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
-    "DRAFTS_GRANT/Is Software is eating the world?.md",
-    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
-    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
-    "DRAFTS_GRANT/Correspondent Banking.md",
-    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
-    "DRAFTS_GRANT/Abusing LLMs can handicap our critical thinking ability.md",
     "DRAFTS_GRANT",
-    "Soil/TikTok Twins from Georgia.md",
-    "Soil/Ideological divide between young men and women.md",
-    "Plots/Our quirky world.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "DRAFTS/Slow software.md",
     "DRAFTS",
     "DRAFTS_SAM",
     "Notes/Canvas.canvas",
@@ -229,7 +230,6 @@
     "REFERENCE/IMAGES/Search Inside Yourself.jpeg",
     "REFERENCE/IMAGES/stability-plasticity.png",
     "REFERENCE/IMAGES/path-to-project.png",
-    "REFERENCE/IMAGES/currency_pegs.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"

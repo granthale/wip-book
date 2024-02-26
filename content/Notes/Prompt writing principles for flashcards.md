@@ -30,10 +30,8 @@ See [[Andy's prompt writing principles]]
 
 ---
 ## Piotr Wozniak's List
-See [20 rules of knowledge formation](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
-==TODO ==
+See [[Piotr's 20 rules of knowledge formulation]]
 
- 
 ---
 >A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.
 
