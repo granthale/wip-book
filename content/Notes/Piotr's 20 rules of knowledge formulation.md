@@ -1,11 +1,11 @@
-*This list adds to [[Prompt writing principles for flashcards]]. I've reworded some of Piotr's original rules.*
+*This list adds to [[Prompt writing principles for flashcards]]. I've reworded some of Piotr's original rules. See his list [here](https://super-memory.com/articles/20rules.htm).*
 
 ## Rules
 1. **Do not learn if you do not understand**
 	- He gives the example of learning history in a language you don't read/speak. You can still do it but it requires memorizing each character
 2. **Comprehend the bigger picture before memorizing isolated facts**
 	- I think this is true in an ideal world. In my experience, especially when spending days or weeks on a subject, a bigger picture will not readily apparent but can be bootstrapped by memorizing individual facts
-		- This makes me think that it would be useful to always have a simplified bigger-picture account of what I'm doing before drilling down, which leads to...
+		- A piece of advice I've heard is to make sure that whenever learning, to make sure that each bit of extra effort should be additive
 3. **Build upon the basics**
 	- Spending time learning the basics is almost never time wasted
 4. **Phrase things as simply as possible. Answers should be as short as possible**
@@ -41,6 +41,7 @@
 13. **Refer to other memories**
 	- This can be done to actively combat the interference phenomenon
 	- (e.g. adj: shamelessly humble and supplicant  → cringing)
+		- These words are something that he's already memorized 
 14. **Personalize and provide examples**
 	- Use these examples to provide better imagery and less interference
 	- (e.g., Soft bed without arms or back? (like the one at Robert’s parents) → divan)
@@ -48,24 +49,25 @@
 	- Provide examples that rely on vivid memories
 	- (e.g., a light and joking conversation (e.g. Mandela and de Klerk in 1992) → banter)
 16. **Context clues simplify wording**
-	- Putting in (math, chem, etc. helps simplify wording)
-	- (e.g., bioch: GRE → glucocorticoid response element)
-17. **Redundancy does not contradict minimum information principle**
+	- Putting in tags like math, chem, etc. to help provide context for the question
+	- (e.g., biochem: GRE → glucocorticoid response element)
+17. **Redundancy does not contradict the minimum information principle**
 	- Swap question and answer
-	- Questions about the reasoning process to get to an answer
-	- Derivation steps
-	- Multiple semantic representations for high-value items are important
-	- If there are multiple correct answers to a problem, make sure that they're all accepted
+	- Add prompts about the reasoning process
+	- Derivation steps for math or science, etc.
+	- Multiple semantic representations for high-value items can be useful
+	- If there are multiple correct answers to a problem (e.g., synonyms in a different language), make sure that they're all accepted
 18. **Include sources**
-	- They don't necessarily need to be part of what you're prompting, but they can be a lifesaver when your knowledge is tested
-19. **Date/time stamp information**
+	- They don't necessarily need to be part of what you're prompting but it is illuminating to see how varied different authority's data can be
+19. **Date/time stamp information if appropriate**
 	- For statistical items, stamp with the year the statistics are from
 20. **Prioritize**
-	- It is extremely easy to get bogged down memorizing everything. A simple heuristic is to memorize the basics first!
+	- With great power comes great responsibility. It's extremely easy to get bogged down memorizing everything. **A simple heuristic is to memorize the basics first**
+	- This is something that makes it so powerful to choose what you'd like to work on
 	- Things to prioritize based on:
-		- Choose information sources purposefully (books, internet, dictionary, etc.)
-		- "parts most likely to impact the quality of your knowledge"
-		- Put optional / explanatory components of the answer in parentheses
+		- Choose information medium purposefully (books, internet, dictionary, academic papers, etc.) these will change based on the task at hand
+		- Choose to memorize "parts most likely to impact the quality of your knowledge"
+		- Put optional / explanatory components of the answer in parentheses to emphasize what it is that is important to remember
 
 ## Takeaways
 - Using systems like this make you think about what is actually important to remember and tests your prediction skills
@@ -75,8 +77,3 @@
 		- This can be used as a tool for incremental reading
 	- Breaking sets into meaningful prompts
 	- Enumerating meaningfully (examples of alphabet or poem are most relevant)
-
-
----
-## References
-—[20 rules of knowledge formation](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)

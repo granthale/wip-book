@@ -181,10 +181,49 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "0a650a03500287b2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "568cbac69f822f30",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb66fc1bc7f85da9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20534e6b737c621f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Andy's prompt writing principles.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1025,
+        "y": -1313,
+        "width": 1486,
+        "height": 1093,
+        "maximize": false,
+        "zoom": 1.5
+      }
+    ]
+  },
   "active": "66287c7e8a1229eb",
   "lastOpenFiles": [
-    "images/set_reformulation.png",
+    "Notes/Andy's prompt writing principles.md",
     "Notes/Piotr's 20 rules of knowledge formulation.md",
+    "images/set_reformulation.png",
     "Notes/Prompt writing principles for flashcards.md",
     "Notes/LLMs can help revise and build on existing flashcards.md",
     "Notes/Resources I'm using to learn about climate.md",
@@ -193,7 +232,6 @@
     "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
     "Notes/Desirable features for automating flashcard creation.md",
     "Notes/Andy Matuschak.md",
-    "Notes/Andy's prompt writing principles.md",
     "Notes/§ How can LLMs enhance spaced repetition software?.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/Bloom's Taxonomy.md",

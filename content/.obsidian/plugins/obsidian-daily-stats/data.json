@@ -21,20 +21,17 @@
     "2024/1/22": 495,
     "2024/1/24": 586,
     "2024/1/25": 445,
-    "2024/1/26": 789
+    "2024/1/26": 789,
+    "2024/1/27": 147
   },
   "todaysWordCount": {
-    "Notes/Prompt writing principles for flashcards.md": {
-      "initial": 141,
-      "current": 138
-    },
-    "Piotr's 20 rules of knowledge formulation.md": {
-      "initial": 10,
-      "current": 494
-    },
     "Notes/Piotr's 20 rules of knowledge formulation.md": {
-      "initial": 494,
-      "current": 799
+      "initial": 799,
+      "current": 874
+    },
+    "Notes/Andy's prompt writing principles.md": {
+      "initial": 80,
+      "current": 152
     }
   }
 }
