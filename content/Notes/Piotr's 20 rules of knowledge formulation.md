@@ -2,12 +2,13 @@
 
 ## Rules
 1. **Do not learn if you do not understand**
-	- He gives the example of learning history in a language you don't read/speak. You can still do it but it requires memorizing each character
+	- He gives the example of learning history in a language you don't read/speak. You can still do it but it requires memorizing each character instead of the broader themes and concepts
 2. **Comprehend the bigger picture before memorizing isolated facts**
 	- I think this is true in an ideal world. In my experience, especially when spending days or weeks on a subject, a bigger picture will not readily apparent but can be bootstrapped by memorizing individual facts
-		- A piece of advice I've heard is to make sure that whenever learning, to make sure that each bit of extra effort should be additive
+		- I like to make sure that whatever I'm learning is additive (i.e., V.5min, V.1hour, V.1day all add to understanding gained in the last)
 3. **Build upon the basics**
 	- Spending time learning the basics is almost never time wasted
+	- Elon likes to call this a "semantic tree of sorts"
 4. **Phrase things as simply as possible. Answers should be as short as possible**
 	- Simple means that each time an answer is recalled, it's recalled the same as before
 	- More complex cards require more frequent review. Many people make the mistake of making their cards far too complex. 
@@ -27,7 +28,7 @@
 	- [ ] Mnemonic techniques
 8. **Graphical deletion is just as good as cloze deletion**
 9. **Avoid sets at all costs!** 
-	- e.g., what countries belong to the EU? → 
+	- e.g., what countries belong to the EU? → ...
 	- If they are actually useful to the task at hand, enumerate the prompts so that they are recalled in the same order each time
 	- If they must be used, enumerations should include overlapping cloze deletions
 10. **Avoid enumerations (but use them if you have to)**
@@ -42,10 +43,10 @@
 	- This can be done to actively combat the interference phenomenon
 	- (e.g. adj: shamelessly humble and supplicant  → cringing)
 		- These words are something that he's already memorized 
-14. **Personalize and provide examples**
+14. **Personalize and provide examples** ==TODO==
 	- Use these examples to provide better imagery and less interference
 	- (e.g., Soft bed without arms or back? (like the one at Robert’s parents) → divan)
-15. **Rely on emotional states**
+15. **Rely on emotional states** ==TODO==
 	- Provide examples that rely on vivid memories
 	- (e.g., a light and joking conversation (e.g. Mandela and de Klerk in 1992) → banter)
 16. **Context clues simplify wording**

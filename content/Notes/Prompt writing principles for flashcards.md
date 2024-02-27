@@ -30,7 +30,7 @@ See [[Andy's prompt writing principles]]
 
 ---
 ## Piotr Wozniak's List
-See [[Piotr's 20 rules of knowledge formulation]]
+See [[Piotr's 20 rules of knowledge formulation]]. This list was likely referenced by Andy when creating his [[Andy's prompt writing principles|prompt writing principles]]. Andy's provides a much more tactical checklist for what an effective prompt should look like. Piotr's does so to a certain extent but also focuses on a broad range of tactics & heuristics.
 
 ---
 >A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.

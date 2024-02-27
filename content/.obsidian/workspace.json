@@ -4,16 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "ba5db828082cdc85",
+        "id": "3e993d57683572dc",
         "type": "tabs",
         "children": [
           {
-            "id": "66287c7e8a1229eb",
+            "id": "9b9c40cec3790f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c25f18b79df054a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Andy's prompt writing principles.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e39d0f87d4d8a219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20534e6b737c621f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Andy's prompt writing principles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
+                "file": "Notes/Andy's prompt writing principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
+                "file": "Notes/Andy's prompt writing principles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Piotr's 20 rules of knowledge formulation.md"
+                "file": "Notes/Andy's prompt writing principles.md"
               }
             }
           },
@@ -149,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Piotr's 20 rules of knowledge formulation.md"
+                "file": "Notes/Andy's prompt writing principles.md"
               }
             }
           },
@@ -181,72 +213,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "0a650a03500287b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "568cbac69f822f30",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb66fc1bc7f85da9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "20534e6b737c621f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Andy's prompt writing principles.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1025,
-        "y": -1313,
-        "width": 1486,
-        "height": 1093,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "66287c7e8a1229eb",
+  "active": "6c25f18b79df054a",
   "lastOpenFiles": [
-    "Notes/Andy's prompt writing principles.md",
-    "Notes/Piotr's 20 rules of knowledge formulation.md",
-    "images/set_reformulation.png",
-    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/Tools for Thought Empower Thinking and Expression.md",
+    "Notes/Defining Technology.md",
+    "Notes/Technology is Not Just Software.md",
+    "Notes/Bloom's Taxonomy.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "Notes/Andy Matuschak.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
     "Notes/LLMs can help revise and build on existing flashcards.md",
     "Notes/Resources I'm using to learn about climate.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
-    "Notes/Desirable features for automating flashcard creation.md",
-    "Notes/Andy Matuschak.md",
+    "Notes/Piotr's 20 rules of knowledge formulation.md",
+    "Notes/How impactful is writing your own Anki cards vs. reviewing generated prompts?.md",
     "Notes/§ How can LLMs enhance spaced repetition software?.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/Bloom's Taxonomy.md",
-    "DRAFTS_SAM/Tribal Warfare in PNG.md",
-    "DRAFTS_SAM/technology as fundamentally reshaping our lives.md",
-    "DRAFTS_SAM/Observations about tending to a digital garden.md",
-    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
-    "DRAFTS_SAM/What is software?.md",
-    "DRAFTS_SAM/Anti-Modernity in PNG.md",
-    "tags/evergreen.md",
-    "tags/seed.md",
-    "tags/sapling.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/Andy's prompt writing principles.md",
+    "DRAFTS_GRANT/LLMs can act as training wheels for users of spaced repetition systems.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "DRAFTS_GRANT/Prompt Types.md",
+    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
+    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
+    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
+    "DRAFTS_GRANT/Our learning baseline is set too low.md",
+    "DRAFTS_GRANT/Powerful Ideas.md",
     "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/Slow software.md",
-    "DRAFTS_GRANT/Powerful Ideas.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "images/set_reformulation.png",
     "DRAFTS_GRANT",
     "DRAFTS",
     "DRAFTS_SAM",

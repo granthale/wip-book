@@ -1,3 +1,6 @@
+---
+author: Grant
+---
 One of the more thoughtful resources on [[Prompt writing principles for flashcards]] is Andy Matuschak's [How to write good prompts](https://andymatuschak.org/prompts/).
 
 **According to him, prompts should be:**
@@ -13,12 +16,12 @@ One of the more thoughtful resources on [[Prompt writing principles for flashcar
 	- You should almost always answer prompts correctly
 5. **Effortful**
 	- Takes effort to retrieve from memory
-6. **Encoded thoroughly**
-	- Attributes / tendencies
-	- Similarities and differences
-	- Parts and wholes
-	- Causes and effects
-	- Significance and implications
+6. **Encoded thoroughly** (I like this conceptual framework a lot)
+	1. Attributes / tendencies
+	2. Similarities and differences
+	3. Parts and wholes
+	4. Causes and effects
+	5. Significance and implications
 
 **Useful strategies:**
 - The *explanation* prompt

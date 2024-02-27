@@ -15,6 +15,8 @@ That's why as part [Kernel](https://www.kernel.community/en/), in an effort to p
 
 This page is just the beginning. See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]] for more.
 
+One question that it's important to ask is [[How impactful is writing your own Anki cards vs. reviewing generated prompts?]]
+
 ---
 ## References
 

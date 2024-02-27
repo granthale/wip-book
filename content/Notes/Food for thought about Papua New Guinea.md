@@ -1,4 +1,8 @@
-
+---
+author: Sam
+tags:
+  - seed
+---
 I've long been fascinated with Papua New Guinea (PNG) as a country. I don't exactly know why, so to find out, i'm publishing some reading and writing about and around the country.
 
 You can find some much better and more comprehensive materials around PNG [here](https://www.cia.gov/the-world-factbook/countries/papua-new-guinea/#transnational-issues), [here](https://en.wikipedia.org/wiki/Papua_New_Guinea) or [here](https://www.worldatlas.com/articles/top-10-interesting-facts-about-papua-new-guinea.html#:~:text=Several%20cultures%20in%20Papua%20New,every%20year%20in%20this%20country.). And theres lots more all on the web. 
