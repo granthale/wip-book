@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e993d57683572dc",
+        "id": "a462ebc82692caf2",
         "type": "tabs",
         "children": [
           {
-            "id": "9b9c40cec3790f35",
+            "id": "f93a126cd54db129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Piotr's 20 rules of knowledge formulation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c25f18b79df054a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Andy's prompt writing principles.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e39d0f87d4d8a219",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20534e6b737c621f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Andy's prompt writing principles.md",
+                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atomic habits",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -119,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Andy's prompt writing principles.md",
+                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Andy's prompt writing principles.md",
+                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Andy's prompt writing principles.md"
+                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md"
               }
             }
           },
@@ -181,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Andy's prompt writing principles.md"
+                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md"
               }
             }
           },
@@ -213,34 +181,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c25f18b79df054a",
+  "active": "f93a126cd54db129",
   "lastOpenFiles": [
+    "DRAFTS_GRANT/Bootstrapping theory of Anki.md",
+    "Observations on digital gardens.md",
+    "About.md",
+    "Agricultural Influences.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
+    "DRAFTS_GRANT/LLMs as a thought partner for flashcard creation.md",
+    "DRAFTS_GRANT/List of Prompt Types.md",
+    "DRAFTS_GRANT/Salience prompts are particularly useful for building mental habits.md",
+    "DRAFTS_GRANT/Anki interface updates.md",
+    "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
+    "DRAFTS_GRANT/Approaches to create powerful GPTs for Anki.md",
+    "DRAFTS_GRANT/attachments",
+    "Notes/Andy's prompt writing principles.md",
+    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/Piotr's 20 rules of knowledge formulation.md",
     "Notes/Tools for Thought Empower Thinking and Expression.md",
     "Notes/Defining Technology.md",
     "Notes/Technology is Not Just Software.md",
     "Notes/Bloom's Taxonomy.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/Andy Matuschak.md",
-    "Notes/Desirable features for automating flashcard creation.md",
     "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "Notes/LLMs can help revise and build on existing flashcards.md",
     "Notes/Resources I'm using to learn about climate.md",
-    "Notes/Piotr's 20 rules of knowledge formulation.md",
-    "Notes/How impactful is writing your own Anki cards vs. reviewing generated prompts?.md",
-    "Notes/§ How can LLMs enhance spaced repetition software?.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "Notes/Andy's prompt writing principles.md",
     "DRAFTS_GRANT/LLMs can act as training wheels for users of spaced repetition systems.md",
-    "Notes/Prompt writing principles for flashcards.md",
-    "DRAFTS_GRANT/Prompt Types.md",
-    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md",
-    "DRAFTS_GRANT/Effective habits for spaced repetition review.md",
-    "DRAFTS_GRANT/Metacognition frameworks as tools for thought.md",
-    "DRAFTS_GRANT/Our learning baseline is set too low.md",
-    "DRAFTS_GRANT/Powerful Ideas.md",
-    "DRAFTS_GRANT/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/Slow software.md",
-    "DRAFTS_GRANT/Correspondent Banking.md",
     "images/set_reformulation.png",
     "DRAFTS_GRANT",
     "DRAFTS",
@@ -256,13 +226,11 @@
     "REFERENCE",
     "REFERENCE/IMAGES/how to create a good habit.png",
     "REFERENCE/IMAGES/how to break a bad habit.png",
-    "REFERENCE/NOTES/MOVIES",
     "REFERENCE/IMAGES/iconic-addition-multiplication.png",
     "REFERENCE/IMAGES/triangle-area.png",
     "REFERENCE/IMAGES/towards-intuitive-understanding.png",
     "REFERENCE/IMAGES/Search Inside Yourself.jpeg",
     "REFERENCE/IMAGES/stability-plasticity.png",
-    "REFERENCE/IMAGES/path-to-project.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"

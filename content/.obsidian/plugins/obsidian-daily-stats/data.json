@@ -22,48 +22,62 @@
     "2024/1/24": 586,
     "2024/1/25": 445,
     "2024/1/26": 789,
-    "2024/1/27": 553
+    "2024/1/27": 1006,
+    "2024/1/28": 10,
+    "2024/1/29": 803
   },
   "todaysWordCount": {
-    "Notes/Piotr's 20 rules of knowledge formulation.md": {
-      "initial": 799,
-      "current": 895
+    "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md": {
+      "initial": 7,
+      "current": 654
     },
-    "Notes/Andy's prompt writing principles.md": {
-      "initial": 80,
-      "current": 166
+    "DRAFTS_GRANT/List of Prompt Types.md": {
+      "initial": 267,
+      "current": 267
     },
-    "DRAFTS_GRANT/How does one build spaced repetition as a habit?.md": {
-      "initial": 10,
-      "current": 37
-    },
-    "DRAFTS_GRANT/Piotr's Framework vs. Andy's Framework.md": {
+    "DRAFTS_GRANT/Salience prompts are particularly useful for building mental habits.md": {
       "initial": 0,
-      "current": 120
+      "current": 4
     },
-    "Notes/Prompt writing principles for flashcards.md": {
-      "initial": 139,
-      "current": 190
+    "DRAFTS_GRANT/LLM's as a thought partner for flashcard creation.md": {
+      "initial": 23,
+      "current": 24
     },
-    "DRAFTS_GRANT/Prompt Types.md": {
-      "initial": 120,
-      "current": 266
+    "Notes/Desirable features for automating flashcard creation.md": {
+      "initial": 477,
+      "current": 484
     },
-    "Notes/§ How can LLMs enhance spaced repetition software?.md": {
-      "initial": 323,
-      "current": 339
+    "DRAFTS_GRANT/LLMs as a thought partner for flashcard creation.md": {
+      "initial": 24,
+      "current": 67
     },
-    "How impactful is writing your own cards?.md": {
+    "Notes/LLMs can slowly push the boundaries of what we know.md": {
+      "initial": 262,
+      "current": 262
+    },
+    "DRAFTS_GRANT/Bootstrapping theory of LLMS.md": {
       "initial": 0,
-      "current": 2
+      "current": 26
     },
-    "Notes/Food for thought about Papua New Guinea.md": {
-      "initial": 260,
-      "current": 264
+    "DRAFTS_GRANT/Bootstrapping theory of Anki.md": {
+      "initial": 26,
+      "current": 45
     },
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md": {
-      "initial": 13,
-      "current": 18
+    "DRAFTS_SAM/Observations about tending to a digital garden.md": {
+      "initial": 57,
+      "current": 57
+    },
+    "Observations ab digital garden format.md": {
+      "initial": 57,
+      "current": 107
+    },
+    "Observations about digital gardening.md": {
+      "initial": 107,
+      "current": 107
+    },
+    "Observations on digital gardens.md": {
+      "initial": 107,
+      "current": 113
     }
   }
 }

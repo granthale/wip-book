@@ -31,5 +31,11 @@
     "downscalePercent": 100
   },
   "readableLineLength": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "/",
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Anki",
+    "Ankifying"
+  ]
 }

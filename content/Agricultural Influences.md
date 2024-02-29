@@ -1,7 +1,7 @@
 ---
 title: Influences
 ---
-Consider these our agricultural stewards:
+These people influenced our approach to gardening:
 
 - [Andy Matuschak](https://andymatuschak.org/)
 - [Maggie Appleton](https://maggieappleton.com/)

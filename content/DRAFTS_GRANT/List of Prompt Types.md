@@ -2,12 +2,10 @@
 author: Grant
 draft: "true"
 ---
-There are many different strategies for writing prompts. This list is a scratchpad for collecting them.
+There are many strategies for writing prompts. This list acts as a container to collect them.
 
 **Strategies if you're having difficulty remembering something**
 - Add in explanatory prompts
-- Add in personal connections
-- Add in vivid memories
 - Simplify Q or A, break up prompt into multiple questions
 - Add in context (subject, etc.)
 - Add in redundancy (basic + reversed cards, different wordings, derivation steps, reasoning to land at answer)
@@ -16,6 +14,9 @@ There are many different strategies for writing prompts. This list is a scratchp
 - Add in images or visuals
 - Go back to the basics, build up connections from those to the answer you want to remember
 - Take time to understand the bigger picture and then situate the prompt within that context
+- Personalize
+	- Add in personal connections
+	- Add in vivid memories
 
 **Once you understand something well**
 - Application prompts
