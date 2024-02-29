@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a462ebc82692caf2",
+        "id": "8e9ba973e1679490",
         "type": "tabs",
         "children": [
           {
-            "id": "f93a126cd54db129",
+            "id": "7422575e3adb540e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,16 +169,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f93a126cd54db129",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
+    "Plots/tech-history.md",
+    "Notes/Resources I'm using to learn about payments.md",
+    "Notes/Resources I'm using to learn about climate.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "Plots/payments.md",
+    "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
     "DRAFTS_GRANT/Bootstrapping theory of Anki.md",
     "Observations on digital gardens.md",
     "About.md",
     "Agricultural Influences.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/Desirable features for automating flashcard creation.md",
-    "Notes/LLMs can help revise and build on existing flashcards.md",
-    "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
     "DRAFTS_GRANT/LLMs as a thought partner for flashcard creation.md",
     "DRAFTS_GRANT/List of Prompt Types.md",
     "DRAFTS_GRANT/Salience prompts are particularly useful for building mental habits.md",
@@ -207,10 +199,6 @@
     "Notes/Defining Technology.md",
     "Notes/Technology is Not Just Software.md",
     "Notes/Bloom's Taxonomy.md",
-    "Notes/Andy Matuschak.md",
-    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "Notes/Resources I'm using to learn about climate.md",
-    "DRAFTS_GRANT/LLMs can act as training wheels for users of spaced repetition systems.md",
     "images/set_reformulation.png",
     "DRAFTS_GRANT",
     "DRAFTS",

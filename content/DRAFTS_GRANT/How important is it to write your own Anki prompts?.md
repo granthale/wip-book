@@ -5,7 +5,7 @@ tags:
 ---
 
 > [!NOTE] TLDR
-As you'll notice in the references section, this topic whips up a flurry of different perspectives. My current opinion is that the best thing to do is create cards from scratch. If there isn't the emotional drive or the time required to do so, leaning on LLMs is far better than doing nothing.
+> This topic whips up a flurry of different perspectives. I believe the best thing to do is create cards from scratch. If there isn't the emotional drive or the time required to do so, leaning on LLMs is far better than doing nothing.
 
 There are pros and cons to creating flashcards from scratch, or using someone else's pre-created deck. The same applies to using LLMs to create them for us.
 
@@ -23,7 +23,7 @@ There are pros and cons to creating flashcards from scratch, or using someone el
 	- While this seems trivial, iteration and customization is what ultimately makes Anki such a powerful tool. Honing the skill of doing this for ourself is powerful.
 	- Creating flashcards and noting their effectiveness has made me more aware of how memories are created and stored. 
 
-==TODO, continue these thoughts==
+==TODO==
 To see downsides of using LLMs, see [[Concerns with LLM-powered Anki]].
 
 ---

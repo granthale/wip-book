@@ -24,12 +24,12 @@
     "2024/1/26": 789,
     "2024/1/27": 1006,
     "2024/1/28": 10,
-    "2024/1/29": 803
+    "2024/1/29": 807
   },
   "todaysWordCount": {
     "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md": {
       "initial": 7,
-      "current": 654
+      "current": 640
     },
     "DRAFTS_GRANT/List of Prompt Types.md": {
       "initial": 267,
@@ -78,6 +78,18 @@
     "Observations on digital gardens.md": {
       "initial": 107,
       "current": 113
+    },
+    "Plots/payments.md": {
+      "initial": 3,
+      "current": 14
+    },
+    "Notes/Resources I'm using to learn about payments.md": {
+      "initial": 0,
+      "current": 6
+    },
+    "Plots/tech-history.md": {
+      "initial": 5,
+      "current": 6
     }
   }
 }
