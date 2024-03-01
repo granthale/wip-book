@@ -5,6 +5,8 @@ tags:
 ---
 *In attempting to answer: [[§ How can LLMs enhance spaced repetition software?]] Many answers arise. This note collects those possibilities:*
 
+But first it's important to reason through [[How important is it to create your own Anki prompts?|how important it is to create your own Anki prompts]].
+
 ## From me
 - [[LLMs can help revise and build on existing flashcards]]
 - [[LLMs can slowly push the boundaries of what we know]]
@@ -15,7 +17,7 @@ tags:
 	- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful
 - Ask questions to connect different concepts
 	- Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.
-- Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki).
+- Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki) 
 - Generate (likely imperfect) prompts to act as starting places for building out your own prompts
 - If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
 	- From "4th president of the US?" → "Who was the president before James Madison?", "Who was the president after James Madison?"

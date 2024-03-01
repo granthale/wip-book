@@ -9,13 +9,11 @@ So while creating flashcards from scratch is a good way to grapple with material
 1. Using Anki and other SRSs effectively requires a steep learning curve
 2. Making high quality cards can take a lot of time, even after becoming more skilled
 
-That's why as part [Kernel](https://www.kernel.community/en/), in an effort to push our ability to learn, I'm looking into ways of augmenting flashcard creation and revision.
+That's why as part [Kernel](https://www.kernel.community/en/), I'm looking into ways of augmenting flashcard creation and revision.
 
 **My hypothesis is that outsourcing the creation and revision of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
 
-This page is just the beginning. See [[Desirable features for automating flashcard creation]] and [[Prompt writing principles for flashcards]] for more.
-
-One question that it's important to ask is [[How important is it to write your own Anki prompts?]]
+This page is just the beginning. See [[Desirable features for automating flashcard creation]],  [[Prompt writing principles for flashcards]], or [[How important is it to create your own Anki prompts?]]
 
 ---
 ## References

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e9ba973e1679490",
+        "id": "9a465dd4cf30a2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "7422575e3adb540e",
+            "id": "ab461c4d2369097c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/What are the benefits to using LLM-powered Anki?.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/What are the benefits to using LLM-powered Anki?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/What are the benefits to using LLM-powered Anki?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/What are the benefits to using LLM-powered Anki?.md"
+              }
             }
           },
           {
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notes/What are the benefits to using LLM-powered Anki?.md"
+              }
             }
           },
           {
@@ -169,36 +180,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "ab461c4d2369097c",
   "lastOpenFiles": [
-    "Plots/tech-history.md",
-    "Notes/Resources I'm using to learn about payments.md",
-    "Notes/Resources I'm using to learn about climate.md",
-    "Notes/LLMs can help revise and build on existing flashcards.md",
-    "Plots/payments.md",
-    "DRAFTS_GRANT/How important is it to write your own Anki prompts?.md",
-    "DRAFTS_GRANT/Bootstrapping theory of Anki.md",
     "Observations on digital gardens.md",
-    "About.md",
-    "Agricultural Influences.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/Desirable features for automating flashcard creation.md",
-    "DRAFTS_GRANT/LLMs as a thought partner for flashcard creation.md",
-    "DRAFTS_GRANT/List of Prompt Types.md",
-    "DRAFTS_GRANT/Salience prompts are particularly useful for building mental habits.md",
-    "DRAFTS_GRANT/Anki interface updates.md",
-    "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
-    "DRAFTS_GRANT/Approaches to create powerful GPTs for Anki.md",
-    "DRAFTS_GRANT/attachments",
-    "Notes/Andy's prompt writing principles.md",
-    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/What are the benefits to using LLM-powered Anki?.md",
+    "Notes/What are the benefits to creating Anki cards from scratch?.md",
     "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/How important is it to create your own Anki prompts?.md",
+    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/Andy's prompt writing principles.md",
+    "Notes/Resources I'm using to learn about payments.md",
+    "Notes/Desirable features for automating flashcard creation.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/Prompt writing principles for flashcards.md",
     "Notes/Piotr's 20 rules of knowledge formulation.md",
-    "Notes/Tools for Thought Empower Thinking and Expression.md",
-    "Notes/Defining Technology.md",
-    "Notes/Technology is Not Just Software.md",
+    "Notes/Resources I'm using to learn about climate.md",
+    "Notes/LLMs can help revise and build on existing flashcards.md",
+    "Notes/How can we direct LLM-powered SRS towards what we want to learn about?.md",
+    "Notes/Andy Matuschak.md",
     "Notes/Bloom's Taxonomy.md",
+    "Notes/Technology is Not Just Software.md",
+    "Notes/Defining Technology.md",
+    "Notes/Tools for Thought Empower Thinking and Expression.md",
+    "DRAFTS_GRANT/Concerns with LLM-powered Anki.md",
+    "DRAFTS_GRANT/List of Prompt Types.md",
+    "DRAFTS_GRANT/LLMs as a thought partner for flashcard creation.md",
+    "DRAFTS_GRANT/Non-obvious benefits of spaced repetition.md",
+    "DRAFTS_GRANT/Creating Anki prompts with relevant hooks.md",
+    "DRAFTS_GRANT/Bootstrapping theory of Anki.md",
+    "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
+    "DRAFTS_GRANT/attachments",
     "images/set_reformulation.png",
     "DRAFTS_GRANT",
     "DRAFTS",

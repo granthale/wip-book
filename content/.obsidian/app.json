@@ -36,6 +36,9 @@
   "spellcheck": false,
   "spellcheckDictionary": [
     "Anki",
-    "Ankifying"
+    "Ankifying",
+    "LLM-supported",
+    "Tukey",
+    "LLM-powered"
   ]
 }

@@ -29,4 +29,4 @@ One of the more thoughtful resources on [[Prompt writing principles for flashcar
 - The *creative* prompt
 	- Give an answer you haven't given before
 - The *salience* prompt
-	- Bring things back to attention
+	- Encode "hooks" that spark information at the right times
