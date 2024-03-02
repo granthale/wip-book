@@ -3,14 +3,14 @@ author: Grant
 tags:
   - seed
 ---
-In thinking about [[Desirable features for automating flashcard creation]], **I'd like to see Anki gently push the boundaries of what we know**.
+In thinking about [[Desirable features for an LLM-powered Anki]], **I'd like to see Anki gently push the boundaries of what we know**.
 
 **[@Anton](https://twitter.com/atroyn/status/1565641497524985857)** describes it like this:
 >“I tell you something I want to learn about, and you generate a spaced repetition program to learn that thing which adapts to my real measured progress. a.i generated quantum country”
 
-This is very different from how using Anki manually generally works:
-1. Read interesting material → input prompts into Anki
-2. Review Anki → further questions often come up → input them to Anki
+This is different from a typical Anki workflow:
+1. Read interesting material → think through prompts → input to Anki
+2. Review Anki → further questions often come up → input to Anki
 
 This classic model relies on curiosity and agency, both things that benefit from consistent use, but also the highest-energy muscles that we have.
 

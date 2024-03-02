@@ -30,12 +30,6 @@
     <description></description>
     <pubDate>Mon, 12 Feb 2024 21:19:16 GMT</pubDate>
   </item><item>
-    <title>How important is it to write your own Anki prompts?</title>
-    <link>https://toolbox.com/DRAFTS_GRANT/How-important-is-it-to-write-your-own-Anki-prompts-q</link>
-    <guid>https://toolbox.com/DRAFTS_GRANT/How-important-is-it-to-write-your-own-Anki-prompts-q</guid>
-    <description> TLDR This topic whips up a flurry of different perspectives. I believe the best thing to do is create cards from scratch. If there isn’t the emotional drive or the time required to do so, leaning on LLMs is far better than doing nothing.</description>
-    <pubDate>Thu, 29 Feb 2024 21:04:33 GMT</pubDate>
-  </item><item>
     <title>What is software?</title>
     <link>https://toolbox.com/DRAFTS_SAM/What-is-software-q</link>
     <guid>https://toolbox.com/DRAFTS_SAM/What-is-software-q</guid>
@@ -63,8 +57,14 @@
     <title>Andy&#039;s prompt writing principles</title>
     <link>https://toolbox.com/Notes/Andy's-prompt-writing-principles</link>
     <guid>https://toolbox.com/Notes/Andy's-prompt-writing-principles</guid>
-    <description>One of the more thoughtful resources on Prompt writing principles for flashcards is Andy Matuschak’s How to write good prompts. According to him, prompts should be: Focused Only include one detail Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent The same answer should be retrieved every time This doesn’t mean the same exact words, but the same concept/idea should be activated each time Tractable You should almost always answer prompts correctly Effortful Takes effort to retrieve from memory Encoded thoroughly (I like this conceptual framework a lot) Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications Useful strategies: The explanation prompt Asking why something is the case The creative prompt Give an answer you haven’t given before The salience prompt Bring things back to attention .</description>
-    <pubDate>Tue, 27 Feb 2024 16:57:09 GMT</pubDate>
+    <description>One of the more thoughtful resources on Prompt writing principles for flashcards is Andy Matuschak’s How to write good prompts. According to him, prompts should be: Focused Only include one detail Precise Make clear what the prompt is looking for “poorly written prompts require that you also memorize what the prompt is asking” Consistent The same answer should be retrieved every time This doesn’t mean the same exact words, but the same concept/idea should be activated each time Tractable You should almost always answer prompts correctly Effortful Takes effort to retrieve from memory Encoded thoroughly (I like this conceptual framework a lot) Attributes / tendencies Similarities and differences Parts and wholes Causes and effects Significance and implications Useful strategies: The explanation prompt Asking why something is the case The creative prompt Give an answer you haven’t given before The salience prompt Encode “hooks” that spark information at the right times .</description>
+    <pubDate>Fri, 01 Mar 2024 23:41:54 GMT</pubDate>
+  </item><item>
+    <title>Bloom&#039;s Taxonomy</title>
+    <link>https://toolbox.com/Notes/Bloom's-Taxonomy</link>
+    <guid>https://toolbox.com/Notes/Bloom's-Taxonomy</guid>
+    <description></description>
+    <pubDate>Thu, 22 Feb 2024 01:09:28 GMT</pubDate>
   </item>
     </channel>
   </rss>

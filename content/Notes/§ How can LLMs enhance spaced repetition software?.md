@@ -13,7 +13,7 @@ That's why as part [Kernel](https://www.kernel.community/en/), I'm looking into 
 
 **My hypothesis is that outsourcing the creation and revision of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
 
-This page is just the beginning. See [[Desirable features for automating flashcard creation]],  [[Prompt writing principles for flashcards]], or [[How important is it to create your own Anki prompts?]]
+This page is just the beginning. See [[Desirable features for an LLM-powered Anki]],  [[Prompt writing principles for flashcards]], or [[How important is it to create your own Anki prompts?]]
 
 ---
 ## References

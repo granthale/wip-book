@@ -1,5 +1,7 @@
 ---
 author: Grant
+tags:
+  - seed
 ---
 1. **We mull over and grapple with the material that we consume.** This typically requires understanding the bigger picture and then Ankifying its atomic components.
 2. **We are able to fully customize what we want to remember and to how we learn best.** There are several techniques for flashcard creation that are only possible when you write them for yourself. See [[List of Prompt Types]].

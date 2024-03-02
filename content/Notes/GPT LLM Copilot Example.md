@@ -4,8 +4,6 @@ tags:
   - seed
 ---
 ## Approach
-[[Desirable features for automating flashcard creation|Automating flashcard creation]] is potentially a misnomer. Not only can LLMs aid in from-scratch creation, they are also promising when it comes to revision and [[LLMs can slowly push the boundaries of what we know|extension]]. In practice, LLM-powered SRS tools could sculpt our existing flashcards or web-build questions around concepts we'd like to understand.
-
 Here's a quick example of an existing GPT programmed by [Mark Nagelberg](https://www.marknagelberg.com/). While his GPT input is not open-source, it relies on [Piotr Wozniak's Twenty Rules of Formulating Knowledge](https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge).
 
 ---
@@ -50,12 +48,6 @@ While the answers seem a bit wordy, one more prompt made them much more concise:
 
 ---
 ## Takeaways
-This seems like it solves a known alignment issue—[[How can we direct LLM-powered SRS towards what we want to learn about?|the system does not have to identify what the important concepts are]]. Instead by providing a prompt, a concept is chosen, and LLMs can work their vectorized magic.
-
 This was value-add. In the prompts provided above, I would not have made the connection to scientific reasoning nor teleological thinking. (To be transparent, I didn't even know what teleological thinking was!) 
 
 [[Concerns with LLM-powered Anki|Connections should still be sought]] but from this demonstration, LLM's potential for illuminating unknown unknowns seem great.
-
----
-## Imagination
-As of now, I'm envisioning this as an Anki plugin that lets a person click on different dropdown buttons to augment prompts in different ways. Maybe, providing the list of [[Prompt writing principles for flashcards]] would be a starting place.

@@ -25,60 +25,57 @@
     "2024/1/27": 1006,
     "2024/1/28": 10,
     "2024/1/29": 807,
-    "2024/2/1": 391
+    "2024/2/1": 398,
+    "2024/2/2": 294
   },
   "todaysWordCount": {
-    "Notes/LLMs can slowly push the boundaries of what we know.md": {
-      "initial": 261,
-      "current": 260
+    "Notes/Concerns with LLM-powered Anki.md": {
+      "initial": 80,
+      "current": 114
+    },
+    "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md": {
+      "initial": 5,
+      "current": 6
+    },
+    "DRAFTS_GRANT/LearnOS/Anki interface updates.md": {
+      "initial": 29,
+      "current": 52
+    },
+    "DRAFTS_GRANT/LearnOS/LLMs as a thought partner for flashcard creation.md": {
+      "initial": 67,
+      "current": 96
+    },
+    "DRAFTS_GRANT/LearnOS/LLMs as copilot for flashcard creation.md": {
+      "initial": 83,
+      "current": 87
+    },
+    "Notes/LLMs as copilot for flashcard creation.md": {
+      "initial": 85,
+      "current": 190
     },
     "Notes/Desirable features for automating flashcard creation.md": {
-      "initial": 484,
-      "current": 512
+      "initial": 555,
+      "current": 552
     },
-    "DRAFTS_GRANT/How important is it to create your own Anki prompts?.md": {
-      "initial": 638,
-      "current": 122
+    "Notes/LLMs can slowly push the boundaries of what we know.md": {
+      "initial": 259,
+      "current": 258
     },
-    "Notes/Creating Anki prompts with relevant hooks.md": {
-      "initial": 93,
-      "current": 99
+    "Notes/LLMs can help revise and build on existing flashcards.md": {
+      "initial": 505,
+      "current": 440
     },
-    "DRAFTS_GRANT/Non-obvious benefits of spaced repetition.md": {
-      "initial": 93,
-      "current": 54
+    "Notes/LLM Copilot as GPT.md": {
+      "initial": 440,
+      "current": 398
     },
-    "What are the benefits to creating Anki cards from scratch?.md": {
-      "initial": 125,
-      "current": 234
+    "DRAFTS_GRANT/LearnOS/LLMs can act as training wheels for users of spaced repetition systems.md": {
+      "initial": 18,
+      "current": 105
     },
-    "What are the benefits to using LLM-powered Anki?.md": {
-      "initial": 0,
-      "current": 185
-    },
-    "DRAFTS_GRANT/Creating Anki prompts with relevant hooks.md": {
-      "initial": 100,
-      "current": 100
-    },
-    "Notes/Resources I'm using to learn about payments.md": {
-      "initial": 0,
-      "current": 40
-    },
-    "Notes/Andy's prompt writing principles.md": {
-      "initial": 166,
-      "current": 170
-    },
-    "Notes/§ How can LLMs enhance spaced repetition software?.md": {
-      "initial": 333,
-      "current": 322
-    },
-    "Notes/How important is it to create your own Anki prompts?.md": {
-      "initial": 122,
-      "current": 139
-    },
-    "Notes/Food for thought about Papua New Guinea.md": {
-      "initial": 264,
-      "current": 266
+    "Notes/Desirable features for an LLM-powered Anki.md": {
+      "initial": 549,
+      "current": 560
     }
   }
 }

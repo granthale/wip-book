@@ -3,25 +3,29 @@ author: Grant
 tags:
   - seed
 ---
-*In attempting to answer: [[§ How can LLMs enhance spaced repetition software?]] Many answers arise. This note collects those possibilities:*
+*In attempting to answer: [[§ How can LLMs enhance spaced repetition software?]] many answers arise. This note collects those possibilities:*
 
-But first it's important to reason through [[How important is it to create your own Anki prompts?|how important it is to create your own Anki prompts]].
+But first it's important to reason through [[How important is it to create your own Anki prompts?]].
 
 ## From me
-- [[LLMs can help revise and build on existing flashcards]]
 - [[LLMs can slowly push the boundaries of what we know]]
-- [[LLMs can act as training wheels for users of spaced repetition systems]]
-- [[LLMs as a thought partner for flashcard creation]]
-- To lay down signposts while reading. This is a reminiscent of iterative reading, with consecutive passes further encoding the text
-	- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
-	- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful
-- Ask questions to connect different concepts
-	- Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.
-- Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki) 
-- Generate (likely imperfect) prompts to act as starting places for building out your own prompts
-- If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
+	- If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
 	- From "4th president of the US?" → "Who was the president before James Madison?", "Who was the president after James Madison?"
-- Output LLM-created Q&A to CSV format
+- Writing prompts is generally a solitary act. It's been rare to find others interested in creating cards on the same topics. LLMs can act as a virtual copilot / tutor in this regard: 
+	- [[LLMs as copilot for flashcard creation]]
+	- [[LLMs can act as training wheels for users of spaced repetition systems]]
+
+- Ask questions to connect different concepts. Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.
+	- Vector encoding as a visualization could be useful as well to see where the bulk of our encoding lies
+
+- LLMs can consume content and output initial prompts
+	- To lay down signposts while reading. This is reminiscent of iterative reading, with consecutive passes further encoding the text
+		- I find this to be particularly useful when reading about new concepts. It often takes me a few days to internalize foundations, which is greatly accelerated by Anki
+		- If an LLM could do this iteratively after ingesting a piece of material (by identifying foundational concepts), this could be useful
+	- Generate (likely imperfect) prompts to act as starting places for building out your own prompts
+	- When it's all said and done, the LLM should be able to output prompts to CSV format
+
+- Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki)
 
 ---
 ## From the culture
