@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Desirable features for an LLM-powered Anki.md",
+                "file": "DRAFTS_SAM/Lets hope this works.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Desirable features for an LLM-powered Anki.md",
+                "file": "DRAFTS_SAM/Lets hope this works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Desirable features for an LLM-powered Anki.md",
+                "file": "DRAFTS_SAM/Lets hope this works.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Desirable features for an LLM-powered Anki.md"
+                "file": "DRAFTS_SAM/Lets hope this works.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Desirable features for an LLM-powered Anki.md"
+                "file": "DRAFTS_SAM/Lets hope this works.md"
               }
             }
           },
@@ -183,8 +182,11 @@
   },
   "active": "019de8e05add050c",
   "lastOpenFiles": [
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
+    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
+    "DRAFTS_SAM/Lets hope this works.md",
+    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
     "Notes/LLM revision & extension copilot.md",
     "DRAFTS_GRANT/LearnOS/LLMs can consume content and output initial prompts.md",
     "Notes/§ How can LLMs enhance spaced repetition software?.md",
@@ -204,11 +206,8 @@
     "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
     "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md",
     "DRAFTS_GRANT/LearnOS/Anki interface updates.md",
-    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/GPT LLM Copilot Example.md",
-    "Notes/Andy's prompt writing principles.md",
-    "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
