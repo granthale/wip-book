@@ -3,13 +3,18 @@ author: Grant
 tags:
   - seed
 ---
+>A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.
+
+— Ludwig Wittgenstein, Philosophical Investigations
+
+---
 To better understand [[§ How can LLMs enhance spaced repetition software?|how LLMs can enhance SRS]], I compiled bedrock principles that great flashcards use:
 
 ## Andy's List
 See [[Andy's prompt writing principles]]
 
 ---
-## My list:
+## My list
 7. **[Concise](https://notes.andymatuschak.org/z9vSQjkBVL6dCVC6QhCu4Br)**
 8. **Encoded from multiple angles**
 	- Causes
@@ -21,7 +26,7 @@ See [[Andy's prompt writing principles]]
 9. **Revised using [[Bloom's Taxonomy]]**
 
 ---
-## Special use cases:
+## Special use cases
 10. **Application prompts**
 	- Switch question each time
 	- Make sure that 
@@ -31,8 +36,3 @@ See [[Andy's prompt writing principles]]
 ---
 ## Piotr Wozniak's List
 See [[Piotr's 20 rules of knowledge formulation]]. This list was likely referenced by Andy when creating his [[Andy's prompt writing principles|prompt writing principles]]. Andy's provides a much more tactical checklist for what an effective prompt should look like. Piotr's does so to a certain extent but also focuses on a broad range of tactics & heuristics.
-
----
->A wheel that can be turned though nothing else moves with it, is not a part of the mechanism.
-
-— Ludwig Wittgenstein, Philosophical Investigations

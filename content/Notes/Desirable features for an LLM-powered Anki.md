@@ -12,8 +12,8 @@ First, it's important to reason through [[How important is it to create your own
 - Auto-generate Q&A from Readwise quotes. See [Smoothbrain-Anki](https://github.com/smoothbrain-ai/smoothbrain-anki)
 ## Creating and revising
 - Writing prompts is generally a solitary act. It's been rare to find others interested in creating cards on the same topics. LLMs can act as a virtual copilot / tutor in this regard: 
-	- [[LLM revision & extension copilot]]
-	- [[LLMs can act as training wheels for users of spaced repetition systems]]
+	- [[LLMs can act as a revision & extension copilot]]
+	- [[LLMs can act as training wheels for memory systems]]
 
 ## Reviewing
 - If a prompt is consistently answered incorrectly, an LLM can add questions for context

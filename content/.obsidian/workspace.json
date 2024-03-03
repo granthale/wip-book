@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d6ec312db27566e",
+        "id": "5170f4274da0d396",
         "type": "tabs",
         "children": [
           {
-            "id": "019de8e05add050c",
+            "id": "5b2a996f84c5c083",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concerns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,21 +169,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "5b2a996f84c5c083",
   "lastOpenFiles": [
-    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Authors/grant.md",
+    "Notes/Our learning baseline is set too low.md",
+    "Notes/LLMs can act as training wheels for memory systems.md",
+    "Notes/LLMs can act as a revision & extension copilot.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "DRAFTS_GRANT/LearnOS/Set a higher learning baseline for yourself.md",
+    "Notes/Andy Matuschak.md",
     "DRAFTS_SAM/Lets hope this works.md",
+    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
     "DRAFTS_SAM/set a higher learning baseline for yourself.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
-    "Notes/LLM revision & extension copilot.md",
     "DRAFTS_GRANT/LearnOS/LLMs can consume content and output initial prompts.md",
     "Notes/§ How can LLMs enhance spaced repetition software?.md",
     "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
     "Plots/payments.md",
     "Notes/Resources I'm using to learn about payments.md",
     "Notes/How important is it to create your own Anki prompts?.md",
-    "Notes/Our learning baseline is set too low.md",
     "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
     "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
@@ -196,11 +197,6 @@
     "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
     "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
     "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
-    "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
-    "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "DRAFTS_GRANT/LearnOS/Anki interface updates.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/GPT LLM Copilot Example.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
