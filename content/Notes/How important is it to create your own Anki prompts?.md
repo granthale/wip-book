@@ -4,7 +4,7 @@ tags:
   - seed
 ---
 > [!NOTE] TLDR
-> This topic whips up a flurry of different perspectives. IMHO, it's best to start by creating cards from scratch. If you don't have the emotional drive or the time to do so, the next best option is to lean on an LLM to help you begin. For the most benefit, brain muscles need to be flexed.
+> This topic whips up a flurry of different perspectives. IMHO, it's best to start by creating cards from scratch. If you don't have the emotional drive or the time to do so, the next best option is to lean on an LLM to help you begin. For the most benefit, brain muscles need to be flexed, so expending effort is important.
 
 ## From Scratch
 

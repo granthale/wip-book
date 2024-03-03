@@ -5,15 +5,15 @@ Spaced repetition software (**SRS**) is a powerful way to reinforce what we know
 
 While [[Slow software|friction isn't necessarily bad (especially in software)]], if this keeps potential users of SRS from getting started in the first place, perfect has become the enemy of good. This is also certainly not helped by our often [[Our learning baseline is set too low|imagined level of comprehension]] while learning.
 
-So while creating flashcards from scratch is a good way to grapple with material, there are a couple things to note:
+So while creating flashcards from scratch is a good way to grapple with material, there are a couple of things to note:
 1. Using Anki and other SRSs effectively requires a steep learning curve
 2. Making high quality cards can take a lot of time, even after becoming more skilled
 
-That's why as part [Kernel](https://www.kernel.community/en/), I'm looking into ways of augmenting flashcard creation and revision.
+That's why, in cooperation with [Kernel](https://www.kernel.community/en/), I'm looking into ways of augmenting flashcard creation and revision.
 
 **My hypothesis is that outsourcing the creation and revision of these cards to LLMs will relieve enough effort to enable memory systems to work in practice, and at scale.** 
 
-This page is just the beginning. See [[Desirable features for an LLM-powered Anki]],  [[Prompt writing principles for flashcards]], or [[How important is it to create your own Anki prompts?]]
+This page is just the beginning. Start with [[Desirable features for an LLM-powered Anki]] or [[Prompt writing principles for flashcards]].
 
 ---
 ## References

@@ -27,7 +27,7 @@
     "2024/1/29": 807,
     "2024/2/1": 398,
     "2024/2/2": 336,
-    "2024/2/3": 196
+    "2024/2/3": 207
   },
   "todaysWordCount": {
     "DRAFTS_GRANT/LearnOS/Our learning baseline is set too low.md": {
@@ -41,6 +41,26 @@
     "DRAFTS_GRANT/LearnOS/Memory System Culture.md": {
       "initial": 118,
       "current": 120
+    },
+    "Notes/Desirable features for an LLM-powered Anki.md": {
+      "initial": 557,
+      "current": 438
+    },
+    "Notes/How important is it to create your own Anki prompts?.md": {
+      "initial": 139,
+      "current": 144
+    },
+    "LLMs can consume content and output initial prompts.md": {
+      "initial": 101,
+      "current": 107
+    },
+    "Plots/payments.md": {
+      "initial": 14,
+      "current": 14
+    },
+    "Notes/§ How can LLMs enhance spaced repetition software?.md": {
+      "initial": 323,
+      "current": 316
     }
   }
 }
