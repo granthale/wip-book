@@ -26,56 +26,21 @@
     "2024/1/28": 10,
     "2024/1/29": 807,
     "2024/2/1": 398,
-    "2024/2/2": 294
+    "2024/2/2": 336,
+    "2024/2/3": 196
   },
   "todaysWordCount": {
-    "Notes/Concerns with LLM-powered Anki.md": {
-      "initial": 80,
-      "current": 114
+    "DRAFTS_GRANT/LearnOS/Our learning baseline is set too low.md": {
+      "initial": 168,
+      "current": 170
     },
-    "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md": {
-      "initial": 5,
-      "current": 6
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md": {
+      "initial": 105,
+      "current": 297
     },
-    "DRAFTS_GRANT/LearnOS/Anki interface updates.md": {
-      "initial": 29,
-      "current": 52
-    },
-    "DRAFTS_GRANT/LearnOS/LLMs as a thought partner for flashcard creation.md": {
-      "initial": 67,
-      "current": 96
-    },
-    "DRAFTS_GRANT/LearnOS/LLMs as copilot for flashcard creation.md": {
-      "initial": 83,
-      "current": 87
-    },
-    "Notes/LLMs as copilot for flashcard creation.md": {
-      "initial": 85,
-      "current": 190
-    },
-    "Notes/Desirable features for automating flashcard creation.md": {
-      "initial": 555,
-      "current": 552
-    },
-    "Notes/LLMs can slowly push the boundaries of what we know.md": {
-      "initial": 259,
-      "current": 258
-    },
-    "Notes/LLMs can help revise and build on existing flashcards.md": {
-      "initial": 505,
-      "current": 440
-    },
-    "Notes/LLM Copilot as GPT.md": {
-      "initial": 440,
-      "current": 398
-    },
-    "DRAFTS_GRANT/LearnOS/LLMs can act as training wheels for users of spaced repetition systems.md": {
-      "initial": 18,
-      "current": 105
-    },
-    "Notes/Desirable features for an LLM-powered Anki.md": {
-      "initial": 549,
-      "current": 560
+    "DRAFTS_GRANT/LearnOS/Memory System Culture.md": {
+      "initial": 118,
+      "current": 120
     }
   }
 }

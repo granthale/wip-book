@@ -12,7 +12,7 @@ But first it's important to reason through [[How important is it to create your 
 	- If a  prompt is consistently answered incorrectly, use an LLM to add questions for context
 	- From "4th president of the US?" → "Who was the president before James Madison?", "Who was the president after James Madison?"
 - Writing prompts is generally a solitary act. It's been rare to find others interested in creating cards on the same topics. LLMs can act as a virtual copilot / tutor in this regard: 
-	- [[LLMs as copilot for flashcard creation]]
+	- [[LLM revision & extension copilot]]
 	- [[LLMs can act as training wheels for users of spaced repetition systems]]
 
 - Ask questions to connect different concepts. Vector-encoding existing prompts could help an LLM understand what questions to ask to connect ideas.

@@ -1,6 +1,7 @@
 ---
 author: Grant
-draft: "true"
+tags:
+  - seed
 ---
 A continuously difficult task is to evaluate how well we've learned something. Education researchers bucket this under metacognition.
 

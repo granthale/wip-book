@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LLMs as copilot for flashcard creation.md",
+                "file": "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LLMs as copilot for flashcard creation.md",
+                "file": "Notes/Desirable features for an LLM-powered Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LLMs as copilot for flashcard creation.md",
+                "file": "Notes/Desirable features for an LLM-powered Anki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LLMs as copilot for flashcard creation.md"
+                "file": "Notes/Desirable features for an LLM-powered Anki.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/LLMs as copilot for flashcard creation.md"
+                "file": "Notes/Desirable features for an LLM-powered Anki.md"
               }
             }
           },
@@ -194,34 +194,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68b7bbe2c3f35f56",
+  "active": "480eaacc06ff65e3",
   "lastOpenFiles": [
-    "Notes/Desirable features for an LLM-powered Anki.md",
-    "Notes/LLMs as copilot for flashcard creation.md",
-    "DRAFTS_GRANT/LearnOS/LLMs can act as training wheels for users of spaced repetition systems.md",
+    "Notes/§ How can LLMs enhance spaced repetition software?.md",
+    "Notes/LLM revision & extension copilot.md",
+    "Notes/Our learning baseline is set too low.md",
+    "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
+    "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
+    "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
+    "DRAFTS_GRANT/LearnOS/List of Prompt Types.md",
+    "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
+    "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
     "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
     "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
+    "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
+    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
     "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md",
     "DRAFTS_GRANT/LearnOS/Anki interface updates.md",
+    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
+    "Notes/Desirable features for an LLM-powered Anki.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/GPT LLM Copilot Example.md",
     "Notes/Andy's prompt writing principles.md",
-    "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
-    "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/Metacognition frameworks.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
     "DRAFTS_GRANT/LearnOS/Abusing LLMs can handicap our critical thinking ability.md",
     "Notes/Food for thought about Papua New Guinea.md",
-    "Notes/What are the benefits to using LLM-powered Anki?.md",
-    "Notes/What are the benefits to creating Anki cards from scratch?.md",
-    "Notes/Concerns with LLM-powered Anki.md",
-    "DRAFTS_GRANT/LearnOS/Effective habits for spaced repetition review.md",
-    "DRAFTS_GRANT/LearnOS/Our learning baseline is set too low.md",
-    "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
-    "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
-    "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
