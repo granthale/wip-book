@@ -11,8 +11,13 @@
             "id": "5b2a996f84c5c083",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nagle",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md"
+              }
             }
           },
           {
@@ -138,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md"
+              }
             }
           },
           {
@@ -171,11 +183,11 @@
   },
   "active": "5b2a996f84c5c083",
   "lastOpenFiles": [
+    "Notes/LLMs can act as a revision & extension copilot.md",
     "Notes/Prompt writing principles for flashcards.md",
     "Authors/grant.md",
     "Notes/Our learning baseline is set too low.md",
     "Notes/LLMs can act as training wheels for memory systems.md",
-    "Notes/LLMs can act as a revision & extension copilot.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "DRAFTS_GRANT/LearnOS/Set a higher learning baseline for yourself.md",
     "Notes/Andy Matuschak.md",

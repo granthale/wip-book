@@ -15,4 +15,4 @@ Instead of having to identify a text's most important points, an LLM receives a 
 
 A more built out version could include "you might also ask..." and include several extensions of your current question.
 
-For a non-embedded example of this, see Mark Nagleberg's [[GPT LLM Copilot Example]].
+For a non-embedded example of this, see Mark Nagleberg's [[Mark Nagelberg GPT x Anki Copilot]].
