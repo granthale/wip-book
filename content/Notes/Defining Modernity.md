@@ -1,7 +1,6 @@
 ---
 tags:
   - seed
-draft: "true"
 author: Sam
 ---
 Having provided some [[Food for thought about Papua New Guinea]] we have meandered our way to thinking about modernity and development. 
