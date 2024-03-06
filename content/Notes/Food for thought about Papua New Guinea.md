@@ -16,8 +16,6 @@ But to provide some more justification as to why I am fascinated with the place,
 - The various cities and regions in PNG are not really connected by roads. Societies are thus cut off from each other, rarely interacting. 
 - Given its strong tribal roots, there are many superstitious and traditional ceremonies. The practice of 'black magic' is one, where between 50-150 woman are killed as alleged witches every year
 
+What all these weird and wonderful facts have in common is that it is one of the last remaining places that is extremely pure and primitive - with many of its regions are dominated by tribes. Thus, the notions of development and modernity that have swept over the world and destroyed many vestiges of such (tribal) civilisations, don't apply to Papua New Guinea. Could one then label PNG as being a society where we can talk about anti-modernity? 
 
----
-## References
-
-==TODO== 
+This will take some exploring. One could start with exploring what anti-modernity means on a more philosophical basis - see [[Anti-Modernity in PNG]]. Or we could look at different indications of the nation being or not being modern - for starters see [[Tribal Warfare in PNG]]. 

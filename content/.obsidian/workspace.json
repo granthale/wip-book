@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md",
+                "file": "Notes/Food for thought about Papua New Guinea.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md",
+                "file": "Notes/Food for thought about Papua New Guinea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md",
+                "file": "Notes/Food for thought about Papua New Guinea.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md"
+                "file": "Notes/Food for thought about Papua New Guinea.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/Lets hope this works.md"
+                "file": "Notes/Food for thought about Papua New Guinea.md"
               }
             }
           },
@@ -182,8 +182,15 @@
   },
   "active": "019de8e05add050c",
   "lastOpenFiles": [
-    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
+    "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "DRAFTS_SAM/Anti-Modernity in PNG.md",
+    "DRAFTS_SAM/technology as fundamentally reshaping our lives.md",
+    "Notes/Is Software is eating the world?.md",
+    "Authors/grant.md",
+    "DRAFTS_SAM/What is software?.md",
     "DRAFTS_SAM/Lets hope this works.md",
+    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
     "DRAFTS_SAM/set a higher learning baseline for yourself.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
     "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
@@ -201,13 +208,6 @@
     "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
     "DRAFTS_GRANT/LearnOS/List of Prompt Types.md",
     "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
-    "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
-    "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
-    "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
-    "DRAFTS_GRANT/LearnOS/How can we direct LLM-powered SRS towards what we want to learn about?.md",
-    "DRAFTS_GRANT/LearnOS/Anki interface updates.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/GPT LLM Copilot Example.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
