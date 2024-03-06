@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "019de8e05add050c",
+            "id": "fb4e8b06f9c5ab11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "Notes/Defining Modernity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "Notes/Defining Modernity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "Notes/Defining Modernity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md"
+                "file": "Notes/Defining Modernity.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md"
+                "file": "Notes/Defining Modernity.md"
               }
             }
           },
@@ -180,34 +180,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "019de8e05add050c",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
-    "Notes/Mark Nagelberg GPT x Anki Copilot.md",
-    "Notes/LLMs can act as training wheels for memory systems.md",
-    "Notes/LLMs can act as a revision & extension copilot.md",
-    "DRAFTS_GRANT/LearnOS/set a higher learning baseline for yourself.md",
     "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "Notes/Defining Modernity.md",
     "Notes/Food for thought about Papua New Guinea.md",
-    "DRAFTS_SAM/Anti-Modernity in PNG.md",
-    "DRAFTS_SAM/technology as fundamentally reshaping our lives.md",
-    "Notes/Is Software is eating the world?.md",
-    "Authors/grant.md",
-    "DRAFTS_SAM/What is software?.md",
-    "DRAFTS_SAM/Lets hope this works.md",
-    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
-    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
-    "Notes/Desirable features for an LLM-powered Anki.md",
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md",
-    "Notes/LLM revision & extension copilot.md",
-    "DRAFTS_GRANT/LearnOS/LLMs can consume content and output initial prompts.md",
-    "Notes/§ How can LLMs enhance spaced repetition software?.md",
-    "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
-    "Plots/payments.md",
-    "Notes/Resources I'm using to learn about payments.md",
-    "Notes/How important is it to create your own Anki prompts?.md",
+    "Context is essential when creating definitions.md",
+    "().md",
     "Notes/Our learning baseline is set too low.md",
+    "Notes/LLMs can act as training wheels for memory systems.md",
+    "Plots/Our quirky world.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "DRAFTS_GRANT/Slow software.md",
+    "DRAFTS_GRANT/Metacognition frameworks.md",
+    "DRAFTS_GRANT/LearnOS/Effective habits for spaced repetition review.md",
+    "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
+    "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
+    "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
     "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
+    "DRAFTS_GRANT/LearnOS/Abusing LLMs can handicap our critical thinking ability.md",
+    "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
     "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
+    "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
+    "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
+    "DRAFTS_GRANT/LearnOS/List of Prompt Types.md",
+    "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
+    "DRAFTS_GRANT/LearnOS/set a higher learning baseline for yourself.md",
+    "index.md",
+    "about.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",

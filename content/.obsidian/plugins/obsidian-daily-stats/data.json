@@ -28,7 +28,7 @@
     "2024/2/1": 398,
     "2024/2/2": 336,
     "2024/2/3": 207,
-    "2024/2/6": 123
+    "2024/2/6": 576
   },
   "todaysWordCount": {
     "DRAFTS_SAM/Anti-Modernity in PNG.md": {
@@ -38,6 +38,18 @@
     "Notes/Food for thought about Papua New Guinea.md": {
       "initial": 266,
       "current": 389
+    },
+    "Plots/Our quirky world.md": {
+      "initial": 116,
+      "current": 119
+    },
+    "DRAFTS_SAM/(Anti-)Modernity in PNG.md": {
+      "initial": 7,
+      "current": 433
+    },
+    "DRAFTS_SAM/Defining Modernity.md": {
+      "initial": 433,
+      "current": 457
     }
   }
 }
