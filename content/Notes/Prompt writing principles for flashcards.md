@@ -8,7 +8,7 @@ tags:
 — Ludwig Wittgenstein, Philosophical Investigations
 
 ---
-To better understand [[§ How can LLMs enhance spaced repetition software?|how LLMs can enhance SRS]], I compiled bedrock principles that great flashcards use:
+To better understand [[§ How can GenAI enhance spaced repetition software?|how LLMs can enhance SRS]], I compiled bedrock principles that great flashcards use:
 
 ## Andy's List
 See [[Andy's prompt writing principles]]

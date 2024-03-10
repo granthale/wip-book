@@ -3,7 +3,7 @@ author: Grant
 tags:
   - seed
 ---
-*In attempting to answer: [[§ How can LLMs enhance spaced repetition software?]] many answers arise. This note collects those possibilities:*
+*In attempting to answer: [[§ How can GenAI enhance spaced repetition software?]] many answers arise. This note collects those possibilities:*
 
 First, it's important to reason through [[How important is it to create your own Anki prompts?]]
 
@@ -13,7 +13,8 @@ First, it's important to reason through [[How important is it to create your own
 ## Creating and revising
 - Writing prompts is generally a solitary act. It's been rare to find others interested in creating cards on the same topics. LLMs can act as a virtual copilot / tutor in this regard: 
 	- [[LLMs can act as a revision & extension copilot]]
-	- [[LLMs can act as training wheels for memory systems]]
+	- [[LLMs can help teach the skill of prompt writing]]
+- Tailored images can be generated for certain prompts
 
 ## Reviewing
 - If a prompt is consistently answered incorrectly, an LLM can add questions for context

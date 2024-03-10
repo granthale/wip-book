@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5170f4274da0d396",
+        "id": "17145c2cd08521c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5b2a996f84c5c083",
+            "id": "82d9db7915334611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
+                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nagle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -66,12 +66,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
+                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md",
+                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md"
+                "file": "Notes/Desirable features for an GenAI-powered Anki.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Mark Nagelberg GPT x Anki Copilot.md"
+                "file": "Notes/Desirable features for an GenAI-powered Anki.md"
               }
             }
           },
@@ -181,34 +181,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b2a996f84c5c083",
+  "active": "82d9db7915334611",
   "lastOpenFiles": [
-    "Notes/LLMs can act as a revision & extension copilot.md",
-    "Notes/Prompt writing principles for flashcards.md",
-    "Authors/grant.md",
+    "Notes/§ How can GenAI enhance spaced repetition software?.md",
+    "Notes/Resources I'm using to learn about payments.md",
+    "Plots/payments.md",
+    "Notes/Resources I'm using to learn about climate.md",
+    "Plots/climate-n-energy.md",
+    "Notes/Desirable features for an GenAI-powered Anki.md",
+    "Soil/Microbes horizontally transfer genes.md",
+    "Notes/Michael Nielsen.md",
     "Notes/Our learning baseline is set too low.md",
-    "Notes/LLMs can act as training wheels for memory systems.md",
+    "Notes/Andy Matuschak.md",
+    "Notes/How important is it to create your own Anki prompts?.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/LLMs can act as a revision & extension copilot.md",
+    "Notes/LLMs can help teach the skill of prompt writing.md",
+    "Notes/Mark Nagelberg GPT x Anki Copilot.md",
+    "Authors/grant.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "DRAFTS_GRANT/LearnOS/Set a higher learning baseline for yourself.md",
-    "Notes/Andy Matuschak.md",
     "DRAFTS_SAM/Lets hope this works.md",
     "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
     "DRAFTS_SAM/set a higher learning baseline for yourself.md",
-    "Notes/Desirable features for an LLM-powered Anki.md",
     "DRAFTS_GRANT/LearnOS/LLMs can consume content and output initial prompts.md",
-    "Notes/§ How can LLMs enhance spaced repetition software?.md",
     "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
-    "Plots/payments.md",
-    "Notes/Resources I'm using to learn about payments.md",
-    "Notes/How important is it to create your own Anki prompts?.md",
     "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
     "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
     "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
-    "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
-    "DRAFTS_GRANT/LearnOS/List of Prompt Types.md",
-    "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
-    "DRAFTS_GRANT/LearnOS/Non-obvious benefits of spaced repetition.md",
-    "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",

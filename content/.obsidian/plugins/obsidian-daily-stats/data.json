@@ -27,56 +27,18 @@
     "2024/1/29": 807,
     "2024/2/1": 398,
     "2024/2/2": 336,
-    "2024/2/3": 230
+    "2024/2/3": 230,
+    "2024/2/9": 69,
+    "2024/2/10": 10
   },
   "todaysWordCount": {
-    "DRAFTS_GRANT/LearnOS/Our learning baseline is set too low.md": {
-      "initial": 168,
-      "current": 170
+    "Notes/§ How can GenAI enhance spaced repetition software?.md": {
+      "initial": 313,
+      "current": 315
     },
-    "Notes/LLMs can act as training wheels for users of spaced repetition systems.md": {
-      "initial": 105,
-      "current": 297
-    },
-    "DRAFTS_GRANT/LearnOS/Memory System Culture.md": {
-      "initial": 118,
-      "current": 120
-    },
-    "Notes/Desirable features for an LLM-powered Anki.md": {
-      "initial": 557,
-      "current": 438
-    },
-    "Notes/How important is it to create your own Anki prompts?.md": {
-      "initial": 139,
-      "current": 144
-    },
-    "LLMs can consume content and output initial prompts.md": {
-      "initial": 101,
-      "current": 107
-    },
-    "Plots/payments.md": {
-      "initial": 14,
-      "current": 14
-    },
-    "Notes/§ How can LLMs enhance spaced repetition software?.md": {
-      "initial": 323,
-      "current": 316
-    },
-    "Notes/Andy Matuschak.md": {
-      "initial": 1,
-      "current": 17
-    },
-    "DRAFTS_GRANT/LearnOS/Set a higher learning baseline for yourself.md": {
-      "initial": 0,
-      "current": 6
-    },
-    "Notes/Our learning baseline is set too low.md": {
-      "initial": 170,
-      "current": 171
-    },
-    "Notes/Prompt writing principles for flashcards.md": {
-      "initial": 190,
-      "current": 190
+    "Notes/Desirable features for an GenAI-powered Anki.md": {
+      "initial": 439,
+      "current": 447
     }
   }
 }
