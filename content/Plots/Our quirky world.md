@@ -12,5 +12,5 @@ So this section of the website is about us continuing to nurture our passion for
 ---
 For starters see:
 
-[[Tribal Warfare in PNG]]
+[[Food for thought about Papua New Guinea]]
 
