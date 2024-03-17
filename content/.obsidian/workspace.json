@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "17145c2cd08521c3",
+        "id": "2f97da3b9ba9b349",
         "type": "tabs",
         "children": [
           {
-            "id": "82d9db7915334611",
+            "id": "faa1b2ccfc54ef4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
+                "file": "Notes/Resources I'm using to learn about climate.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34fb45cc4c311bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DRAFTS_SAM/Is Software eating the world?.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,12 +81,10 @@
             }
           }
         ]
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
+                "file": "DRAFTS_SAM/Is Software eating the world?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Desirable features for an GenAI-powered Anki.md",
+                "file": "DRAFTS_SAM/Is Software eating the world?.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Desirable features for an GenAI-powered Anki.md"
+                "file": "DRAFTS_SAM/Is Software eating the world?.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Desirable features for an GenAI-powered Anki.md"
+                "file": "DRAFTS_SAM/Is Software eating the world?.md"
               }
             }
           },
@@ -182,34 +194,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82d9db7915334611",
+  "active": "34fb45cc4c311bba",
   "lastOpenFiles": [
-    "Notes/§ How can GenAI enhance spaced repetition software?.md",
-    "Notes/Resources I'm using to learn about payments.md",
-    "Plots/payments.md",
+    "Notes/Tools for Thought Empower Thinking and Expression.md",
+    "Notes/Defining Technology.md",
+    "Notes/Bloom's Taxonomy.md",
     "Notes/Resources I'm using to learn about climate.md",
-    "Plots/climate-n-energy.md",
-    "Notes/Desirable features for an GenAI-powered Anki.md",
-    "Soil/Microbes horizontally transfer genes.md",
-    "Notes/Michael Nielsen.md",
-    "Notes/Our learning baseline is set too low.md",
-    "Notes/Andy Matuschak.md",
+    "Notes/Piotr's 20 rules of knowledge formulation.md",
+    "Notes/Andy's prompt writing principles.md",
+    "Notes/What are the benefits to using LLM-powered Anki?.md",
+    "Notes/What are the benefits to creating Anki cards from scratch?.md",
+    "Notes/Concerns with LLM-powered Anki.md",
+    "Notes/Mark Nagelberg GPT x Anki Copilot.md",
     "Notes/How important is it to create your own Anki prompts?.md",
+    "Notes/Andy Matuschak.md",
+    "Notes/Our learning baseline is set too low.md",
+    "Notes/LLMs can help teach the skill of prompt writing.md",
+    "Notes/Michael Nielsen.md",
+    "Notes/Resources I'm using to learn about payments.md",
+    "Notes/§ How can GenAI enhance spaced repetition software?.md",
+    "Notes/Desirable features for an GenAI-powered Anki.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/Technology is Not Just Software.md",
+    "DRAFTS_SAM/Defining Modernity.md",
+    "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
     "Notes/Prompt writing principles for flashcards.md",
     "Notes/LLMs can act as a revision & extension copilot.md",
-    "Notes/LLMs can help teach the skill of prompt writing.md",
-    "Notes/Mark Nagelberg GPT x Anki Copilot.md",
-    "Authors/grant.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "DRAFTS_GRANT/LearnOS/Set a higher learning baseline for yourself.md",
-    "DRAFTS_SAM/Lets hope this works.md",
-    "DRAFTS_GRANT/set a higher learning baseline for yourself.md",
-    "DRAFTS_SAM/set a higher learning baseline for yourself.md",
-    "DRAFTS_GRANT/LearnOS/LLMs can consume content and output initial prompts.md",
-    "DRAFTS_GRANT/LearnOS/Memory System Culture.md",
-    "DRAFTS_GRANT/LearnOS/Powerful Ideas.md",
-    "DRAFTS_GRANT/LearnOS/Reading produces satisfaction, regardless of how well we understand.md",
-    "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "images/skating.png",
+    "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
@@ -230,8 +244,6 @@
     "REFERENCE/IMAGES/iconic-addition-multiplication.png",
     "REFERENCE/IMAGES/triangle-area.png",
     "REFERENCE/IMAGES/towards-intuitive-understanding.png",
-    "REFERENCE/IMAGES/Search Inside Yourself.jpeg",
-    "REFERENCE/IMAGES/stability-plasticity.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"

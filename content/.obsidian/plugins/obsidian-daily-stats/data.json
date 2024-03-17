@@ -29,16 +29,17 @@
     "2024/2/2": 336,
     "2024/2/3": 230,
     "2024/2/9": 69,
-    "2024/2/10": 10
+    "2024/2/10": 288,
+    "2024/2/16": 51
   },
   "todaysWordCount": {
-    "Notes/§ How can GenAI enhance spaced repetition software?.md": {
-      "initial": 313,
-      "current": 315
+    "Notes/Useful features for SRS systems.md": {
+      "initial": 1,
+      "current": 41
     },
-    "Notes/Desirable features for an GenAI-powered Anki.md": {
-      "initial": 439,
-      "current": 447
+    "Notes/Defining Modernity.md": {
+      "initial": 455,
+      "current": 466
     }
   }
 }
