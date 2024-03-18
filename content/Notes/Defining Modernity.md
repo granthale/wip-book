@@ -3,7 +3,7 @@ tags:
   - seed
 author: Sam
 ---
-Having provided some [[Food for thought about Papua New Guinea]] we have meandered our way to thinking about modernity and development. 
+After having provided some [[Food for thought about Papua New Guinea]] we have meandered our way to thinking about modernity and development.
 
 Some meta-questions we could keep at the back of our minds when thinking about this topic could include: 
 1) What actually is *development* and how can definitions and perceptions differ?
