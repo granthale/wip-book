@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
+                "file": "DRAFTS_SAM/Defining Modernity.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/Tribal Warfare in PNG.md"
+                "file": "DRAFTS_SAM/Defining Modernity.md"
               }
             }
           },
@@ -180,21 +180,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "fb4e8b06f9c5ab11",
   "lastOpenFiles": [
+    "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
-    "Notes/Is Software eating the world?.md",
-    "Notes/Food for thought about Papua New Guinea.md",
+    "DRAFTS_SAM/Is Software eating the world?.md",
+    "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
     "Notes/§ How can GenAI enhance spaced repetition software?.md",
-    "Notes/Defining Modernity.md",
+    "DRAFTS_SAM/Defining Modernity.md",
     "images/skating.png",
     "Notes/Michael Nielsen.md",
     "Notes/LLMs can help teach the skill of prompt writing.md",
     "Notes/Desirable features for an GenAI-powered Anki.md",
     "Notes/Defining Modernity 1.md",
     "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
     "Notes/LLMs can act as training wheels for memory systems.md",
     "Notes/Resources I'm using to learn about payments.md",
