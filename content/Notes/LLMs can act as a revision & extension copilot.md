@@ -3,7 +3,7 @@ author: Grant
 tags:
   - seed
 ---
-When considering [[Desirable features for an LLM-powered Anki]], the revision and [[LLMs can slowly push the boundaries of what we know|extension]] of existing prompts strikes me as one of its most potent applications. Just as copilots have sprung up in many areas of work and life, an integrated Anki copilot would enable deeper encodings of material on the fly. 
+When considering [[Desirable features for an GenAI-powered Anki]], the revision and [[LLMs can slowly push the boundaries of what we know|extension]] of existing prompts strikes me as one of its most potent applications. Just as copilots have sprung up in many areas of work and life, an integrated Anki copilot would enable deeper encodings of material on the fly. 
 
 When I'm imagining this, the Anki interface looks the same. Then, like other Anki plugins, a dropdown menu enables access to different tools. These could include:
 

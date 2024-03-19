@@ -3,7 +3,7 @@ author: Grant
 tags:
   - seed
 ---
-In thinking about [[Desirable features for an LLM-powered Anki]], **I'd like to see Anki gently push the boundaries of what we know**.
+In thinking about [[Desirable features for an GenAI-powered Anki]], **I'd like to see Anki gently push the boundaries of what we know**.
 
 **[@Anton](https://twitter.com/atroyn/status/1565641497524985857)** describes it like this:
 >“I tell you something I want to learn about, and you generate a spaced repetition program to learn that thing which adapts to my real measured progress. a.i generated quantum country”
