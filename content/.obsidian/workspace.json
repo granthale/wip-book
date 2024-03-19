@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md",
+                "file": "DRAFTS_SAM/Defining Modernity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md"
+                "file": "DRAFTS_SAM/Defining Modernity.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/Food for thought about Papua New Guinea.md"
+                "file": "DRAFTS_SAM/Defining Modernity.md"
               }
             }
           },
@@ -182,11 +182,13 @@
   },
   "active": "fb4e8b06f9c5ab11",
   "lastOpenFiles": [
-    "Notes/Defining Modernity.md",
+    "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
+    "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "Notes/Desirable features for an LLM-powered Anki.md",
+    "DRAFTS_SAM/Defining Modernity.md",
+    "Notes/LLMs can act as training wheels for memory systems.md",
     "Notes/Resources I'm using to learn about payments.md",
     "Notes/Prompt writing principles for flashcards.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
     "DRAFTS_GRANT/Metacognition frameworks.md",
@@ -206,8 +208,6 @@
     "DRAFTS_GRANT/LearnOS/How does one build spaced repetition as a habit?.md",
     "Context is essential when creating definitions.md",
     "Notes/Is Software is eating the world?.md",
-    "Notes/How important is it to create your own Anki prompts?.md",
-    "Notes/Concerns with LLM-powered Anki.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
