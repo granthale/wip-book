@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/Defining Modernity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/Defining Modernity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/Defining Modernity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md"
+                "file": "Notes/Defining Modernity.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md"
+                "file": "Notes/Defining Modernity.md"
               }
             }
           },
@@ -180,12 +180,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb4e8b06f9c5ab11",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
-    "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
+    "Notes/Food for thought about Papua New Guinea.md",
     "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
-    "DRAFTS_SAM/Defining Modernity.md",
+    "Notes/Defining Modernity.md",
     "Notes/LLMs can act as training wheels for memory systems.md",
     "Notes/Resources I'm using to learn about payments.md",
     "Notes/Prompt writing principles for flashcards.md",
