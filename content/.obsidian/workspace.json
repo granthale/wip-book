@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d6ec312db27566e",
+        "id": "983bdfa774d8ff81",
         "type": "tabs",
         "children": [
           {
-            "id": "fb4e8b06f9c5ab11",
+            "id": "57abd859b406bd33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb4e8b06f9c5ab11",
+  "active": "57abd859b406bd33",
   "lastOpenFiles": [
-    "Authors/grant.md",
+    "www.olma.com.md",
     "Authors/sam.md",
     "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "Notes/Defining Modernity.md",
+    "Notes/Defining Modernity 1.md",
+    "Authors/grant.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
     "DRAFTS_GRANT/Correspondent Banking.md",
     "DRAFTS_GRANT/Metacognition frameworks.md",
@@ -193,12 +196,10 @@
     "Soil/What is Web3?.md",
     "Notes/Is Software eating the world?.md",
     "Notes/Michael Nielsen.md",
-    "Notes/Defining Modernity.md",
     "Notes/Food for thought about Papua New Guinea.md",
     "Notes/§ How can GenAI enhance spaced repetition software?.md",
     "images/skating.png",
     "Notes/Desirable features for an GenAI-powered Anki.md",
-    "Notes/Defining Modernity 1.md",
     "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
     "Notes/Desirable features for an LLM-powered Anki.md",
     "Notes/LLMs can act as training wheels for memory systems.md",
@@ -208,7 +209,6 @@
     "DRAFTS_GRANT/LearnOS/Effective habits for spaced repetition review.md",
     "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
     "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
-    "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
