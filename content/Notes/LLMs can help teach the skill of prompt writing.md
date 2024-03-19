@@ -3,7 +3,7 @@ author: Grant
 tags:
   - seed
 ---
-Examples of great conceptual flashcards are hard to find. There are a few reasons for this:
+Examples of great conceptual flashcards are difficult to find. There are a few reasons for this:
 1. [[Memory culture isn't widespread]], making online resources more difficult to find
 2. There's not an objectively right answer. Everyone will prompt knowledge differently (this customization is a feature)
 3. We're all interested in different things. Even with great examples of SRS in some domains, how do we tailor to relevant topics?

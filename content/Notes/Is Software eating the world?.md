@@ -2,7 +2,6 @@
 author: Sam
 tags:
   - seed
-draft: "true"
 ---
 I've been reading about the nature of software in technology, and early-stage investing more generally. 
 

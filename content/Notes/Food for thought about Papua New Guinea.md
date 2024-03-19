@@ -1,6 +1,5 @@
 ---
 author: Sam
-draft: "true"
 tags:
   - seed
 ---
