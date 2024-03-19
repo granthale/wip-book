@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
+                "file": "Authors/sam.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
+                "file": "Authors/sam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
+                "file": "Authors/sam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LLMs can help teach the skill of prompt writing.md"
+                "file": "Authors/sam.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Notes/LLMs can help teach the skill of prompt writing.md"
+                "file": "Authors/sam.md"
               }
             }
           },
@@ -182,13 +182,19 @@
   },
   "active": "fb4e8b06f9c5ab11",
   "lastOpenFiles": [
-    "DRAFTS_SAM/Context is essential when creating definitions.md",
-    "Notes/Defining Modernity.md",
-    "Notes/Is Software eating the world?.md",
-    "Notes/Food for thought about Papua New Guinea.md",
-    "Notes/LLMs can help teach the skill of prompt writing.md",
-    "Notes/Michael Nielsen.md",
+    "Authors/grant.md",
+    "Authors/sam.md",
     "DRAFTS_SAM/Tribal Warfare in PNG.md",
+    "DRAFTS_SAM/Context is essential when creating definitions.md",
+    "DRAFTS_GRANT/Correspondent Banking.md",
+    "DRAFTS_GRANT/Metacognition frameworks.md",
+    "DRAFTS_GRANT/Slow software.md",
+    "Notes/LLMs can help teach the skill of prompt writing.md",
+    "Soil/What is Web3?.md",
+    "Notes/Is Software eating the world?.md",
+    "Notes/Michael Nielsen.md",
+    "Notes/Defining Modernity.md",
+    "Notes/Food for thought about Papua New Guinea.md",
     "Notes/§ How can GenAI enhance spaced repetition software?.md",
     "images/skating.png",
     "Notes/Desirable features for an GenAI-powered Anki.md",
@@ -198,15 +204,11 @@
     "Notes/LLMs can act as training wheels for memory systems.md",
     "Notes/Resources I'm using to learn about payments.md",
     "Notes/Prompt writing principles for flashcards.md",
-    "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_GRANT/LearnOS/Creating Anki prompts with relevant hooks.md",
-    "DRAFTS_GRANT/Metacognition frameworks.md",
     "DRAFTS_GRANT/LearnOS/Effective habits for spaced repetition review.md",
     "DRAFTS_GRANT/LearnOS/Bootstrapping theory of Anki.md",
     "DRAFTS_GRANT/LearnOS/Approaches to create powerful GPTs for Anki.md",
     "DRAFTS_GRANT/LearnOS/Salience prompts are particularly useful for building mental habits.md",
-    "DRAFTS_GRANT/LearnOS/Abusing LLMs can handicap our critical thinking ability.md",
-    "DRAFTS_GRANT/LearnOS/Anki interface updates.md",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
