@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md",
+                "file": "Notes/LLMs can help teach the skill of prompt writing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md"
+                "file": "Notes/LLMs can help teach the skill of prompt writing.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DRAFTS_SAM/Defining Modernity.md"
+                "file": "Notes/LLMs can help teach the skill of prompt writing.md"
               }
             }
           },
@@ -182,14 +182,14 @@
   },
   "active": "fb4e8b06f9c5ab11",
   "lastOpenFiles": [
+    "Notes/Michael Nielsen.md",
+    "DRAFTS_SAM/Defining Modernity.md",
     "DRAFTS_SAM/Tribal Warfare in PNG.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
     "DRAFTS_SAM/Is Software eating the world?.md",
     "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
     "Notes/§ How can GenAI enhance spaced repetition software?.md",
-    "DRAFTS_SAM/Defining Modernity.md",
     "images/skating.png",
-    "Notes/Michael Nielsen.md",
     "Notes/LLMs can help teach the skill of prompt writing.md",
     "Notes/Desirable features for an GenAI-powered Anki.md",
     "Notes/Defining Modernity 1.md",
