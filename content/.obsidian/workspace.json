@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "96a48a63dab05834",
+        "id": "1e2de9dfac27ec17",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f5cd488f7a9982",
+            "id": "e9c2580888664512",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DRAFTS_GRANT/Slow software.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DRAFTS_GRANT/Slow software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DRAFTS_GRANT/Slow software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DRAFTS_GRANT/Slow software.md"
+              }
             }
           },
           {
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "DRAFTS_GRANT/Slow software.md"
+              }
             }
           },
           {
@@ -169,13 +180,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c8f5cd488f7a9982",
+  "active": "e9c2580888664512",
   "lastOpenFiles": [
-    "Notes/Resources I'm using to learn about climate.md",
+    "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
+    "Notes/Michael Nielsen.md",
+    "Notes/Resources I'm using to learn about payments.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/LLMs can act as a revision & extension copilot.md",
     "Notes/LLMs can slowly push the boundaries of what we know.md",
     "Notes/§ How can GenAI enhance spaced repetition software?.md",
     "Notes/Desirable features for an GenAI-powered Anki.md",
     "Notes/Technology is Not Just Software.md",
+    "Notes/Resources I'm using to learn about climate.md",
     "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
     "DRAFTS_SAM/Is Software eating the world?.md",
     "Notes/Tools for Thought Empower Thinking and Expression.md",
@@ -191,12 +207,7 @@
     "Notes/Andy Matuschak.md",
     "Notes/Our learning baseline is set too low.md",
     "Notes/LLMs can help teach the skill of prompt writing.md",
-    "Notes/Michael Nielsen.md",
-    "Notes/Resources I'm using to learn about payments.md",
     "DRAFTS_SAM/Defining Modernity.md",
-    "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
-    "Notes/Prompt writing principles for flashcards.md",
-    "Notes/LLMs can act as a revision & extension copilot.md",
     "images/skating.png",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",

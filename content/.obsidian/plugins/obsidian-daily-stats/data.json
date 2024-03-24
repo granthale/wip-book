@@ -30,20 +30,13 @@
     "2024/2/3": 230,
     "2024/2/9": 69,
     "2024/2/10": 288,
-    "2024/2/16": 52
+    "2024/2/16": 52,
+    "2024/2/24": 0
   },
   "todaysWordCount": {
-    "Notes/Useful features for SRS systems.md": {
-      "initial": 1,
-      "current": 41
-    },
-    "Notes/Defining Modernity.md": {
-      "initial": 455,
-      "current": 466
-    },
-    "DRAFTS_SAM/Food for thought about Papua New Guinea.md": {
-      "initial": 390,
-      "current": 391
+    "DRAFTS_GRANT/Slow software.md": {
+      "initial": 643,
+      "current": 592
     }
   }
 }

@@ -6,11 +6,11 @@ tags:
 *This and other related notes explore how to nudge people towards more contemplative and thoughtful uses of software.*
 
 ![[skating.png]]
-Thanks to a friend, I recently learned how to hockey stop. While I've been on the ice for my entire life and look proficient when moving fast, I've always gone in only one direction and one speed.—forward and fast. After learning to stop, I realized how much I'd been missing out on.
+%% the skiing analogy works better %%
 
-The company that I'm working for has a motto that is frequently repeated—"think, then do". Skating is doing. It's hard to think while skating and it's hard to think while doing, but stopping and pondering the problem is often much more fruitful.
+There's a frequently repeated motto at the company I work for—"think, then do". Skating is doing. It's hard to think while skating, and it's hard to think while doing, but stopping and pondering the problem is often much more fruitful.
 
-Why mention this? The same pattern is present in other areas of my life. For example, in college, I frequently found myself skating without thinking. For example, even while coding, an activity that should require intense thinking before doing, I frequently kept typing without pausing to ponder my approach.
+Why mention this? The same pattern is present in other areas of my life. For example, in college, I frequently found myself skating without thinking. For example, even while coding, where the thinking *is* the coding, I frequently kept typing without pausing to ponder my approach.
 
 That's the type of thing that I want to see baked into software. There should be two modes—thinking and doing.
 
