@@ -3,7 +3,6 @@ import landingStyle from "./styles/landing.scss"
 import RecentNotes from "./RecentNotes"
 import { SimpleSlug } from "../util/path"
 import Search from "./Search"
-import Darkmode from "./Darkmode"
 
 export const TOTAL_CARDS = 5
 export const CARDS = {
@@ -57,14 +56,18 @@ export default (() => {
       <>
         <div class="landing">
           <div class="content-container">
-            <div class="navbar">
+            <div class="navbar" style="margin-top:0">
               <a href="/" class="page-title">
-                <img height="180px" src="static/seed.png" alt="seed" />
+                <img
+                  height="240px"
+                  src="static/tree-arch.png"
+                  alt="seed"
+                  style="margin-bottom: -55px;"
+                />
               </a>
               <SearchComponent {...componentData} />
             </div>
-            <br />
-            <div class="landing-header">Hello, welcome to our garden.</div>
+            <div class="landing-header">Hello, welcome to a garden.</div>
             <p class="page-subhead">
               We write above, below, and beyond powerful ideas. Check out the{" "}
               <a href="/about">about section</a> to learn more.

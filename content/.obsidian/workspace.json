@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2de9dfac27ec17",
+        "id": "efe90ba334771001",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c2580888664512",
+            "id": "9d4c2f8a705e8285",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFTS_GRANT/Slow software.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DRAFTS_GRANT/Slow software.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "DRAFTS_GRANT/Slow software.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,23 +170,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9c2580888664512",
+  "active": "9d4c2f8a705e8285",
   "lastOpenFiles": [
-    "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
-    "Notes/Michael Nielsen.md",
-    "Notes/Resources I'm using to learn about payments.md",
-    "Notes/Prompt writing principles for flashcards.md",
-    "Notes/LLMs can act as a revision & extension copilot.md",
-    "Notes/LLMs can slowly push the boundaries of what we know.md",
-    "Notes/§ How can GenAI enhance spaced repetition software?.md",
-    "Notes/Desirable features for an GenAI-powered Anki.md",
-    "Notes/Technology is Not Just Software.md",
-    "Notes/Resources I'm using to learn about climate.md",
-    "DRAFTS_SAM/Food for thought about Papua New Guinea.md",
-    "DRAFTS_SAM/Is Software eating the world?.md",
+    "DRAFTS_GRANT/Slow software.md",
+    "DRAFTS_SAM/Context is essential when creating definitions.md",
+    "images/skating.png",
+    "images/set_reformulation.png",
+    "images/growth.png",
+    "images/xi.jpg",
+    "images/digital-garden.png",
     "Notes/Tools for Thought Empower Thinking and Expression.md",
     "Notes/Defining Technology.md",
     "Notes/Bloom's Taxonomy.md",
+    "Notes/Resources I'm using to learn about climate.md",
     "Notes/Piotr's 20 rules of knowledge formulation.md",
     "Notes/Andy's prompt writing principles.md",
     "Notes/What are the benefits to using LLM-powered Anki?.md",
@@ -207,19 +193,25 @@
     "Notes/Andy Matuschak.md",
     "Notes/Our learning baseline is set too low.md",
     "Notes/LLMs can help teach the skill of prompt writing.md",
-    "DRAFTS_SAM/Defining Modernity.md",
-    "images/skating.png",
+    "Notes/Michael Nielsen.md",
+    "Notes/Prompt writing principles for flashcards.md",
+    "Notes/LLMs can act as a revision & extension copilot.md",
+    "Notes/LLMs can slowly push the boundaries of what we know.md",
+    "Notes/Desirable features for an GenAI-powered Anki.md",
+    "Notes/Technology is Not Just Software.md",
+    "Notes/Defining Modernity.md",
+    "Notes/Food for thought about Papua New Guinea.md",
+    "Notes/Is Software eating the world?.md",
+    "DRAFTS_GRANT/LearnOS/Useful features for SRS systems.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
     "DRAFTS_GRANT/attachments",
-    "images/set_reformulation.png",
     "DRAFTS_GRANT",
     "DRAFTS",
     "DRAFTS_SAM",
     "Notes/Canvas.canvas",
     "Untitled.canvas",
-    "images/growth.png",
     "obsidian-templates",
     "REFERENCE/READWISE/Tweets",
     "REFERENCE/READWISE/Articles",
@@ -228,8 +220,6 @@
     "REFERENCE/IMAGES/how to create a good habit.png",
     "REFERENCE/IMAGES/how to break a bad habit.png",
     "REFERENCE/IMAGES/iconic-addition-multiplication.png",
-    "REFERENCE/IMAGES/triangle-area.png",
-    "REFERENCE/IMAGES/towards-intuitive-understanding.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"
