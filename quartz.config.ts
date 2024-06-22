@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Garden",
+    pageTitle: "Verdant",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
       tagId: "G-PBC0Y59ZMD",
     },
-    baseUrl: "toolbox.com",
+    baseUrl: "www.verdant.ink",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

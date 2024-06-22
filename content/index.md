@@ -1,3 +1,3 @@
 ---
-title: Welcome to our garden.
+title: verdant
 ---
