@@ -1,3 +1,3 @@
 ---
-title: verdant
+title: verdant.ink
 ---
