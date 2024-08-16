@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efe90ba334771001",
+        "id": "b697f2b68c8f2b95",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4c2f8a705e8285",
+            "id": "4f22ab8a30d46cca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,7 +170,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d4c2f8a705e8285",
+  "active": "4f22ab8a30d46cca",
   "lastOpenFiles": [
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",

@@ -69,8 +69,8 @@ export default (() => {
             </div>
             <div class="landing-header">Hello, welcome to a garden.</div>
             <p class="page-subhead">
-              We write above, below, and beyond powerful ideas. Check out the{" "}
-              <a href="/about">about section</a> to learn more.
+              Explore our web of living ideas and check out the <a href="/about">about section</a>{" "}
+              to learn more.
             </p>
             <div class="flexer">
               <div class="recent-notes">
