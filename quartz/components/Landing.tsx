@@ -69,7 +69,7 @@ export default (() => {
             </div>
             <div class="landing-header">Hello, welcome to a garden.</div>
             <p class="page-subhead">
-              Explore our web of living ideas and check out the <a href="/about">about section</a>{" "}
+              Explore our web of living ideas. Check out the <a href="/about">about section</a>{" "}
               to learn more.
             </p>
             <div class="flexer">
