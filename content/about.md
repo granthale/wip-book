@@ -20,7 +20,7 @@ Again from [Maggie Appleton](https://maggieappleton.com):
 
 
 ## Who's we?
-Our names are [[grant|Grant]] & [[sam|Sam]]. We're two good friends in the early stages of life. We met in 2023 while backpacking through Taiwan, and are now back at work in the US and Switzerland respectively. Despite busy professional lives, we're continuing to learn and think by asking and answering dynamic questions. This website is the fruit of that pursuit.
+Our names are [[grant|Grant]] & [[neel|Sam]]. We're two good friends in the early stages of life. We met in 2023 while backpacking through Taiwan, and are now back at work in the US and Switzerland respectively. Despite busy professional lives, we're continuing to learn and think by asking and answering dynamic questions. This website is the fruit of that pursuit.
 
 ## Onwards and upwards!
 We hope you enjoy our writing, if for no other reason than the different approach. This website is very much a work in progress and we'd love to hear from you. Reach out @ ==TODO== and stay curious!

@@ -6,30 +6,52 @@ import Search from "./Search"
 
 export const TOTAL_CARDS = 5
 export const CARDS = {
-  tools_for_thought: (
-    <a href={"Plots/tools-for-thought"} class="card card-1">
-      <p class="card-title">Tools for Thought</p>
+  agency_identity: (
+    <a href={"Plots/agency-identity"} class="card card-1">
+      <p class="card-title">Chapter 1</p>
+      <p className="card-subhead">Agency & Identity</p>
     </a>
   ),
-  tech_history: (
-    <a href={"Plots/tech-history"} class="card card-2">
-      <p class="card-title">Internet & Computer History</p>
+  creativity_self_expression: (
+    <a href={"Plots/creativity-self-expression"} class="card card-2">
+      <p class="card-title">Chapter 2</p>
+      <p className="card-subhead">Creativity & Self-expression</p>
     </a>
   ),
-  payment_systems: (
-    <a href={"Plots/payments"} class="card card-3">
-      <p class="card-title">Payments</p>
+  wellbeing_selfcare_mindfulness: (
+    <a href={"Plots/wellbeing-selfcare-mindfulness"} class="card card-3">
+      <p class="card-title">Chapter 3</p>
+      <p className="card-subhead">Wellbeing, self-care, & mindfulness</p>
     </a>
   ),
-  energy: (
-    <a href={"Plots/climate-n-energy"} class="card card-4">
-      <p class="card-title">Climate & Energy</p>
+  thinking_learning: (
+    <a href={"Plots/thinking-learning"} class="card card-4">
+      <p class="card-title">Chapter 4</p>
+      <p className="card-subhead">Thinking & Learning</p>
     </a>
   ),
-  soil: (
-    <a href={"Soil"} class="card card-soil">
-      <p className="card-title">Soil</p>
-      <p className="card-subhead">Experimental garden bed</p>
+  writing: (
+    <a href={"Plots/writing"} class="card card-5">
+      <p className="card-title">Chapter 5</p>
+      <p className="card-subhead">Writing</p>
+    </a>
+  ),
+  conversation_relationship_community: (
+    <a href={"Plots/conversation-relationships-community"} class="card card-6">
+      <p className="card-title">Chapter 6</p>
+      <p className="card-subhead">Conversation, Relationship, & Community</p>
+    </a>
+  ),
+  technology_humanity: (
+    <a href={"Plots/technology-humanity"} class="card card-7">
+      <p className="card-title">Chapter 7</p>
+      <p className="card-subhead">Technology & Humanity</p>
+    </a>
+  ),
+  purpose_meaning: (
+    <a href={"Plots/purpose-meaning"} class="card card-8">
+      <p className="card-title">Chapter 8</p>
+      <p className="card-subhead">Purpose & Meaning</p>
     </a>
   ),
 }
@@ -67,16 +89,35 @@ export default (() => {
               </a>
               <SearchComponent {...componentData} />
             </div>
-            <div class="landing-header">Hello, welcome to a garden.</div>
-            <p class="page-subhead">
-              Explore our web of living ideas. Check out the <a href="/about">about section</a>{" "}
-              to learn more.
-            </p>
+            <div class="landing-header">Hello, welcome to a book.</div>
+            <p class="page-subhead"></p>
             <div class="flexer">
+              <p>
+                “The skill of writing is to create a context in which other people can think” —Edwin
+                Schlossberg
+                <br />
+                <br />
+                We believe that the web's words are thought-provoking, but its context is not. We've
+                all bookmarked articles and saved links, only to forget them in the endless deluge
+                of the internet.
+                <br />
+                <br />
+                That's why we're making a book. A real-world, tangible, annotatable, throwable,
+                shareable book. Collaborating with authors worldwide, we're exploring **how to live
+                the good life**. Rather than weaving a tapestry from scratch, this book embraces
+                building on others' thinking on the subjects below.
+                <br />
+                <br />
+                Think of it as an anthology—or better yet, a quilt. Short and medium-form essays
+                from various authors will serve as patches, with gentle transitions stitching the
+                pieces together.
+              </p>
+              <br />
+              <p></p>
               <div class="recent-notes">
                 <br />
-                <RecentPiecesComponent {...componentData} />
-                <RecentNotesComponent {...componentData} />
+                {/* <RecentPiecesComponent {...componentData} />
+                <RecentNotesComponent {...componentData} /> */}
               </div>
               <div class="issue-container">
                 {Object.values(CARDS)}

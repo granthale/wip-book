@@ -1,1 +1,0 @@
-See his main website [here](https://andymatuschak.org/) and his notes [here](https://notes.andymatuschak.org/About_these_notes).

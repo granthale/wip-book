@@ -1,1 +1,0 @@
-See his main website [here](https://michaelnielsen.org/) and his notebook [here](https://michaelnotebook.com/).
