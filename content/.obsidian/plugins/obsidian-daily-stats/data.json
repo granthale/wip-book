@@ -32,37 +32,10 @@
     "2024/2/10": 288,
     "2024/2/16": 52,
     "2024/2/24": 0,
-    "2024/8/14": 4
+    "2024/8/14": 4,
+    "2024/8/15": 0
   },
   "todaysWordCount": {
-    "Authors/sam.md": {
-      "initial": 3,
-      "current": 3
-    },
-    "Plots/Agency & Identity.md": {
-      "initial": 118,
-      "current": 3
-    },
-    "Plots/well-being-n-self-care-n-mindfulness.md": {
-      "initial": 3,
-      "current": 7
-    },
-    "Plots/agency-n-identity.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Plots/payments.md": {
-      "initial": 17,
-      "current": 17
-    },
-    "Plots/thinking-n-learning.md": {
-      "initial": 5,
-      "current": 5
-    },
-    "Plots/writing.md": {
-      "initial": 6,
-      "current": 4
-    },
     "Plots/conversation-relationships-community.md": {
       "initial": 6,
       "current": 6

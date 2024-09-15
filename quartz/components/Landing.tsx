@@ -4,7 +4,7 @@ import RecentNotes from "./RecentNotes"
 import { SimpleSlug } from "../util/path"
 import Search from "./Search"
 
-export const TOTAL_CARDS = 5
+export const TOTAL_CARDS = 8
 export const CARDS = {
   agency_identity: (
     <a href={"Plots/agency-identity"} class="card card-1">
@@ -93,27 +93,35 @@ export default (() => {
             <p class="page-subhead"></p>
             <div class="flexer">
               <p>
-                “The skill of writing is to create a context in which other people can think” —Edwin
-                Schlossberg
+                <span class="blockquote">
+                  “The skill of writing is to create a context in which other people can think”
+                  —Edwin Schlossberg
+                </span>
                 <br />
                 <br />
-                We believe that the web's words are thought-provoking, but its context is not. We've
-                all bookmarked articles and saved links, only to forget them in the endless deluge
-                of the internet.
+                <span style="font-weight: bold">
+                  We believe that the web's words are thought-provoking, but its context is not.{" "}
+                </span>
+                We've all bookmarked articles and saved links, only to forget them in the endless
+                deluge of the internet.
                 <br />
                 <br />
                 That's why we're making a book. A real-world, tangible, annotatable, throwable,
-                shareable book. Collaborating with authors worldwide, we're exploring **how to live
-                the good life**. Rather than weaving a tapestry from scratch, this book embraces
+                shareable book. Collaborating with authors worldwide, we're exploring how to live
+                the good life. Rather than weaving a tapestry from scratch, this book embraces
                 building on others' thinking on the subjects below.
                 <br />
                 <br />
                 Think of it as an anthology—or better yet, a quilt. Short and medium-form essays
                 from various authors will serve as patches, with gentle transitions stitching the
                 pieces together.
+                <br />
+                <br />
+                This website is our attempt to write the book in public. We hope that for readers,
+                this is revealing, and for authors, comforting.
               </p>
               <br />
-              <p></p>
+
               <div class="recent-notes">
                 <br />
                 {/* <RecentPiecesComponent {...componentData} />
