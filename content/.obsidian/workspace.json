@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f22ab8a30d46cca",
+            "id": "6a8fc44b31e5eef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/conversation-relationships-community.md",
+                "file": "Authors/grant.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6a8fc44b31e5eef7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots/conversation-relationships-community.md",
+                "file": "Authors/grant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots/conversation-relationships-community.md",
+                "file": "Authors/grant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots/conversation-relationships-community.md"
+                "file": "Authors/grant.md"
               }
             }
           },
@@ -157,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Plots/conversation-relationships-community.md"
+                "file": "Authors/grant.md"
               }
             }
           },
@@ -168,8 +160,17 @@
               "type": "stats-tracker",
               "state": {}
             }
+          },
+          {
+            "id": "64557af5d94da207",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -186,13 +187,15 @@
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": true,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6a8fc44b31e5eef7",
   "lastOpenFiles": [
-    "Plots/writing-reflection.md",
+    "Authors/neel.md",
     "Plots/conversation-relationships-community.md",
+    "Plots/writing-reflection.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
     "Plots/purpose-meaning.md",
@@ -201,7 +204,6 @@
     "Plots/well-being-self-care-mindfulness.md",
     "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
-    "Authors/neel.md",
     "Authors/grant.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",

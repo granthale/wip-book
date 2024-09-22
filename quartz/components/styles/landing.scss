@@ -176,26 +176,26 @@ hr.solid {
 
 .card-1 {
   background: #e74018;
-  background-image: url("./static/red-garden.png");
+  background-image: url("./static/soil.png");
   background-size: cover;
   overflow: visible;
 }
 
 .card-2 {
   background: #d6a97d;
-  background-image: url("./static/tan-garden.png");
+  background-image: url("./static/soil.png");
   background-size: cover;
 }
 
 .card-3 {
   background: #00a16c;
-  background-image: url("./static/dollar-garden.png");
+  background-image: url("./static/soil.png");
   background-size: cover;
 }
 
 .card-4 {
   background: #ad7e95;
-  background-image: url("./static/purple-garden.png");
+  background-image: url("./static/soil.png");
   background-size: cover;
 }
 
@@ -286,7 +286,7 @@ hr.solid {
 
 @media screen and (max-width: 750px) {
   .flexer {
-    flex-direction: column-reverse;
+    flex-direction: column;
     padding-right: 32px; /* Adjust value as needed */
   }
 }

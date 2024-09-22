@@ -33,12 +33,13 @@
     "2024/2/16": 52,
     "2024/2/24": 0,
     "2024/8/14": 4,
-    "2024/8/15": 0
+    "2024/8/15": 0,
+    "2024/8/22": 0
   },
   "todaysWordCount": {
-    "Plots/conversation-relationships-community.md": {
-      "initial": 6,
-      "current": 6
+    "Authors/grant.md": {
+      "initial": 17,
+      "current": 17
     }
   }
 }
