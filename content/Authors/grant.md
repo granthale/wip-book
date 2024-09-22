@@ -1,4 +1,4 @@
 ---
 title: Grant Hale
 ---
-You can find out more about him at his [personal website](https://granthale.com).
+Learn more at [granthale.com](https://granthale.com).

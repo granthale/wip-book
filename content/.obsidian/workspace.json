@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authors/grant.md",
+                "file": "Authors/neel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authors/grant.md",
+                "file": "Authors/neel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Authors/grant.md",
+                "file": "Authors/neel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authors/grant.md"
+                "file": "Authors/neel.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Authors/grant.md"
+                "file": "Authors/neel.md"
               }
             }
           },
@@ -193,6 +192,7 @@
   },
   "active": "6a8fc44b31e5eef7",
   "lastOpenFiles": [
+    "Authors/grant.md",
     "Authors/neel.md",
     "Plots/conversation-relationships-community.md",
     "Plots/writing-reflection.md",
@@ -204,7 +204,6 @@
     "Plots/well-being-self-care-mindfulness.md",
     "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
-    "Authors/grant.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
     "images/skating.png",
