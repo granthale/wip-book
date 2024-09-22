@@ -31,9 +31,9 @@ export const CARDS = {
     </a>
   ),
   writing: (
-    <a href={"Plots/writing"} class="card card-5">
+    <a href={"Plots/writing-reflection"} class="card card-5">
       <p className="card-title">Chapter 5</p>
-      <p className="card-subhead">Writing</p>
+      <p className="card-subhead">Writing & Reflection</p>
     </a>
   ),
   conversation_relationship_community: (
@@ -89,44 +89,67 @@ export default (() => {
               </a>
               <SearchComponent {...componentData} />
             </div>
-            <div class="landing-header">Hello, welcome to a book.</div>
+            <div class="landing-header">Hello, welcome to a book in progress...</div>
             <p class="page-subhead"></p>
             <div class="flexer">
-              <p>
-                <span class="blockquote">
-                  “The skill of writing is to create a context in which other people can think”
-                  —Edwin Schlossberg
-                </span>
-                <br />
-                <br />
-                <span style="font-weight: bold">
-                  We believe that the web's words are thought-provoking, but its context is not.{" "}
-                </span>
-                We've all bookmarked articles and saved links, only to forget them in the endless
-                deluge of the internet.
-                <br />
-                <br />
-                That's why we're making a book. A real-world, tangible, annotatable, throwable,
-                shareable book. Collaborating with authors worldwide, we're exploring how to live
-                the good life. Rather than weaving a tapestry from scratch, this book embraces
-                building on others' thinking on the subjects below.
-                <br />
-                <br />
-                Think of it as an anthology—or better yet, a quilt. Short and medium-form essays
-                from various authors will serve as patches, with gentle transitions stitching the
-                pieces together.
-                <br />
-                <br />
-                This website is our attempt to write the book in public. We hope that for readers,
-                this is revealing, and for authors, comforting.
-              </p>
-              <br />
+              <div>
+                <div class="intro-box">
+                  <div class="intro-text">
+                    <span class="styled-quote">
+                      “The skill of writing is to create a context in which other people can think”
+                      <span class="quote-author">—Edwin Schlossberg</span>
+                    </span>
+                    <p>
+                      <strong>
+                        We believe that the web’s words are thought-provoking, but its context is
+                        not.
+                      </strong>{" "}
+                      We’ve all bookmarked articles and saved links, only to lose them in the
+                      endless deluge of the internet.
+                    </p>
 
-              <div class="recent-notes">
-                <br />
-                {/* <RecentPiecesComponent {...componentData} />
-                <RecentNotesComponent {...componentData} /> */}
+                    <p>
+                      <strong>That’s why we’re making a book—</strong>a real-world, tangible,
+                      annotatable, throwable, sharable book. This website offers a window into our
+                      work in progress.
+                    </p>
+
+                    <p>
+                      <strong>What’s the book about?</strong> We’re curating the internet’s answer
+                      on how to live the good life. “Curating” because rather than weaving a
+                      tapestry from scratch, this book builds on the thoughts of others. Think of it
+                      as an anthology—or better yet, a quilt. Short and medium-form essays from
+                      various authors will serve as patches, with gentle transitions stitching the
+                      pieces together.
+                    </p>
+
+                    <p>
+                      <strong>What does this mean for the authors we feature?</strong> Copyright
+                      protects internet writing, which means the quality of this book depends on our
+                      ability to obtain authors’ permissions to print their work. To accomplish
+                      this, we’re using this website to demonstrate our intentions and commitment to
+                      thoughtful collaboration.
+                    </p>
+
+                    <p>
+                      <strong>Thanks for checking in!</strong> We hope this site is a cozy place to
+                      follow along as we work. Here is the{" "}
+                      <a href="https://g-ha.notion.site/a461c8f959d149fb8d696dbcc87e253b?v=b71608fc002f4c7da130cc1c8bb996f6&pvs=4">
+                        master list of pieces
+                      </a>{" "}
+                      we’re considerings. More generally, feel free to explore, break things, and{" "}
+                      <a href="mailto:granthale10@gmail.com,youfoundneel@gmail.com">let us know</a>{" "}
+                      if there are any writings you’d love to see in print!
+                    </p>
+                  </div>
+                </div>
               </div>
+              <br />
+              {/* <div class="recent-notes"> */}
+              {/* <br /> */}
+              {/* <RecentPiecesComponent {...componentData} />
+                <RecentNotesComponent {...componentData} /> */}
+              {/* </div> */}
               <div class="issue-container">
                 {Object.values(CARDS)}
                 {/* {Array(TOTAL_CARDS - Object.keys(CARDS).length)

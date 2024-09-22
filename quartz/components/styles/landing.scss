@@ -38,20 +38,96 @@ hr.solid {
   border-top: 3px solid #bbb;
 }
 
-.blockquote {
-  margin: 1rem 0;
-  border-left: 3px solid var(--secondary);
-  padding-left: 1rem;
-  transition: border-color 0.2s ease;
+//////////// Book introduction ////////////
+.styled-quote {
+  font-style: italic;
+  font-size: 1.5rem; /* Adjust size as needed */
+  color: #333; /* Dark gray for text */
+  border-left: 4px solid #ccc; /* A subtle vertical line */
+  padding-left: 16px;
+  margin: 20px auto;
+  max-width: 600px;
+  line-height: 1.6;
+  text-align: right;
+}
+
+.quote-author {
+  display: block;
+  // margin-top: 10px;
+  font-size: 1.2rem;
+  color: #c0bfbf; /* Lighter gray for the author */
+}
+
+.intro-box {
+  background-color: #f9f9f9; /* Light background color for the box */
+  border-radius: 12px; /* Rounded corners */
+  padding: 30px; /* Padding around the text */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  max-width: 800px; /* Limit width of the box */
+  // margin: 40px auto; /* Center the box with spacing above and below */
+  border: 1px solid #e0e0e0; /* Light border around the box */
+}
+
+.intro-text {
+  font-family: "Georgia", serif; /* Classic, readable serif font */
+  font-size: 1.1rem; /* Slightly larger font for better readability */
+  line-height: 1.8; /* More space between lines */
+  color: #333; /* Dark gray for text */
+  margin: 0; /* Remove default margins */
+}
+
+.intro-text p {
+  margin-bottom: 20px; /* Space between paragraphs */
+}
+
+.intro-text strong {
+  font-weight: bold;
+  color: #000;
+}
+
+.intro-text em {
+  font-style: italic;
+}
+
+.intro-text span.highlight {
+  background-color: #f5f5f5; /* Light highlight background */
+  padding: 0 4px;
+  border-radius: 3px;
+}
+
+.intro-text a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.intro-text a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive styling */
+@media screen and (max-width: 768px) {
+  .intro-box {
+    padding: 20px;
+  }
+  .intro-text {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro-text {
+    font-size: 1rem; /* Slightly smaller font on smaller screens */
+    padding: 0 15px; /* Adjust padding on smaller screens */
+  }
 }
 
 //////////// Cards & Container ////////////
 
 .issue-container {
   display: grid;
-  grid-template-columns: repeat(3, 250px);
+  grid-template-columns: repeat(2, 250px);
   // grid-template-columns: repeat(4, 250px);
-  grid-template-rows: repeat(2, 1fr);
+  // grid-template-rows: repeat(2, 1fr);
   gap: 12px;
 }
 
@@ -92,6 +168,8 @@ hr.solid {
 
 .flexer {
   display: flex;
+  gap: 2rem;
+  padding-right: 32px; /* Adjust value as needed */
 }
 
 //////////// Individual Cards ////////////
@@ -185,44 +263,30 @@ hr.solid {
 
 //////////////// Responsiveness ////////////////
 
-@media screen and (max-width: 1510px) {
+@media screen and (max-width: 1200px) {
   .landing {
     max-width: 750px;
   }
 
-  .navbar {
-    position: initial;
-  }
-
-  .issue-container {
-    grid-template-columns: repeat(2, 250px);
-  }
-
-  .recent-notes {
-    width: 250px;
-  }
-}
-
-/* media queries */
-@media screen and (max-width: 1200px) {
   .issue-container {
     grid-template-columns: repeat(1, minmax(250px, 1fr));
   }
-  .navbar {
-    max-width: 820px;
-  }
+  
 }
 
-@media screen and (max-width: 750px) {
-  // .issue-container {
-  //   grid-template-columns: repeat(1, minmax(250px, 1fr));
-  //   gap: 8px;
-  // }
+/* media queries */
+// @media screen and (max-width: 1200px) {
+//   .issue-container {
+//     grid-template-columns: repeat(1, minmax(250px, 1fr));
+//   }
+//   .navbar {
+//     max-width: 820px;
+//   }
+// }
 
-  .recent-notes {
-    display: none;
-  }
+@media screen and (max-width: 750px) {
   .flexer {
     flex-direction: column-reverse;
+    padding-right: 32px; /* Adjust value as needed */
   }
 }

@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a8fc44b31e5eef7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f22ab8a30d46cca",
+  "active": "6a8fc44b31e5eef7",
   "lastOpenFiles": [
+    "Plots/writing-reflection.md",
     "Plots/conversation-relationships-community.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
@@ -212,7 +222,6 @@
     "Notes/Mark Nagelberg GPT x Anki Copilot.md",
     "Notes/How important is it to create your own Anki prompts?.md",
     "Notes/Andy Matuschak.md",
-    "Notes/Our learning baseline is set too low.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
