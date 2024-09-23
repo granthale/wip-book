@@ -11,13 +11,8 @@
             "id": "6baebef4f1accec3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "about.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "about.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "about.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,19 +178,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6baebef4f1accec3",
+  "active": "64557af5d94da207",
   "lastOpenFiles": [
+    "about.md",
     "Plots/writing-reflection.md",
     "Plots/purpose-meaning.md",
     "Plots/conversation-relationships-community.md",
     "Authors/neel.md",
-    "Plots/creativity-self-expression.md",
     "Authors/grant.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
     "Plots/writing.md",
     "Plots/thinking-learning.md",
     "Plots/well-being-self-care-mindfulness.md",
+    "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
@@ -221,7 +211,6 @@
     "Notes/Concerns with LLM-powered Anki.md",
     "Notes/Mark Nagelberg GPT x Anki Copilot.md",
     "Notes/How important is it to create your own Anki prompts?.md",
-    "Notes/Andy Matuschak.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
