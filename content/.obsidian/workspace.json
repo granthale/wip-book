@@ -11,8 +11,13 @@
             "id": "c681e7e853e25bf8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           },
           {
@@ -139,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           },
           {
@@ -163,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +192,7 @@
   "active": "c681e7e853e25bf8",
   "lastOpenFiles": [
     "Authors/neel.md",
+    "Plots/creativity-self-expression.md",
     "Authors/grant.md",
     "Plots/conversation-relationships-community.md",
     "Plots/writing-reflection.md",
@@ -192,7 +202,6 @@
     "Plots/writing.md",
     "Plots/thinking-learning.md",
     "Plots/well-being-self-care-mindfulness.md",
-    "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
