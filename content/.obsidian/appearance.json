@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "system",
   "baseFontSize": 21,
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "customWidth"
-  ]
+  ],
+  "translucency": false
 }

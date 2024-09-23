@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "611c17273f79b0bf",
+        "id": "f56c6684a96b7db7",
         "type": "tabs",
         "children": [
           {
-            "id": "c681e7e853e25bf8",
+            "id": "6baebef4f1accec3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -163,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c681e7e853e25bf8",
+  "active": "6baebef4f1accec3",
   "lastOpenFiles": [
+    "Plots/writing-reflection.md",
+    "Plots/purpose-meaning.md",
+    "Plots/conversation-relationships-community.md",
     "Authors/neel.md",
     "Authors/grant.md",
-    "Plots/conversation-relationships-community.md",
-    "Plots/writing-reflection.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
-    "Plots/purpose-meaning.md",
     "Plots/writing.md",
     "Plots/thinking-learning.md",
     "Plots/well-being-self-care-mindfulness.md",
