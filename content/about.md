@@ -26,4 +26,4 @@ Our names are [[grant|Grant]] & [[neel|Sam]]. We're two good friends in the earl
 We hope you enjoy our writing, if for no other reason than the different approach. This website is very much a work in progress and we'd love to hear from you. Reach out @ ==TODO== and stay curious!
 
 **p.s.**
-*Before you leave, check out [[Agricultural Influences|the people who inspired this website]]. They've expanded the way we think about learning & writing. We know that if you enjoy our garden you'll certainly enjoy theirs.*
+*Before you leave, check out [[Agricultural Influences|the people who inspired this website]]. They've expanded the way we think about learning & writing. We know that if you enjoy our garden you'll certainly enjoy theirs.* 

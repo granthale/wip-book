@@ -11,8 +11,13 @@
             "id": "6baebef4f1accec3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "about.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           },
           {
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "about.md"
+              }
             }
           },
           {
@@ -184,13 +195,13 @@
     "Plots/purpose-meaning.md",
     "Plots/conversation-relationships-community.md",
     "Authors/neel.md",
+    "Plots/creativity-self-expression.md",
     "Authors/grant.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
     "Plots/writing.md",
     "Plots/thinking-learning.md",
     "Plots/well-being-self-care-mindfulness.md",
-    "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
