@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f56c6684a96b7db7",
+        "id": "78542b3825b29fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "6baebef4f1accec3",
+            "id": "eb08076e870fef02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plots/writing-reflection.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots/writing-reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots/writing-reflection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plots/writing-reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Plots/writing-reflection.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64557af5d94da207",
+  "active": "eb08076e870fef02",
   "lastOpenFiles": [
-    "about.md",
     "Plots/writing-reflection.md",
+    "about.md",
     "Plots/purpose-meaning.md",
     "Plots/conversation-relationships-community.md",
     "Authors/neel.md",
