@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "d421350d552ffe47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb08076e870fef02",
+  "active": "d421350d552ffe47",
   "lastOpenFiles": [
     "Plots/writing-reflection.md",
     "about.md",
