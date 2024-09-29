@@ -35,7 +35,7 @@
     "2024/8/14": 4,
     "2024/8/15": 0,
     "2024/8/22": 7,
-    "2024/8/29": 223
+    "2024/8/29": 343
   },
   "todaysWordCount": {
     "Plots/purpose-meaning.md": {
@@ -44,7 +44,7 @@
     },
     "Plots/writing-reflection.md": {
       "initial": 6,
-      "current": 60
+      "current": 180
     }
   }
 }
