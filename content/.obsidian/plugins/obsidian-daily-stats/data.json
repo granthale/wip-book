@@ -34,20 +34,17 @@
     "2024/2/24": 0,
     "2024/8/14": 4,
     "2024/8/15": 0,
-    "2024/8/22": 7
+    "2024/8/22": 7,
+    "2024/8/29": 223
   },
   "todaysWordCount": {
-    "Authors/grant.md": {
-      "initial": 17,
-      "current": 11
-    },
-    "Authors/neel.md": {
-      "initial": 4,
-      "current": 11
+    "Plots/purpose-meaning.md": {
+      "initial": 6,
+      "current": 175
     },
     "Plots/writing-reflection.md": {
       "initial": 6,
-      "current": 5
+      "current": 60
     }
   }
 }

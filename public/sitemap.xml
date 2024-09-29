@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://www.verdant.ink/About</loc>
-    <lastmod>2024-09-14T17:31:20.626Z</lastmod>
-  </url><url>
     <loc>https://www.verdant.ink/Authors/grant</loc>
     <lastmod>2024-09-22T19:17:32.346Z</lastmod>
   </url><url>
@@ -18,7 +15,7 @@
     <lastmod>2024-09-14T17:44:59.793Z</lastmod>
   </url><url>
     <loc>https://www.verdant.ink/Plots/purpose-meaning</loc>
-    <lastmod>2024-09-14T17:45:25.361Z</lastmod>
+    <lastmod>2024-09-29T15:08:50.147Z</lastmod>
   </url><url>
     <loc>https://www.verdant.ink/Plots/technology-humanity</loc>
     <lastmod>2024-09-14T17:45:22.667Z</lastmod>
@@ -30,7 +27,10 @@
     <lastmod>2024-09-14T17:45:11.211Z</lastmod>
   </url><url>
     <loc>https://www.verdant.ink/Plots/writing-reflection</loc>
-    <lastmod>2024-09-22T16:58:06.128Z</lastmod>
+    <lastmod>2024-09-23T01:54:20.380Z</lastmod>
+  </url><url>
+    <loc>https://www.verdant.ink/about</loc>
+    <lastmod>2024-09-23T01:52:06.781Z</lastmod>
   </url><url>
     <loc>https://www.verdant.ink/</loc>
     <lastmod>2024-06-22T17:33:59.711Z</lastmod>

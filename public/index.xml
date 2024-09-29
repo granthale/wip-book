@@ -6,12 +6,6 @@
       <description>Last 10 notes on Verdant</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>About</title>
-    <link>https://www.verdant.ink/About</link>
-    <guid>https://www.verdant.ink/About</guid>
-    <description> “The skill of writing is to create a context in which other people can think” — Edwin Schlossberg Thesis § As you peruse, you’ll notice that this isn’t your average blog.</description>
-    <pubDate>Sat, 14 Sep 2024 17:31:20 GMT</pubDate>
-  </item><item>
     <title>Grant Hale</title>
     <link>https://www.verdant.ink/Authors/grant</link>
     <guid>https://www.verdant.ink/Authors/grant</guid>
@@ -45,8 +39,8 @@
     <title>§ Chapter 8: Purpose &amp; Meaning</title>
     <link>https://www.verdant.ink/Plots/purpose-meaning</link>
     <guid>https://www.verdant.ink/Plots/purpose-meaning</guid>
-    <description></description>
-    <pubDate>Sat, 14 Sep 2024 17:45:25 GMT</pubDate>
+    <description> Meaning is not something you stumble across, like the answer to a riddle or the prize in a treasure hunt. Meaning is something you build into your life.</description>
+    <pubDate>Sun, 29 Sep 2024 15:08:50 GMT</pubDate>
   </item><item>
     <title>§ Chapter 7: Technology &amp; Humanity</title>
     <link>https://www.verdant.ink/Plots/technology-humanity</link>
@@ -65,6 +59,12 @@
     <guid>https://www.verdant.ink/Plots/wellbeing-selfcare-mindfulness</guid>
     <description></description>
     <pubDate>Sat, 14 Sep 2024 17:45:11 GMT</pubDate>
+  </item><item>
+    <title>§ Chapter 5: Writing &amp; Reflection</title>
+    <link>https://www.verdant.ink/Plots/writing-reflection</link>
+    <guid>https://www.verdant.ink/Plots/writing-reflection</guid>
+    <description></description>
+    <pubDate>Mon, 23 Sep 2024 01:54:20 GMT</pubDate>
   </item>
     </channel>
   </rss>

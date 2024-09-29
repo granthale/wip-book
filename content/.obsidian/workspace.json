@@ -11,20 +11,16 @@
             "id": "eb08076e870fef02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d421350d552ffe47",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plots/writing-reflection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -91,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plots/writing-reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plots/writing-reflection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plots/writing-reflection.md"
+              }
             }
           },
           {
@@ -148,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Plots/writing-reflection.md"
+              }
             }
           },
           {
@@ -172,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,18 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d421350d552ffe47",
+  "active": "eb08076e870fef02",
   "lastOpenFiles": [
-    "Plots/writing-reflection.md",
-    "about.md",
     "Plots/purpose-meaning.md",
+    "Plots/writing-reflection.md",
     "Plots/conversation-relationships-community.md",
+    "Plots/thinking-learning.md",
+    "about.md",
     "Authors/neel.md",
     "Authors/grant.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology-humanity.md",
     "Plots/writing.md",
-    "Plots/thinking-learning.md",
     "Plots/well-being-self-care-mindfulness.md",
     "Plots/creativity-self-expression.md",
     "Plots/agency-identity.md",
