@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "writing-reflection"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for writing-reflection"
             }
           },
           {
@@ -106,7 +116,9 @@
                 "file": "Plots/writing-reflection.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from writing-reflection"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,7 +141,9 @@
               "type": "outline",
               "state": {
                 "file": "Plots/writing-reflection.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of writing-reflection"
             }
           },
           {
@@ -139,7 +155,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -149,7 +167,9 @@
               "type": "file-properties",
               "state": {
                 "file": "Plots/writing-reflection.md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "File properties for writing-reflection"
             }
           },
           {
@@ -157,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "stats-tracker",
-              "state": {}
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
             }
           },
           {
@@ -165,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
