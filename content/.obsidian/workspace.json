@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "writing-reflection"
             }
-          },
-          {
-            "id": "f22173c3f6945177",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f22173c3f6945177",
+  "active": "eb08076e870fef02",
   "lastOpenFiles": [
     "Plots/writing-reflection.md",
     "Plots/purpose-meaning.md",
