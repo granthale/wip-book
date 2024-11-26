@@ -1,7 +1,7 @@
 ---
 title: "§ Chapter 5: Writing & Reflection"
 ---
-	## Why write?
+e	## Why write?
 - [More People Should Write](https://jsomers.net/blog/more-people-should-write) by James Somers
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 - "The reader lives faster than life, the writer slower".
