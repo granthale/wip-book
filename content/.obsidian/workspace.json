@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38cd9db9287d347a",
+        "id": "858056a7fd78f8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "49680f83aac01841",
+            "id": "76fd27c76331fa3b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -187,6 +187,16 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "9991afed4906cb25",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
+            }
           }
         ],
         "currentTab": 7
@@ -205,24 +215,27 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "daily-notes:Open today's daily note": true,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49680f83aac01841",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
-    "Plots/writing-reflection.md",
+    "index.md",
+    "Plots/identity.md",
     "Plots/purpose-meaning.md",
-    "Plots/conversation-relationships-community.md",
+    "Plots/writing.md",
+    "Plots/agency.md",
+    "Plots/creativity-self-expression.md",
     "Plots/thinking-learning.md",
+    "Plots/wellbeing-selfcare-mindfulness.md",
+    "Plots/technology.md",
+    "Plots/relationships-community.md",
     "about.md",
     "Authors/neel.md",
     "Authors/grant.md",
-    "Plots/wellbeing-selfcare-mindfulness.md",
-    "Plots/technology-humanity.md",
-    "Plots/writing.md",
     "Plots/well-being-self-care-mindfulness.md",
-    "Plots/creativity-self-expression.md",
-    "Plots/agency-identity.md",
     "DRAFTS_GRANT/Slow software.md",
     "DRAFTS_SAM/Context is essential when creating definitions.md",
     "images/skating.png",
@@ -240,7 +253,6 @@
     "Notes/What are the benefits to creating Anki cards from scratch?.md",
     "Notes/Concerns with LLM-powered Anki.md",
     "Notes/Mark Nagelberg GPT x Anki Copilot.md",
-    "Notes/How important is it to create your own Anki prompts?.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",

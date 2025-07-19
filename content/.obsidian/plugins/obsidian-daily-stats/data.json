@@ -2,12 +2,25 @@
   "dayCounts": {
     "2024/10/24": 0,
     "2024/10/25": 0,
-    "2024/10/29": 0
+    "2024/10/29": 0,
+    "2025/6/19": 5
   },
   "todaysWordCount": {
     "Plots/writing-reflection.md": {
-      "initial": 180,
-      "current": 180
+      "initial": 178,
+      "current": 176
+    },
+    "Plots/agency.md": {
+      "initial": 4,
+      "current": 4
+    },
+    "Plots/identity.md": {
+      "initial": 0,
+      "current": 5
+    },
+    "index.md": {
+      "initial": 4,
+      "current": 3
     }
   }
 }

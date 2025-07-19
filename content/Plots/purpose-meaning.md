@@ -1,5 +1,5 @@
 ---
-title: "§ Chapter 8: Purpose & Meaning"
+title: "§ Chapter x: Purpose & Meaning"
 ---
 In an age where it's clear 
 

@@ -1,15 +1,15 @@
 ---
-title: "§ Chapter 5: Writing & Reflection"
+title: "§ Chapter 5: Writing"
 ---
 ## Why write?
 - [More People Should Write](https://jsomers.net/blog/more-people-should-write) by James Somers
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 - "The reader lives faster than life, the writer slower".
 
-## Who to write for?
-- 
+## What to write?
 
-## How to get started writing?
+
+## How to write?
 - “The explicit point of a first draft is to get you to a second draft”
 - [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) by Andy Matuschak
 - Consider levels on the following (0-5) online scale:
