@@ -11,10 +11,15 @@
             "id": "76fd27c76331fa3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Plots/thinking-writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "thinking-writing"
             }
           }
         ]
@@ -74,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -208,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": true,
       "templates:Insert template": false,
@@ -220,15 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
+    "Plots/reading-learning.md",
+    "Plots/thinking-writing.md",
     "index.md",
     "Plots/identity.md",
     "Plots/purpose-meaning.md",
-    "Plots/writing.md",
     "Plots/agency.md",
     "Plots/creativity-self-expression.md",
-    "Plots/thinking-learning.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/technology.md",
     "Plots/relationships-community.md",

@@ -3,24 +3,21 @@
     "2024/10/24": 0,
     "2024/10/25": 0,
     "2024/10/29": 0,
-    "2025/6/19": 5
+    "2025/6/19": 5,
+    "2025/8/22": 155
   },
   "todaysWordCount": {
-    "Plots/writing-reflection.md": {
-      "initial": 178,
-      "current": 176
+    "Plots/writing.md": {
+      "initial": 166,
+      "current": 242
     },
-    "Plots/agency.md": {
-      "initial": 4,
-      "current": 4
-    },
-    "Plots/identity.md": {
-      "initial": 0,
+    "Plots/thinking-learning.md": {
+      "initial": 5,
       "current": 5
     },
-    "index.md": {
-      "initial": 4,
-      "current": 3
+    "Plots/thinking-writing.md": {
+      "initial": 236,
+      "current": 315
     }
   }
 }
