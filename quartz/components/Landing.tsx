@@ -24,16 +24,16 @@ export const CARDS = {
       <p className="card-subhead">Wellbeing, self-care, & mindfulness</p>
     </a>
   ),
-  thinking_learning: (
-    <a href={"Plots/thinking-learning"} class="card card-4">
-      <p class="card-title">Chapter 4</p>
-      <p className="card-subhead">Thinking & Learning</p>
+  writing: (
+    <a href={"Plots/thinking-writing"} class="card card-5">
+      <p className="card-title">Chapter 4</p>
+      <p className="card-subhead">Thinking & Writing</p>
     </a>
   ),
-  writing: (
-    <a href={"Plots/writing-reflection"} class="card card-5">
-      <p className="card-title">Chapter 5</p>
-      <p className="card-subhead">Writing & Reflection</p>
+  thinking_learning: (
+    <a href={"Plots/reading-learning"} class="card card-4">
+      <p class="card-title">Chapter 5</p>
+      <p className="card-subhead">Reading & Learning</p>
     </a>
   ),
   conversation_relationship_community: (
