@@ -1,5 +1,5 @@
 ---
-title: "§ Chapter 5: Thinking & Writing"
+title: "§ Chapter 4: Thinking & Writing"
 ---
 ## Why write?
 - [More People Should Write](https://jsomers.net/blog/more-people-should-write) by James Somers

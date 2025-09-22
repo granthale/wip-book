@@ -1,3 +1,3 @@
 ---
-title: "§ Chapter 4: Reading & Learning"
+title: "§ Chapter 5: Reading & Learning"
 ---
