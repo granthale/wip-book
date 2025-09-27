@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/work & career.md",
+                "file": "Plots/reading-learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work & career"
+              "title": "reading-learning"
             }
           }
         ]
@@ -229,8 +229,8 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
-    "INTERNAL.md",
     "Plots/work & career.md",
+    "INTERNAL.md",
     "Plots/thinking.md",
     "Plots/writing.md",
     "Plots/identity.md",

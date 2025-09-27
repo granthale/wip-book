@@ -5,28 +5,13 @@
     "2024/10/29": 0,
     "2025/6/19": 5,
     "2025/8/22": 155,
-    "2025/8/24": 36
+    "2025/8/24": 36,
+    "2025/8/26": 6
   },
   "todaysWordCount": {
-    "Plots/identity.md": {
+    "Plots/reading-learning.md": {
       "initial": 5,
-      "current": 5
-    },
-    "INTERNAL.md": {
-      "initial": 5,
-      "current": 13
-    },
-    "Plots/writing.md": {
-      "initial": 314,
-      "current": 314
-    },
-    "Plots/thinking.md": {
-      "initial": 0,
-      "current": 12
-    },
-    "Plots/work & career.md": {
-      "initial": 0,
-      "current": 16
+      "current": 11
     }
   }
 }
