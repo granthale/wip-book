@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -230,11 +229,11 @@
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
     "Plots/work & career.md",
+    "Plots/reading-learning.md",
     "INTERNAL.md",
     "Plots/thinking.md",
     "Plots/writing.md",
     "Plots/identity.md",
-    "Plots/reading-learning.md",
     "Plots/purpose-meaning.md",
     "Plots/agency.md",
     "Plots/relationships-community.md",

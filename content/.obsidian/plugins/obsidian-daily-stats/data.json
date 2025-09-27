@@ -6,12 +6,17 @@
     "2025/6/19": 5,
     "2025/8/22": 155,
     "2025/8/24": 36,
-    "2025/8/26": 6
+    "2025/8/26": 6,
+    "2025/8/27": 25
   },
   "todaysWordCount": {
     "Plots/reading-learning.md": {
-      "initial": 5,
-      "current": 11
+      "initial": 11,
+      "current": 23
+    },
+    "Plots/work & career.md": {
+      "initial": 16,
+      "current": 29
     }
   }
 }
