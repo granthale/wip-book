@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/work & career.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work & career"
+              "title": "about"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -228,10 +229,12 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
+    "images/digital-garden.webp",
+    "images/growth.webp",
+    "Plots/work & career.md",
     "Plots/wellbeing-selfcare-mindfulness.md",
     "Plots/thinking.md",
     "Plots/reading-learning.md",
-    "Plots/work & career.md",
     "INTERNAL.md",
     "Plots/writing.md",
     "Plots/identity.md",
@@ -258,7 +261,6 @@
     "Notes/Resources I'm using to learn about climate.md",
     "Notes/Piotr's 20 rules of knowledge formulation.md",
     "Notes/Andy's prompt writing principles.md",
-    "Notes/What are the benefits to using LLM-powered Anki?.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",
@@ -275,7 +277,6 @@
     "REFERENCE/READWISE",
     "REFERENCE/IMAGES/how to create a good habit.png",
     "REFERENCE/IMAGES/how to break a bad habit.png",
-    "REFERENCE/IMAGES/iconic-addition-multiplication.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"

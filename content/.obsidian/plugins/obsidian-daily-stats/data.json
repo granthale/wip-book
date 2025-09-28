@@ -7,20 +7,13 @@
     "2025/8/22": 155,
     "2025/8/24": 36,
     "2025/8/26": 6,
-    "2025/8/27": 67
+    "2025/8/27": 67,
+    "2025/8/28": 0
   },
   "todaysWordCount": {
-    "Plots/reading-learning.md": {
-      "initial": 11,
-      "current": 23
-    },
-    "Plots/work & career.md": {
-      "initial": 16,
-      "current": 42
-    },
-    "Plots/wellbeing-selfcare-mindfulness.md": {
-      "initial": 8,
-      "current": 37
+    "about.md": {
+      "initial": 411,
+      "current": 410
     }
   }
 }
