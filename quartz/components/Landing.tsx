@@ -153,9 +153,6 @@ export default (() => {
             </div>
             <footer class="landing-footer">
               <div class="footer-links">
-                <a href="https://granthale.com" target="_blank" rel="noopener noreferrer">
-                  Website
-                </a>
                 <a href="https://twitter.com/grant__hale" target="_blank" rel="noopener noreferrer">
                   Twitter
                 </a>
