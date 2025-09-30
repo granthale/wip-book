@@ -156,6 +156,13 @@ export default (() => {
                 <a href="https://twitter.com/grant__hale" target="_blank" rel="noopener noreferrer">
                   Twitter
                 </a>
+                <a
+                  href="https://www.are.na/grant-hale/channels"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Are.na
+                </a>
                 <a href="mailto:granthale10@gmail.com">Email</a>
               </div>
             </footer>
