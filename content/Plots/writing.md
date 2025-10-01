@@ -10,7 +10,6 @@ These pieces are about more than just writing — they're about the importance o
 
 Writing is then the tool to grow, deepen, revise, and bat around our thinking over time
 - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
-- "The reader lives faster than life, the writer slower".
 
 ## How to write?
 - “The explicit point of a first draft is to get you to a second draft”
@@ -18,9 +17,5 @@ Writing is then the tool to grow, deepen, revise, and bat around our thinking ov
 - [Six Rules for Rewriting](https://michaelnielsen.org/blog/six-rules-for-rewriting/) by Michael Nielsen
 - [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) by Andy Matuschak
 
-## How to post?
-> Consider levels on the following (0-5) online scale:
-- Absent-Lurker-Commenter-Poster/Blogger-Organizer-Leader. You could have a similar offline scale: Absent-Silent-Talker-Presenter-Organizer-Leader.
-- My rule of thumb would be: Assume that you are ready to be one level higher than you think you are ready for. [Zvi](https://thezvi.wordpress.com/2017/04/09/youre-good-enough-youre-smart-enough-and-people-would-like-you/)**
-
+## How to use writing to learn?
 If we are to learn, it seems more appropriate to write beforehand. This helps us define our questions, preoccupations, and as [Richard Hamming puts it](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), "our hooks". Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). See [[reading-learning]].
