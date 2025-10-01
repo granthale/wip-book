@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -226,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f929e7348403c66",
+  "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
     "about.md",
     "images/digital-garden.webp",
