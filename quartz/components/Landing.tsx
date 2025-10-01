@@ -5,66 +5,47 @@ import { SimpleSlug } from "../util/path"
 import Search from "./Search"
 import Graph from "./Graph"
 
-export const TOTAL_CARDS = 11
+export const TOTAL_CARDS = 7
 export const CARDS = {
-  agency: (
-    <a href={"Plots/agency"} class="card card-1">
-      <p class="card-title">Agency</p>
+  community: (
+    <a href={"/Plots/community"} class="card card-1">
+      <p class="card-title">Community</p>
     </a>
   ),
-  creativity_self_expression: (
-    <a href={"Plots/creativity-self-expression"} class="card card-1">
-      <p class="card-title">Creativity & Self-Expression</p>
-    </a>
-  ),
-  identity: (
-    <a href={"Plots/identity"} class="card card-1">
-      <p class="card-title">Identity</p>
-    </a>
-  ),
-  purpose_meaning: (
-    <a href={"Plots/purpose-meaning"} class="card card-1">
-      <p class="card-title">Purpose & Meaning</p>
+  purpose: (
+    <a href={"/Plots/purpose"} class="card card-1">
+      <p class="card-title">Purpose</p>
     </a>
   ),
   reading_learning: (
-    <a href={"Plots/reading-learning"} class="card card-1">
+    <a href={"/Plots/reading-learning"} class="card card-1">
       <p class="card-title">Reading & Learning</p>
     </a>
   ),
-  relationships_community: (
-    <a href={"Plots/relationships-community"} class="card card-1">
-      <p class="card-title">Relationships & Community</p>
-    </a>
-  ),
-  technology: (
-    <a href={"Plots/technology"} class="card card-1">
-      <p class="card-title">Technology</p>
+  self_stories: (
+    <a href={"/Plots/self-stories"} class="card card-1">
+      <p class="card-title">Self Stories</p>
     </a>
   ),
   thinking: (
-    <a href={"Plots/thinking"} class="card card-1">
+    <a href={"/Plots/thinking"} class="card card-1">
       <p class="card-title">Thinking</p>
     </a>
   ),
-  wellbeing_selfcare: (
-    <a href={"Plots/wellbeing-selfcare-mindfulness"} class="card card-1">
-      <p class="card-title">Wellbeing, Self-Care & Mindfulness</p>
-    </a>
-  ),
-  work_career: (
-    <a href={"Plots/work & career"} class="card card-1">
-      <p class="card-title">Work & Career</p>
+  work: (
+    <a href={"/Plots/work"} class="card card-1">
+      <p class="card-title">Work</p>
     </a>
   ),
   writing: (
-    <a href={"Plots/writing"} class="card card-1">
+    <a href={"/Plots/writing"} class="card card-1">
       <p class="card-title">Writing</p>
     </a>
   ),
 }
 
-const GraphComponent = Graph({
+// configs defined once
+const graphConfig = {
   localGraph: {
     drag: true,
     zoom: true,
@@ -91,7 +72,10 @@ const GraphComponent = Graph({
     removeTags: ["index", "tag", "folder"],
     showTags: false,
   },
-})
+}
+
+// instantiate once outside the component
+const GraphComponent = Graph(graphConfig)
 
 const RecentPiecesComponent = RecentNotes({
   title: "Recent Pieces",
@@ -100,6 +84,7 @@ const RecentPiecesComponent = RecentNotes({
     f.slug!.startsWith("Pieces/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
   linkToMore: "Pieces/" as SimpleSlug,
 })
+
 const RecentNotesComponent = RecentNotes({
   title: "Recent Notes",
   limit: 2,
@@ -110,7 +95,7 @@ const RecentNotesComponent = RecentNotes({
 export default (() => {
   function LandingComponent(componentData: QuartzComponentProps) {
     const SearchComponent = Search()
-    // const DarkmodeComponent = Darkmode()
+
     return (
       <>
         <div class="landing">
@@ -140,16 +125,7 @@ export default (() => {
                 <RecentPiecesComponent {...componentData} />
                 <RecentNotesComponent {...componentData} />
               </div>
-              <div class="issue-container">
-                {Object.values(CARDS)}
-                {/* {Array(TOTAL_CARDS - Object.keys(CARDS).length)
-                .fill(0)
-                .map(() => (
-                  <div class="card card-coming">
-                    <p class="card-title">Coming Soon</p>
-                  </div>
-                ))} */}
-              </div>
+              <div class="issue-container">{Object.values(CARDS)}</div>
             </div>
             <footer class="landing-footer">
               <div class="footer-links">
