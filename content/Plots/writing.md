@@ -17,5 +17,9 @@ Writing is then the tool to grow, deepen, revise, and bat around our thinking ov
 - [Six Rules for Rewriting](https://michaelnielsen.org/blog/six-rules-for-rewriting/) by Michael Nielsen
 - [Executable strategy for writing](https://notes.andymatuschak.org/zCknixwETdFm1MWdWPwMcXs) by Andy Matuschak
 
+## Non-writing, writing
+- [Use Twitter to develop seeds, sharpen later via long form]
+- [Have great conversations]
+
 ## How to use writing to learn?
-If we are to learn, it seems more appropriate to write beforehand. This helps us define our questions, preoccupations, and as [Richard Hamming puts it](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), "our hooks". Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). See [[reading-learning]].
+It seems more appropriate to write beforehand. This helps us define our questions, preoccupations, and as [Richard Hamming puts it](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), "our hooks". Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). See [[reading-learning]].
