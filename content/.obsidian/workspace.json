@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/work & career.md",
+                "file": "Plots/agency.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work & career"
+              "title": "agency"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -227,23 +226,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fd27c76331fa3b",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
+    "Plots/work & career.md",
+    "Plots/writing.md",
+    "Plots/agency.md",
+    "Plots/creativity-self-expression.md",
+    "Plots/technology.md",
+    "Plots/thinking.md",
+    "Plots/reading-learning.md",
+    "Plots/self-stories.md",
+    "Plots/purpose.md",
+    "Plots/Community.md",
+    "Plots/identity.md",
     "about.md",
     "images/digital-garden.webp",
     "images/growth.webp",
-    "Plots/work & career.md",
-    "Plots/wellbeing-selfcare-mindfulness.md",
-    "Plots/thinking.md",
-    "Plots/reading-learning.md",
     "INTERNAL.md",
-    "Plots/writing.md",
-    "Plots/identity.md",
-    "Plots/purpose-meaning.md",
-    "Plots/agency.md",
-    "Plots/relationships-community.md",
-    "Plots/creativity-self-expression.md",
-    "Plots/technology.md",
     "index.md",
     "Authors/neel.md",
     "Authors/grant.md",
