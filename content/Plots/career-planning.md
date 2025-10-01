@@ -4,8 +4,7 @@ title: Career planning
 # Pmarca's thoughts
 [part 1](https://pmarchive.com/guide_to_career_planning_part1.html), [part 2](https://pmarchive.com/guide_to_career_planning_part2.html), [part 3](https://pmarchive.com/guide_to_career_planning_part3.html?__readwiseLocation=) (from 2007!)
 
-"Career planning = career limiting"
-- Think in terms of opportunities and skills
+"Career planning = career limiting", instead think in terms of opportunities and skills
 
 ## How to think about risk?
 - Think about career as a portfolio of jobs/roles/opportunities
