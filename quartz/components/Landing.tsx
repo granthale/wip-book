@@ -8,37 +8,37 @@ import Graph from "./Graph"
 export const TOTAL_CARDS = 7
 export const CARDS = {
   community: (
-    <a href={"/Plots/community"} class="card card-1">
+    <a href={"Plots/community"} class="card card-1">
       <p class="card-title">Community</p>
     </a>
   ),
   purpose: (
-    <a href={"/Plots/purpose"} class="card card-1">
+    <a href={"Plots/purpose"} class="card card-1">
       <p class="card-title">Purpose</p>
     </a>
   ),
   reading_learning: (
-    <a href={"/Plots/reading-learning"} class="card card-1">
+    <a href={"Plots/reading-learning"} class="card card-1">
       <p class="card-title">Reading & Learning</p>
     </a>
   ),
   self_stories: (
-    <a href={"/Plots/self-stories"} class="card card-1">
+    <a href={"Plots/self-stories"} class="card card-1">
       <p class="card-title">Self Stories</p>
     </a>
   ),
   thinking: (
-    <a href={"/Plots/thinking"} class="card card-1">
+    <a href={"Plots/thinking"} class="card card-1">
       <p class="card-title">Thinking</p>
     </a>
   ),
   work: (
-    <a href={"/Plots/work"} class="card card-1">
+    <a href={"Plots/work"} class="card card-1">
       <p class="card-title">Work</p>
     </a>
   ),
   writing: (
-    <a href={"/Plots/writing"} class="card card-1">
+    <a href={"Plots/writing"} class="card card-1">
       <p class="card-title">Writing</p>
     </a>
   ),
