@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/writing.md",
+                "file": "Plots/purpose.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "writing"
+              "title": "purpose"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -229,9 +228,9 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
+    "Plots/writing.md",
     "Plots/work.md",
     "Plots/community.md",
-    "Plots/writing.md",
     "Plots/self-stories.md",
     "Plots/purpose.md",
     "Plots/reading-learning.md",
