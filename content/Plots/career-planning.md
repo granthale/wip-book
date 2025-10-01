@@ -38,8 +38,6 @@ title: Career planning
 ## How to learn from each industry / opportunity?
 >"⁠⁠Think strategically: how would I start a firm like this today? Or, if I were starting a company in this industry today, how would it be different than this firm? Why is this firm and other firms in this industry doing what they do? What are the assumptions underneath their behavior? Should those assumptions be changing? How might this industry work differently? Which customers are being underserved? What new technologies might change things completely? How were things working 10 years ago, versus today, versus 10 years from now? And, my favorite: if the creators of this industry were starting out today, what would they be doing now?⁠⁠"
 
-— Marc Andreessen
-
 ## Working at a startup vs. growth-stage vs. big company?
 ==TODO==
 
