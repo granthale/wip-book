@@ -1,6 +1,13 @@
 ---
 title: Work
 ---
+## How to figure out what to work on?
+
+
+## What parts of a career should be planned / what shouldn't be?
+
+
+
 [The Generalist Disease](https://www.danhock.co/p/generalist-disease) by Dan Hock
 > "Generalism is not the goal. It is just a means of goal-seeking to find what it is you really want to do. Ultimately you must specialize to build real leverage, which requires the exact opposite of increasing optionality. It means being intentional about taking options off the table.
 > ... 
