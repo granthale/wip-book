@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "Plots/work & career.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "work & career"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -227,8 +226,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fd27c76331fa3b",
+  "active": "5f929e7348403c66",
   "lastOpenFiles": [
+    "about.md",
     "images/digital-garden.webp",
     "images/growth.webp",
     "Plots/work & career.md",
@@ -244,7 +244,6 @@
     "Plots/creativity-self-expression.md",
     "Plots/technology.md",
     "index.md",
-    "about.md",
     "Authors/neel.md",
     "Authors/grant.md",
     "Plots/well-being-self-care-mindfulness.md",
@@ -276,7 +275,6 @@
     "REFERENCE/READWISE/Books",
     "REFERENCE/READWISE",
     "REFERENCE/IMAGES/how to create a good habit.png",
-    "REFERENCE/IMAGES/how to break a bad habit.png",
     "REFERENCE/cognitive biases.canvas",
     "INBOX/US History.canvas",
     "Untitled 1.canvas"

@@ -8,12 +8,13 @@
     "2025/8/24": 36,
     "2025/8/26": 6,
     "2025/8/27": 67,
-    "2025/8/28": 0
+    "2025/8/28": 0,
+    "2025/8/30": 28
   },
   "todaysWordCount": {
-    "about.md": {
-      "initial": 411,
-      "current": 410
+    "Plots/work & career.md": {
+      "initial": 42,
+      "current": 70
     }
   }
 }
