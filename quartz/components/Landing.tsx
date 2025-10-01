@@ -27,9 +27,9 @@ export const CARDS = {
       <p class="card-title">Thinking</p>
     </a>
   ),
-  work: (
-    <a href={"Plots/work"} class="card card-1">
-      <p class="card-title">Work</p>
+  career_planning: (
+    <a href={"Plots/career-planning"} class="card card-1">
+      <p class="card-title">Career planning</p>
     </a>
   ),
   writing: (
