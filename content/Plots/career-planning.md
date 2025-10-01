@@ -41,7 +41,7 @@ title: Career planning
 ## Working at a startup vs. growth-stage vs. big company?
 
 
-Mostly attributable to Pmarca's goated blog ()
+Mostly attributable to Pmarca's goated blog (from 2007!)
 [Part 1](https://pmarchive.com/guide_to_career_planning_part1.html)
 [Part 2](https://pmarchive.com/guide_to_career_planning_part2.html)
 [Part 3](https://pmarchive.com/guide_to_career_planning_part3.html?__readwiseLocation=)
