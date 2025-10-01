@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/work.md",
+                "file": "Plots/career-planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "work"
+              "title": "career-planning"
             }
           }
         ]
@@ -231,7 +231,7 @@
   "lastOpenFiles": [
     "Plots/purpose.md",
     "Plots/writing.md",
-    "Plots/work.md",
+    "Plots/career-planning.md",
     "Plots/community.md",
     "Plots/self-stories.md",
     "Plots/reading-learning.md",

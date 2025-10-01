@@ -10,7 +10,7 @@
     "2025/8/27": 67,
     "2025/8/28": 0,
     "2025/8/30": 324,
-    "2025/9/1": 33
+    "2025/9/1": 441
   },
   "todaysWordCount": {
     "Plots/purpose.md": {
@@ -19,7 +19,11 @@
     },
     "Plots/work.md": {
       "initial": 350,
-      "current": 370
+      "current": 449
+    },
+    "Plots/career-planning.md": {
+      "initial": 438,
+      "current": 767
     }
   }
 }
