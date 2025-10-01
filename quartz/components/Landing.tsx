@@ -5,13 +5,8 @@ import { SimpleSlug } from "../util/path"
 import Search from "./Search"
 import Graph from "./Graph"
 
-export const TOTAL_CARDS = 7
+export const TOTAL_CARDS = 6
 export const CARDS = {
-  community: (
-    <a href={"Plots/community"} class="card card-1">
-      <p class="card-title">Community</p>
-    </a>
-  ),
   purpose: (
     <a href={"Plots/purpose"} class="card card-1">
       <p class="card-title">Purpose</p>
