@@ -1,6 +1,9 @@
 ---
 title: Career planning
 ---
+# Pmarca's thoughts
+[part 1](https://pmarchive.com/guide_to_career_planning_part1.html), [part 2](https://pmarchive.com/guide_to_career_planning_part2.html), [part 3](https://pmarchive.com/guide_to_career_planning_part3.html?__readwiseLocation=) (from 2007!)
+
 "Career planning = career limiting"
 - Think in terms of opportunities and skills
 
@@ -39,14 +42,11 @@ title: Career planning
 — Marc Andreessen
 
 ## Working at a startup vs. growth-stage vs. big company?
-
-
-Mostly attributable to Pmarca's goated blog (from 2007!)
-[Part 1](https://pmarchive.com/guide_to_career_planning_part1.html)
-[Part 2](https://pmarchive.com/guide_to_career_planning_part2.html)
-[Part 3](https://pmarchive.com/guide_to_career_planning_part3.html?__readwiseLocation=)
+==TODO==
 
 ---
+# Other thoughts
+
 [The Generalist Disease](https://www.danhock.co/p/generalist-disease) by Dan Hock
 > "Generalism is not the goal. It is just a means of goal-seeking to find what it is you really want to do. Ultimately you must specialize to build real leverage, which requires the exact opposite of increasing optionality. It means being intentional about taking options off the table.
 > ... 
@@ -62,4 +62,6 @@ Mostly attributable to Pmarca's goated blog (from 2007!)
 > "Here’s the insidious myth of career design: “You need to know what you want to do.” In reality, **searching for career certainty is career-limiting.** Why? Searching for certainty results in:
 > 1. Naively copying others
 > 2. Becoming closed off to better opportunities"
+
+> "**There’s a point when you need to stick with something for the long term to compound gains**. That’s how compounding works. Simple."
 
