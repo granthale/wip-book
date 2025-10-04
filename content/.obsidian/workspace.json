@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "career-planning"
             }
-          },
-          {
-            "id": "bb375a0e4f98a408",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb375a0e4f98a408",
+  "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
     "Plots/purpose.md",
     "Plots/writing.md",
