@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "career-planning"
             }
+          },
+          {
+            "id": "4f753fcf2504a247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plots/writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "writing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586,
-    "collapsed": true
+    "width": 288.50271224975586
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -227,15 +242,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fd27c76331fa3b",
+  "active": "4f753fcf2504a247",
   "lastOpenFiles": [
     "Plots/purpose.md",
-    "Plots/writing.md",
     "Plots/career-planning.md",
-    "Plots/community.md",
     "Plots/self-stories.md",
-    "Plots/reading-learning.md",
     "Plots/thinking.md",
+    "Plots/reading-learning.md",
+    "Plots/writing.md",
+    "Plots/community.md",
     "Plots/agency.md",
     "Plots/creativity-self-expression.md",
     "Plots/technology.md",

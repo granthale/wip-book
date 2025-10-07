@@ -10,20 +10,25 @@
     "2025/8/27": 67,
     "2025/8/28": 0,
     "2025/8/30": 324,
-    "2025/9/1": 473
+    "2025/9/1": 473,
+    "2025/9/7": 12
   },
   "todaysWordCount": {
+    "Plots/self-stories.md": {
+      "initial": 19,
+      "current": 19
+    },
+    "Plots/thinking.md": {
+      "initial": 14,
+      "current": 14
+    },
+    "Plots/reading-learning.md": {
+      "initial": 21,
+      "current": 33
+    },
     "Plots/purpose.md": {
-      "initial": 168,
+      "initial": 181,
       "current": 181
-    },
-    "Plots/work.md": {
-      "initial": 350,
-      "current": 449
-    },
-    "Plots/career-planning.md": {
-      "initial": 438,
-      "current": 799
     }
   }
 }

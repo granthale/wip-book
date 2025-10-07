@@ -1,8 +1,8 @@
 ---
 title: Reading & Learning
 ---
-[Kenjitsu](https://jsomers.net/blog/kenjitsu)
+## How to read?
+- [Kenjitsu](https://jsomers.net/blog/kenjitsu) by James Somers
 
-Sweet spot of reading / re-reading
-- Using SRS to see through mathematics
-
+## How to re-read?
+- [Using SRS to see through mathematics](https://cognitivemedium.com/srs-mathematics) by Michael Nielsen
