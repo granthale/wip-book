@@ -1,7 +1,7 @@
 ---
 title: Career
 ---
-[[Thoughts on career planning]] by Marc Andreessen
+[[Pmarca's thoughts on career planning]] by Marc Andreessen
 
 [Career Decisions] by Elad Gil
 - **Overweight** network, narket & growth rate
