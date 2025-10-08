@@ -3,7 +3,13 @@ title: Career
 ---
 [[Thoughts on career planning]] by Marc Andreessen
 
-[Career Decisions]
+[Career Decisions] by Elad Gil
+- **Overweight** network, narket & growth rate
+	- Optionality
+	- Brand
+- Underweight
+	- Role
+	- Compensation
 
 [The Generalist Disease](https://www.danhock.co/p/generalist-disease) by Dan Hock
 > "Generalism is not the goal. It is just a means of goal-seeking to find what it is you really want to do. Ultimately you must specialize to build real leverage, which requires the exact opposite of increasing optionality. It means being intentional about taking options off the table.
@@ -20,6 +26,6 @@ title: Career
 > "Searching for certainty results in:
 > 1. Naively copying others
 > 2. Becoming closed off to better opportunities"
-
+> 
 > "**There’s a point when you need to stick with something for the long term to compound gains**. That’s how compounding works. Simple."
 

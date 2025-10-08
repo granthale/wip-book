@@ -37,7 +37,7 @@
 >Why is this firm and other firms in this industry doing what they do? What are the assumptions underneath their behavior? Should those assumptions be changing? 
 >
 >How might this industry work differently? Which customers are being underserved? What new technologies might change things completely? 
-
+>
 > How were things working 10 years ago, versus today, versus 10 years from now? 
 > 
 > And, my favorite: if the creators of this industry were starting out today, what would they be doing now?⁠⁠"
