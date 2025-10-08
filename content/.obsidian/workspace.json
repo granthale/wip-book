@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Thoughts on career planning.md",
+                "file": "Plots/career.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Thoughts on career planning"
+              "title": "career"
             }
           },
           {
@@ -244,8 +244,8 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
-    "Plots/career.md",
     "Notes/Thoughts on career planning.md",
+    "Plots/career.md",
     "Plots/writing.md",
     "Plots/purpose.md",
     "Plots/self-stories.md",

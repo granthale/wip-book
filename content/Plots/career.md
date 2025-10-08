@@ -2,7 +2,8 @@
 title: Career
 ---
 [[Thoughts on career planning]] by Marc Andreessen
-> 
+
+[Career Decisions]
 
 [The Generalist Disease](https://www.danhock.co/p/generalist-disease) by Dan Hock
 > "Generalism is not the goal. It is just a means of goal-seeking to find what it is you really want to do. Ultimately you must specialize to build real leverage, which requires the exact opposite of increasing optionality. It means being intentional about taking options off the table.
@@ -16,7 +17,7 @@ title: Career
 > "One of the great things about looking for a job is that your “payoff” is almost always a max function (the best of all attempts), not an average. This is also generally true for raising VC financing, doing bizdev partnerships, hiring programmers, finding good advisors/mentors, even blogging and marketing."
 
 [How To Design Your Career](https://www.maxmarchione.com/p/career-design) by Max Marchione
-> "Here’s the insidious myth of career design: “You need to know what you want to do.” In reality, **searching for career certainty is career-limiting.** Why? Searching for certainty results in:
+> "Searching for certainty results in:
 > 1. Naively copying others
 > 2. Becoming closed off to better opportunities"
 
