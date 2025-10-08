@@ -11,24 +11,21 @@
     "2025/8/28": 0,
     "2025/8/30": 324,
     "2025/9/1": 473,
-    "2025/9/7": 12
+    "2025/9/7": 12,
+    "2025/9/8": 0
   },
   "todaysWordCount": {
-    "Plots/self-stories.md": {
-      "initial": 19,
-      "current": 19
+    "Plots/career.md": {
+      "initial": 798,
+      "current": 381
     },
-    "Plots/thinking.md": {
-      "initial": 14,
-      "current": 14
+    "Pmarca's thoughts on career planning.md": {
+      "initial": 408,
+      "current": 408
     },
-    "Plots/reading-learning.md": {
-      "initial": 21,
-      "current": 33
-    },
-    "Plots/purpose.md": {
-      "initial": 181,
-      "current": 181
+    "Notes/Thoughts on career planning.md": {
+      "initial": 403,
+      "current": 389
     }
   }
 }

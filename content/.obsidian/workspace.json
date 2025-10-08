@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/career-planning.md",
+                "file": "Notes/Thoughts on career planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "career-planning"
+              "title": "Thoughts on career planning"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "writing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.50271224975586
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -242,14 +242,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f753fcf2504a247",
+  "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
+    "Plots/career.md",
+    "Notes/Thoughts on career planning.md",
+    "Plots/writing.md",
     "Plots/purpose.md",
-    "Plots/career-planning.md",
     "Plots/self-stories.md",
     "Plots/thinking.md",
     "Plots/reading-learning.md",
-    "Plots/writing.md",
     "Plots/community.md",
     "Plots/agency.md",
     "Plots/creativity-self-expression.md",
