@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plots/career.md",
+                "file": "Notes/Pmarca's thoughts on career planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "career"
+              "title": "Pmarca's thoughts on career planning"
             }
           }
         ],
@@ -244,9 +244,9 @@
   },
   "active": "4f753fcf2504a247",
   "lastOpenFiles": [
+    "Plots/career.md",
     "Plots/writing.md",
     "Notes/Pmarca's thoughts on career planning.md",
-    "Plots/career.md",
     "Plots/purpose.md",
     "Plots/self-stories.md",
     "Plots/thinking.md",
