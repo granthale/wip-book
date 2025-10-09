@@ -5,9 +5,7 @@ title: Career
 
 [Career Decisions](https://blog.eladgil.com/p/career-decisions) by Elad Gil
 - **Overweight** network, market & growth rate, optionality, brand
-- **Underweight**
-	- Role
-	- Compensation
+- **Underweight** role, compensation
 
 [The Generalist Disease](https://www.danhock.co/p/generalist-disease) by Dan Hock
 > "Generalism is not the goal. It is just a means of goal-seeking to find what it is you really want to do. Ultimately you must specialize to build real leverage, which requires the exact opposite of increasing optionality. It means being intentional about taking options off the table.
