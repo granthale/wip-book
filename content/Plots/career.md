@@ -22,6 +22,5 @@ title: Career
 > "Searching for certainty results in:
 > 1. Naively copying others
 > 2. Becoming closed off to better opportunities"
-> 
+> ...
 > "**There’s a point when you need to stick with something for the long term to compound gains**. That’s how compounding works. Simple."
-

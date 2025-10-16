@@ -22,4 +22,9 @@ Writing is then the tool to grow, deepen, revise, and bat around our thinking ov
 - [Have great conversations]
 
 ## How to use writing to learn?
-It seems more appropriate to write beforehand. This helps us define our questions, preoccupations, and as [Richard Hamming puts it](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), "our hooks". Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). See [[reading-learning]].
+Instead of diving into answering a question immediately, it's usually more powerful to formulate a hypothesis first. This primes our brain to absorb information if the answer turns out differently from what we were expecting. Writing is an easy way to define these questions, preoccupations, and ([as Richard Hamming would call them](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)) "hooks". 
+
+Then, once we learn, having written our hypothesis, we can now improve our intuition. When compared to a thought (which is easily influenced by hindsight bias), writing is immutable. This lets us reflect on why we were wrong, and what mistaken assumptions that led to our conclusion.
+
+
+Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). 

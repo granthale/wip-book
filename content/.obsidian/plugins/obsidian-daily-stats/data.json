@@ -13,16 +13,21 @@
     "2025/9/1": 473,
     "2025/9/7": 12,
     "2025/9/8": 0,
-    "2025/9/9": 0
+    "2025/9/9": 0,
+    "2025/9/15": 95
   },
   "todaysWordCount": {
+    "Notes/Pmarca's thoughts on career planning.md": {
+      "initial": 389,
+      "current": 408
+    },
     "Plots/career.md": {
       "initial": 378,
       "current": 378
     },
-    "Notes/Pmarca's thoughts on career planning.md": {
-      "initial": 389,
-      "current": 389
+    "Plots/writing.md": {
+      "initial": 246,
+      "current": 322
     }
   }
 }

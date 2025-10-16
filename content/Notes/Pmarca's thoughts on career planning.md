@@ -11,23 +11,25 @@
 - Choose an industry where the founders are still working; it will be vibrant and full of opportunities for young, determined people
 
 ## Where to live?
-- Go to the center of the industry (e.g., for technology, SF), but maybe go to where the most change is happening (e.g., for fintech, Africa).
-- International experience is also great to broaden our perspective and become a better global operator
+- Go to the center of the industry (e.g., for technology, SF), but maybe also where the most change is happening (e.g., instead of NYC for fintech, go to Africa).
+- International experience is also great to broaden perspective and become a better global operator
 
 ## What skills are worth learning, and how do you learn them?
-- Communication (read, write, go to a comedy class)
+- Learning something hard and technical (via school or work)
+- Communication (read, write, go to an improv class)
 - Management (work under a great manager)
 - Sales (spend a year as a salesperson)
-- Finance (learn from others, or read)
-- International (work abroad)
-- Something hard and technical (via school or work)
+- Finance (learn from others, read)
+- International experience (work abroad)
 
 ## How to be valuable?
 - It's rare that someone will be top 1% in a skill
-- It's a much higher likelihood for excellence to stack multiple skills (i.e., to be top 25% in 3–4 skills); suddenly I'm qualified to be the CEO; prioritize developing multiple skill sets
+- Instead, it's a much higher likelihood to stack multiple skills (i.e., to be top 25% in 3–4 skills)—suddenly this person is qualified to be the CEO; 
+- Takeaway - Develop multiple skill sets
 
 ## How to learn decision-making?
-- Put skin in the game; put myself in situations where things can go wrong, and where I live and breathe by my decision-making ability
+- Put skin in the game; put myself in situations where things can go wrong, and where I live and breathe by decision-making ability
+- Contra [the organization kid](https://www.theatlantic.com/magazine/archive/2001/04/the-organization-kid/302164/)
 
 ## How to learn from each industry / opportunity?
 >"⁠⁠Think strategically: how would I start a firm like this today? 
