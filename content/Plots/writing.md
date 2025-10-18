@@ -26,5 +26,5 @@ Instead of diving into answering a question immediately, it's usually more power
 
 Then, once we learn, having written our hypothesis, we can now improve our intuition. When compared to a thought (which is easily influenced by hindsight bias), writing is immutable. This lets us reflect on why we were wrong, and what mistaken assumptions that led to our conclusion.
 
-
+---
 Our outputs and inputs are very much in conversation, and thinking and writing benefit from [our milieu](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then). 
