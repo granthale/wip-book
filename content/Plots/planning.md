@@ -1,3 +1,6 @@
+Josh Waitzkin's focus on deep process
+[The Ultimate Guide to Josh Waitzkin](https://avthar.com/blog/jw-curation) by Avthar Sewrathan
+
 [Planning System](https://www.youtube.com/watch?v=3FipKTzkTD4&__readwiseLocation=) by Cal Newport
 **Documents**
 - Values (include best practices for mental health practices)

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Huberman's thoughts on motivation & drive.md",
+                "file": "Plots/planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Huberman's thoughts on motivation & drive"
+              "title": "planning"
             }
           }
         ]
@@ -229,6 +229,7 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
+    "Notes/Huberman's thoughts on motivation & drive.md",
     "Plots/planning.md",
     "Plots/self-stories.md",
     "Plots/thinking.md",
@@ -236,7 +237,6 @@
     "Plots/purpose.md",
     "Plots/career.md",
     "Plots/writing.md",
-    "Notes/Huberman's thoughts on motivation & drive.md",
     "Notes/Pmarca's thoughts on career planning.md",
     "Plots/community.md",
     "Plots/agency.md",
