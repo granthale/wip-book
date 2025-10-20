@@ -49,17 +49,18 @@ Josh Waitzkin's focus on deep process
 2. Make a list of all my tiny annoyances and resolve them
 3. If it's not on my calendar, it doesn't exist
 4. Get info out of brain and into systems/paper
-5. For decisions that don't matter that much, just make the decision and move on
+5. For decisions that don't matter that much, don't overthink. Just make the decision and move on
 
 [Anti-planning](https://calnewport.com/do-more-by-planning-less-the-power-of-the-anti-plan/) by Cal Newport
 - Instead of planning ahead for what needs to get done when — dive in and keep a record of my experience throughout (thoughts, triumphs, frustrations)
 - Shorten reflection cycles and adjust approach
 - Unsaid, but there should be a goal or question that we're working towards
+- *I've seen Balaji mention that Marc Andreessen does this*
 
 [[Huberman's thoughts on motivation & drive]]
 
+
 ## Open questions
 - How can I harness neuroscience to increase motivation and drive?
-- How to define values?
 - When is it important to leave room for ambiguity?
 - How to plan for long-term — 10+ years? Useful to look forward to deathbed?
