@@ -1,4 +1,5 @@
 [How to Increase Motivation & Drive](https://www.youtube.com/watch?v=OLQRAMZi--c&t=42s) by Huberman
+
 Dopamine discovered in late 1950s as a precursor to adrenaline (called epinephrine in brain), but it's not always precursor > biases us for movement
 
 Released from several sites, but most importantly from our reward pathway
@@ -15,12 +16,11 @@ For every bit of pleasure, there is some amount of pain — when you eat a piece
 - Every time you consume something, the associated amount of dopamine decreases, and the associated amount of craving increases (less pleasure, more pain over time)
 
 Satiety is about serotonin, oxytocin, prolactin > "Molecule of More" calls these the "here and now molecules" — they allow us to experience pleasures in the pleasant
-- Eating, which is normally dopamine-driven, can be done more mindfully which can shift things from dopamine to serotonin
+- ==Eating, which is normally dopamine-driven, can be done more mindfully, shifting rewards from dopamine to serotonin==
 - Marijuana and opioids hits serotonin hard, which makes us more content with what we have
 - The goal is a balance between serotonin and dopamine
 
-
-**Two types of procrastinators**
+Two types of procrastinators
 	1. People that enjoy the stress, and which it motivates them
 	2. Those that lack enough baseline dopamine
 
@@ -29,4 +29,11 @@ Satiety is about serotonin, oxytocin, prolactin > "Molecule of More" calls these
 - Achievements can be considered an addiction if left unchecked
 - [ ] Does this actually increase dopamine or just helps balance the system?
 
-Adjust the dopamine schedule
+==Dopamine is subjective — you can allow yourself to reach a milestone or not==
+- Experiment — placebo or 200 mg of caffeine (told that they were either getting caffeine or Adderall)
+- Subjects told they were getting Adderall performed better than those with caffeine
+
+Intermittent reinforcement is the most powerful form of dopamine reward schedule
+- ==Occasionally remove rewards (don't burn out dopamine circuits)==
+- ==Blunt reward response for some intermediate steps (celebrate some wins, but not all of them)==
+- Big increases in dopamine lead to big crashes

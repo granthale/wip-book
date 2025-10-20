@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Huberman's how to increase motivation & drive.md",
+                "file": "Plots/planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Huberman's how to increase motivation & drive"
+              "title": "planning"
             }
           }
         ]
@@ -229,8 +229,8 @@
   },
   "active": "76fd27c76331fa3b",
   "lastOpenFiles": [
-    "Plots/planning.md",
     "Huberman's how to increase motivation & drive.md",
+    "Plots/planning.md",
     "Notes/Pmarca's thoughts on career planning.md",
     "Plots/career.md",
     "Plots/writing.md",

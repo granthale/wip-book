@@ -55,9 +55,8 @@
 
 [[Huberman's how to increase motivation & drive]]
 
-- [ ] How can I harness neuroscience to increase motivation and drive?
-
 ## Open questions
+- How can I harness neuroscience to increase motivation and drive?
 - How to define values?
 - When is it important to leave room for ambiguity?
 - How to plan for long-term — 10+ years? Useful to look forward to deathbed?
