@@ -53,10 +53,9 @@
 - Shorten reflection cycles and adjust approach
 - Unsaid, but there should be a goal or question that we're working towards
 
-[How to Increase Motivation & Drive](https://www.youtube.com/watch?v=OLQRAMZi--c&t=42s) by Huberman
-- Dopamine discovered in late 1950s as a precursor to adrenaline (called epinephrine in brain) > biases us for movement, but it's not always precursor
-- Released from several sites, but most importantly from our reward pathway
-- VTA sends out axo
+[[Huberman's how to increase motivation & drive]]
+
+- [ ] How can I harness neuroscience to increase motivation and drive?
 
 ## Open questions
 - How to define values?
