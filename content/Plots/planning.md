@@ -1,4 +1,4 @@
-[Cal Newport's Planning System](https://www.youtube.com/watch?v=3FipKTzkTD4&__readwiseLocation=)
+[Planning System](https://www.youtube.com/watch?v=3FipKTzkTD4&__readwiseLocation=) by Cal Newport
 **Documents**
 - Values (include best practices for mental health practices)
 - Strategic plans (link to other long term documents as useful, quarterly or semester-long, review strategic plans 1x per week, overhaul 2x a year)
@@ -29,13 +29,13 @@
 	- Put dummy event at beginning of week with personal and professional goals
 	- Put time down to review goals at the end of the week
 
-[On the structured pursuit of depth](https://calnewport.com/on-the-structured-pursuit-of-depth) & [Cultivating a deep life](https://calnewport.com/cultivating-a-deep-life/?__readwiseLocation=) & [Mindset](https://calnewport.com/more-on-cultivating-a-deep-life-mindset/)
+[On the structured pursuit of depth](https://calnewport.com/on-the-structured-pursuit-of-depth) & [Cultivating a deep life](https://calnewport.com/cultivating-a-deep-life/?__readwiseLocation=) & [Mindset](https://calnewport.com/more-on-cultivating-a-deep-life-mindset/) by Cal Newport
 >"The deep life cannot be reduced to concrete steps. But without concrete steps, you’ll never get closer to it."
 - Resist the urge to create a master plan, instead plan one month at a time; list 1 habit to amplify and 1 habit to reduce across craft, community, contemplation, constitution 
 - This is a long term practice; when done month after month, I will get closer to the deep life
 - ==Do less, do better, know why (work backwards from my values)==
 
-[Brandon Sanderson advice on doing hard things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/)
+[Brandon Sanderson advice on doing hard things](https://calnewport.com/brandon-sandersons-advice-for-doing-hard-things/) by Cal Newport
 >“I can do hard things. Doing hard things has intrinsic value, and they will make me a better person, _even_ if I end up failing.”
 - Choose goals you have control over (e.g., not "become a professional author", instead "write 10 books, each one better than the last")
 - Learn what combo of motivation, circumstances, and accountability work for me (e.g., habit trackers, deadlines, writing groups)
@@ -48,10 +48,15 @@
 4. Get info out of brain and into systems/paper
 5. For decisions that don't matter that much, just make the decision and move on
 
-[Anti-planning](https://calnewport.com/do-more-by-planning-less-the-power-of-the-anti-plan/)
+[Anti-planning](https://calnewport.com/do-more-by-planning-less-the-power-of-the-anti-plan/) by Cal Newport
 - Instead of planning ahead for what needs to get done when — dive in and keep a record of my experience throughout (thoughts, triumphs, frustrations)
 - Shorten reflection cycles and adjust approach
 - Unsaid, but there should be a goal or question that we're working towards
+
+[How to Increase Motivation & Drive](https://www.youtube.com/watch?v=OLQRAMZi--c&t=42s) by Huberman
+- Dopamine discovered in late 1950s as a precursor to adrenaline (called epinephrine in brain) > biases us for movement, but it's not always precursor
+- Released from several sites, but most importantly from our reward pathway
+- VTA sends out axo
 
 ## Open questions
 - How to define values?

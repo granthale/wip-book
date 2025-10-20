@@ -15,16 +15,13 @@
     "2025/9/8": 0,
     "2025/9/9": 0,
     "2025/9/15": 96,
-    "2025/9/18": 90
+    "2025/9/18": 90,
+    "2025/9/19": 67
   },
   "todaysWordCount": {
     "Plots/planning.md": {
-      "initial": 520,
-      "current": 610
-    },
-    "Plots/writing.md": {
-      "initial": 323,
-      "current": 323
+      "initial": 610,
+      "current": 677
     }
   }
 }
