@@ -53,7 +53,7 @@
 - Shorten reflection cycles and adjust approach
 - Unsaid, but there should be a goal or question that we're working towards
 
-[[Huberman's how to increase motivation & drive]]
+[[Huberman's thoughts on motivation & drive]]
 
 ## Open questions
 - How can I harness neuroscience to increase motivation and drive?
