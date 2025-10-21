@@ -18,12 +18,12 @@
     "2025/9/18": 90,
     "2025/9/19": 261,
     "2025/9/20": 304,
-    "2025/9/21": 186
+    "2025/9/21": 318
   },
   "todaysWordCount": {
     "Plots/planning.md": {
       "initial": 242,
-      "current": 30
+      "current": 240
     },
     "Notes/Cal Newport's thoughts on planning.md": {
       "initial": 432,
@@ -31,7 +31,11 @@
     },
     "Notes/Misc notes on planning.md": {
       "initial": 618,
-      "current": 603
+      "current": 98
+    },
+    "Pieces/My planning system.md": {
+      "initial": 234,
+      "current": 366
     }
   }
 }
