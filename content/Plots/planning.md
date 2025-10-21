@@ -59,6 +59,8 @@ Josh Waitzkin's focus on deep process
 
 [[Huberman's thoughts on motivation & drive]]
 
+[[Huberman's thoughts on AD&D & focus]]
+
 
 ## Open questions
 - How can I harness neuroscience to increase motivation and drive?
