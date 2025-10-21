@@ -18,7 +18,7 @@
     "2025/9/18": 90,
     "2025/9/19": 261,
     "2025/9/20": 304,
-    "2025/9/21": 371
+    "2025/9/21": 467
   },
   "todaysWordCount": {
     "Plots/planning.md": {
@@ -36,6 +36,10 @@
     "Pieces/My planning system.md": {
       "initial": 234,
       "current": 419
+    },
+    "Notes/Huberman's thoughts on ultradian rhythms.md": {
+      "initial": 0,
+      "current": 96
     }
   }
 }

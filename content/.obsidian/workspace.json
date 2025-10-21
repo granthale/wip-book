@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pieces/My planning system.md",
-                "mode": "preview",
+                "file": "Notes/Huberman's thoughts on ultradian rhythms.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "My planning system"
+              "title": "Huberman's thoughts on ultradian rhythms"
             }
           }
         ]
@@ -229,8 +229,9 @@
   },
   "active": "64bb7b0e49cc0827",
   "lastOpenFiles": [
-    "Plots/writing.md",
     "Pieces/My planning system.md",
+    "Notes/Huberman's thoughts on ultradian rhythms.md",
+    "Plots/writing.md",
     "Notes/Cal Newport's notes on planning.md",
     "Notes/Misc notes on planning.md",
     "Notes/Huberman's thoughts on AD&D & focus.md",
@@ -256,7 +257,6 @@
     "Authors/neel.md",
     "Authors/grant.md",
     "Plots/well-being-self-care-mindfulness.md",
-    "DRAFTS_GRANT/Slow software.md",
     "images/skating.png",
     "images/set_reformulation.png",
     "images/growth.png",
