@@ -18,7 +18,7 @@
     "2025/9/18": 90,
     "2025/9/19": 261,
     "2025/9/20": 304,
-    "2025/9/21": 315
+    "2025/9/21": 371
   },
   "todaysWordCount": {
     "Plots/planning.md": {
@@ -35,7 +35,7 @@
     },
     "Pieces/My planning system.md": {
       "initial": 234,
-      "current": 363
+      "current": 419
     }
   }
 }
