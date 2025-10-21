@@ -2,7 +2,7 @@ Here's the system I use to orient myself to what's most important, and consisten
 
 ### **Once a quarter**
 1. Revisit my 3-5 core values[^1]
-2. Revisit my definition of success by 30 years old[^2] (these are outcomes)
+2. Revisit my 30-year-old definition of success[^2] (these are outcomes)
 	- Y-axis = 3-5 core values
 	- X-axis = internal/external outcomes[^3]
 3. Based on my definition of success, set quarterly checkpoints (outcomes) and systems (processes) to continue moving towards this goal
@@ -23,7 +23,7 @@ Here's the system I use to orient myself to what's most important, and consisten
 See [[Cal Newport's notes on planning]], [[Misc notes on planning]], [[Huberman's thoughts on motivation & drive]] and [[Huberman's thoughts on study habits]]
 
 [^1]: In my case — vitality (mental and physical health), curiosity, courage, mastery, connection
-[^2]: I'm planning to experiment with a longer-term definition of success at ages 50 and 80 as well
+[^2]: I'm planning to experiment with longer-term definitions of success at ages 50 and 80
 [^3]: E.g., an internal outcome could be "regularly excited to meet new people" while as an external outcome could be "surrounded by people who energize, challenge, and care deeply"
 [^4]: While creating a scaffold at the beginning of the session can be less fun than just getting right to work, I find that I end up getting much more done, and having more fun while doing it
 [^5]: I've been emphasizing finding joy in my work and enjoying the process rather than just trying to reach the outcome
