@@ -63,8 +63,8 @@ Josh Waitzkin's focus on deep process
 
 [[Huberman's thoughts on study habits]]
 
+[[Huberman's thoughts on willpower]]
 
 ## Open questions
-- How can I harness neuroscience to increase motivation and drive?
 - When is it important to leave room for ambiguity?
 - How to plan for long-term — 10+ years? Useful to look forward to deathbed?
