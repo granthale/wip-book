@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76fd27c76331fa3b",
+            "id": "64bb7b0e49cc0827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Huberman's thoughts on study habits.md",
+                "file": "Plots/planning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Huberman's thoughts on study habits"
+              "title": "planning"
             }
           }
         ]
@@ -227,13 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76fd27c76331fa3b",
+  "active": "64bb7b0e49cc0827",
   "lastOpenFiles": [
-    "Notes/Huberman's thoughts on willpower.md",
+    "Notes/Misc notes on planning.md",
     "Plots/planning.md",
     "Notes/Huberman's thoughts on AD&D & focus.md",
-    "Notes/Huberman's thoughts on study habits.md",
+    "Notes/Huberman's thoughts on willpower.md",
     "Notes/Huberman's thoughts on motivation & drive.md",
+    "Notes/Huberman's thoughts on study habits.md",
     "Plots/self-stories.md",
     "Plots/thinking.md",
     "Plots/reading-learning.md",
@@ -261,7 +262,6 @@
     "images/growth.png",
     "images/xi.jpg",
     "images/digital-garden.png",
-    "Notes/Tools for Thought Empower Thinking and Expression.md",
     "skating.webp",
     "DRAFTS_GRANT/LearnOS",
     "DRAFTS_GRANT/attachments/caring-for-a-human-1910209318.gif",

@@ -17,24 +17,21 @@
     "2025/9/15": 96,
     "2025/9/18": 90,
     "2025/9/19": 261,
-    "2025/9/20": 304
+    "2025/9/20": 304,
+    "2025/9/21": 186
   },
   "todaysWordCount": {
     "Plots/planning.md": {
-      "initial": 635,
-      "current": 674
+      "initial": 242,
+      "current": 30
     },
-    "Huberman's thoughts on AD&D & focus.md": {
-      "initial": 1,
-      "current": 138
+    "Notes/Cal Newport's thoughts on planning.md": {
+      "initial": 432,
+      "current": 618
     },
-    "Huberman's thoughts on study habits.md": {
-      "initial": 0,
-      "current": 113
-    },
-    "Huberman's thoughts on willpower.md": {
-      "initial": 0,
-      "current": 15
+    "Notes/Misc notes on planning.md": {
+      "initial": 618,
+      "current": 603
     }
   }
 }
