@@ -18,28 +18,29 @@
     "2025/9/18": 90,
     "2025/9/19": 261,
     "2025/9/20": 304,
-    "2025/9/21": 467
+    "2025/9/21": 467,
+    "2025/9/22": 226
   },
   "todaysWordCount": {
-    "Plots/planning.md": {
-      "initial": 242,
-      "current": 240
+    "Notes/Cal Newport's notes on planning.md": {
+      "initial": 434,
+      "current": 505
     },
-    "Notes/Cal Newport's thoughts on planning.md": {
-      "initial": 432,
-      "current": 618
+    "Notes/Multi-scale planning.md": {
+      "initial": 182,
+      "current": 182
+    },
+    "Untitled 1.md": {
+      "initial": 323,
+      "current": 421
     },
     "Notes/Misc notes on planning.md": {
-      "initial": 618,
-      "current": 98
+      "initial": 0,
+      "current": 0
     },
     "Pieces/My planning system.md": {
-      "initial": 234,
-      "current": 419
-    },
-    "Notes/Huberman's thoughts on ultradian rhythms.md": {
-      "initial": 0,
-      "current": 96
+      "initial": 409,
+      "current": 466
     }
   }
 }
