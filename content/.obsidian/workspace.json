@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Ultradian cycles.md",
+                "file": "Notes/Willpower.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ultradian cycles"
+              "title": "Willpower"
             }
           }
         ],
@@ -245,14 +245,15 @@
   },
   "active": "ba0861109557ec22",
   "lastOpenFiles": [
+    "Notes/Willpower.md",
+    "Notes/Ultradian cycles.md",
+    "Notes/Untitled.md",
     "Pieces/My planning system.md",
     "Notes/Multi-scale planning.md",
     "Notes/Pmarca's thoughts on career planning.md",
     "Notes/Motivation & drive.md",
     "Notes/Study habits.md",
     "Notes/AD&D & focus.md",
-    "Notes/Willpower.md",
-    "Notes/Ultradian cycles.md",
     "MISC PLANNING.md",
     "Notes/Misc notes on planning.md",
     "Untitled.md",
@@ -272,7 +273,6 @@
     "images/growth.webp",
     "INTERNAL.md",
     "index.md",
-    "Authors/neel.md",
     "images/skating.png",
     "images/set_reformulation.png",
     "images/growth.png",
