@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multi-scale planning.md",
+                "file": "Notes/Multi-scale planning (Cal Newport).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Multi-scale planning"
+              "title": "Multi-scale planning (Cal Newport)"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Willpower.md",
+                "file": "Pieces/Scheduled worry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Willpower"
+              "title": "Scheduled worry"
             }
           }
         ],
@@ -245,15 +245,15 @@
   },
   "active": "ba0861109557ec22",
   "lastOpenFiles": [
-    "Notes/Willpower.md",
-    "Notes/Ultradian cycles.md",
-    "Notes/Untitled.md",
+    "Notes/Career planning (Marc Andreessen).md",
+    "Notes/Ultradian cycles (Huberman).md",
+    "Notes/Multi-scale planning (Cal Newport).md",
+    "Notes/AD&D & focus (Huberman).md",
+    "Notes/Study habits (Huberman).md",
+    "Notes/Motivation & drive (Huberman).md",
+    "Notes/Willpower (Huberman & Goggins).md",
+    "Pieces/Scheduled worry.md",
     "Pieces/My planning system.md",
-    "Notes/Multi-scale planning.md",
-    "Notes/Pmarca's thoughts on career planning.md",
-    "Notes/Motivation & drive.md",
-    "Notes/Study habits.md",
-    "Notes/AD&D & focus.md",
     "MISC PLANNING.md",
     "Notes/Misc notes on planning.md",
     "Untitled.md",

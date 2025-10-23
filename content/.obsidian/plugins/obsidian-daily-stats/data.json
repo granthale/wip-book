@@ -20,7 +20,7 @@
     "2025/9/20": 304,
     "2025/9/21": 467,
     "2025/9/22": 226,
-    "2025/9/23": 207
+    "2025/9/23": 336
   },
   "todaysWordCount": {
     "Notes/Ultradian cycles.md": {
@@ -30,6 +30,14 @@
     "Notes/Willpower.md": {
       "initial": 16,
       "current": 120
+    },
+    "Notes/Scheduled worry.md": {
+      "initial": 2,
+      "current": 3
+    },
+    "Pieces/Scheduled worry.md": {
+      "initial": 2,
+      "current": 130
     }
   }
 }

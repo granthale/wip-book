@@ -1,7 +1,7 @@
 ---
 title: Career
 ---
-[[Pmarca's thoughts on career planning]] by Marc Andreessen
+[[Career planning (Marc Andreessen)]] by Marc Andreessen
 
 [Career Decisions](https://blog.eladgil.com/p/career-decisions) by Elad Gil
 - **Overweight** network, market & growth rate, optionality, brand

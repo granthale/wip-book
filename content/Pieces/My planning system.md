@@ -1,4 +1,4 @@
-Here's the system I use to orient myself to what's most important, and consistently steer towards it (contra [the drunken sailor step](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)). I took heavy inspiration from Cal Newport's [[Multi-scale planning]] approach.
+Here's the system I use to orient myself to what's most important, and consistently steer towards it (contra [the drunken sailor step](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)). I took heavy inspiration from Cal Newport's [[Multi-scale planning (Cal Newport)]] approach.
 
 ### **Once a quarter**
 1. Revisit my 3-5 core values[^1]
@@ -23,7 +23,7 @@ Here's the system I use to orient myself to what's most important, and consisten
 2. After — review / celebrate what I finished and identify one moment of joy[^6]
 
 ---
-Also see [[Motivation & drive]] and [[Study habits]]
+Also see [[Motivation & drive (Huberman)]] and [[Study habits (Huberman)]]
 
 [^1]: In my case — vitality (mental and physical health), curiosity, courage, mastery, connection
 [^2]: I'm planning to experiment with longer-term definitions of success at ages 50 and 80
