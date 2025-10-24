@@ -20,7 +20,7 @@
     "2025/9/20": 304,
     "2025/9/21": 467,
     "2025/9/22": 226,
-    "2025/9/23": 353
+    "2025/9/23": 376
   },
   "todaysWordCount": {
     "Notes/Ultradian cycles.md": {
@@ -50,6 +50,26 @@
     "Pieces/My 12 favorite questions.md": {
       "initial": 221,
       "current": 226
+    },
+    "Notes/Ultradian cycles (Huberman).md": {
+      "initial": 199,
+      "current": 194
+    },
+    "Notes/Study habits (Huberman).md": {
+      "initial": 113,
+      "current": 127
+    },
+    "Notes/Willpower (Huberman & Goggins).md": {
+      "initial": 120,
+      "current": 128
+    },
+    "Notes/AD&D & focus (Huberman).md": {
+      "initial": 138,
+      "current": 111
+    },
+    "Notes/Motivation & drive (Huberman).md": {
+      "initial": 449,
+      "current": 450
     }
   }
 }

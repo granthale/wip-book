@@ -14,3 +14,6 @@ Top students:
 ==Effort is the cornerstone of learning; studying that feels challenging is the most effective
 
 Testing is one of the best ways to build our knowledge and offset forgetting (i.e., Anki is great)
+
+---
+For when the best time of day is to study, see [[Ultradian cycles (Huberman)]]

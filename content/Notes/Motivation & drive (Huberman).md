@@ -1,6 +1,6 @@
 [How to Increase Motivation & Drive](https://www.youtube.com/watch?v=OLQRAMZi--c&t=42s) by Huberman
 
-Dopamine discovered in late 1950s as a precursor to adrenaline (called epinephrine in brain), but it's not always precursor > biases us for movement
+Dopamine discovered in late 1950s as a precursor to adrenaline (called epinephrine in brain), but it's not always precursor; biases us for movement
 
 Released from several sites, but most importantly from our reward pathway
 - "Accelerator" — VTA sends out axons to nucleus accumbens and releases dopamine
@@ -12,7 +12,7 @@ Motivation is about balancing pleasure and pain
 - ==Video games with constantly novel terrain can increase dopamine somewhere between nicotine and cocaine==
 
 For every bit of pleasure, there is some amount of pain — when you eat a piece of chocolate, it shifts away from dopamine, and releases some downwards deflection (makes you want more)
-- ==Every time you experience something, the associated amount of dopamine decreases, and the associated amount of craving increases (less pleasure, more pain over time)
+- ==Every time I experience something, the associated amount of dopamine decreases, and the associated amount of craving increases (less pleasure, more pain over time)
 
 Satiety is about serotonin, oxytocin, prolactin > "Molecule of More" calls these the "here and now molecules" — they allow us to experience pleasures in the pleasant
 - ==Eating, which is normally dopamine-driven, can be done more mindfully, shifting rewards from dopamine to serotonin==
