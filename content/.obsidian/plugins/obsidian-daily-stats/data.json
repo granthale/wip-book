@@ -20,7 +20,7 @@
     "2025/9/20": 304,
     "2025/9/21": 467,
     "2025/9/22": 226,
-    "2025/9/23": 376
+    "2025/9/23": 378
   },
   "todaysWordCount": {
     "Notes/Ultradian cycles.md": {
@@ -37,7 +37,7 @@
     },
     "Pieces/Scheduled worry.md": {
       "initial": 2,
-      "current": 142
+      "current": 144
     },
     "Pieces/My planning system.md": {
       "initial": 468,
@@ -70,6 +70,10 @@
     "Notes/Motivation & drive (Huberman).md": {
       "initial": 449,
       "current": 450
+    },
+    "INTERNAL.md": {
+      "initial": 3,
+      "current": 0
     }
   }
 }

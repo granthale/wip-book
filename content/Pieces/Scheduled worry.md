@@ -13,3 +13,5 @@ During my "worry time" (15 minutes)
 	- For what I can't
 		- Practice acceptance ("what would I tell a friend?")
 		- If appropriate, find a lesson for the future
+
+Examine worries
