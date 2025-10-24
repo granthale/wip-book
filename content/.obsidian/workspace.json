@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pieces/Scheduled worry.md",
+                "file": "Notes/Motivation & drive (Huberman).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scheduled worry"
+              "title": "Motivation & drive (Huberman)"
             }
           }
         ]
@@ -229,13 +229,13 @@
   },
   "active": "64bb7b0e49cc0827",
   "lastOpenFiles": [
+    "Pieces/Scheduled worry.md",
+    "Pieces/My 12 questions.md",
+    "Pieces/My planning system.md",
     "Plots/career.md",
     "MISC PLANNING.md",
-    "Pieces/Scheduled worry.md",
     "INTERNAL.md",
     "Notes/Motivation & drive (Huberman).md",
-    "Pieces/My planning system.md",
-    "Pieces/My 12 questions.md",
     "Notes/Multi-scale planning (Cal Newport).md",
     "Notes/Study habits (Huberman).md",
     "Notes/Willpower (Huberman & Goggins).md",
