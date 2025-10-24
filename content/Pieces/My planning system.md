@@ -1,13 +1,13 @@
-Here's the system I use to orient myself to what's most important, and consistently steer towards it (contra [the drunken sailor step](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)). I took heavy inspiration from Cal Newport's [[Multi-scale planning (Cal Newport)]] approach.
+Here's the system I use to orient myself to what's most important, and consistently steer towards it (contra [the drunken sailor step](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)). 
 
 ### **Once a quarter**
-1. Revisit my 3-5 core values[^1]
-2. Based on my values, revisit my 30-year-old definition of success[^2] (these are outcomes)
-	- Y-axis = 3-5 core values
-	- X-axis = internal and external outcomes[^3]
-3. Based on my definition of success, set quarterly checkpoints (outcomes) and systems (processes) to continue moving towards this goal[^4]
+1. Revisit my core values, change if appropriate[^1]
+2. Based on my values, revisit my 30-year-old definition of success, change if appropriate[^2] (these are outcomes I want to achieve by age 30)
+	- Rows = core values
+	- Columns = 1) internal outcomes, 2) external outcomes[^3]
+3. Based on my definition of success, set quarterly checkpoints (outcomes) and systems (habits)[^4]
 4. Other things I'm experimenting with
-	- Defining why I'm doing what I'm doing (big lofty connection back to family, friends, and desired impact)
+	- Defining my why (big lofty connection back to family, friends, and desired impact)
 	- [Defining my 12 favorite problems](https://www.honest-broker.com/p/my-12-favorite-problems?__readwiseLocation=)
 	- Creating a learning syllabus
 
@@ -23,9 +23,9 @@ Here's the system I use to orient myself to what's most important, and consisten
 2. After — review / celebrate what I finished and identify one moment of joy[^6]
 
 ---
-Also see [[Motivation & drive (Huberman)]] and [[Study habits (Huberman)]]
+See [[Multi-scale planning (Cal Newport)]], [[Motivation & drive (Huberman)]] and [[Study habits (Huberman)]]
 
-[^1]: In my case — vitality (mental and physical health), curiosity, courage, mastery, connection
+[^1]: In my case, I chose 5 — vitality (mental and physical health), curiosity, courage, mastery, connection
 [^2]: I'm planning to experiment with longer-term definitions of success at ages 50 and 80
 [^3]: An internal outcome is something only I can feel (e.g., "regularly excited to meet new people") while as an external outcome manifests itself in the world (e.g., "surrounded by people who energize, challenge, and care deeply")
 [^4]: Because it's self-defeating to focus on everything at once, I'm experimenting with prioritizing 1–2 values per quarter (I've heard people call this a "season"), and refining my checkpoints/systems for those, while paring down others
