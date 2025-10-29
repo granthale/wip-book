@@ -22,28 +22,13 @@
     "2025/9/22": 226,
     "2025/9/23": 411,
     "2025/9/27": 4,
-    "2025/9/28": 193
+    "2025/9/28": 193,
+    "2025/9/29": 30
   },
   "todaysWordCount": {
-    "Pieces/Separate metacognition from the task at hand.md": {
-      "initial": 6,
-      "current": 6
-    },
-    "Pieces/My 12 questions.md": {
-      "initial": 226,
-      "current": 236
-    },
     "Pieces/Once goals are set, focus on the process.md": {
-      "initial": 6,
-      "current": 189
-    },
-    "Notes/AD&D & focus (Huberman).md": {
-      "initial": 111,
-      "current": 111
-    },
-    "Notes/Study habits (Huberman).md": {
-      "initial": 127,
-      "current": 127
+      "initial": 189,
+      "current": 219
     }
   }
 }
