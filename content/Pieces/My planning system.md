@@ -22,7 +22,7 @@ Here's the system I use to orient myself to what's most important, and consisten
 1. Before — do all my meta-thinking; i.e., set an intention (what I want to achieve) and make a plan[^5]
 2. After — review / celebrate what I finished and identify one moment of joy[^6]
 
-Finally, [[Once goals are set, focus on the process]]
+Finally, [[Once goals are set, focus on the process]].
 
 ---
 See [[Multi-scale planning (Cal Newport)]], [[Motivation & drive (Huberman)]] and [[Study habits (Huberman)]]
