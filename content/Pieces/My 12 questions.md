@@ -1,4 +1,4 @@
-Taking inspiration from [Ted](https://www.honest-broker.com/p/my-12-favorite-problems?__readwiseLocation=), I've compiled a list of the 12 questions I find myself returning to most.
+It's a beautiful thing to be rich in questions - taking inspiration from [Ted](https://www.honest-broker.com/p/my-12-favorite-problems?__readwiseLocation=), I've compiled a list of the 12 questions I find myself returning to most.
 
 Many sit within "direction setting" and "building blocks" — which I think of as enablers. As I answer these questions, I'll shift my attention towards "impact".
 

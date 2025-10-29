@@ -21,16 +21,21 @@
     "2025/9/21": 467,
     "2025/9/22": 226,
     "2025/9/23": 411,
-    "2025/9/27": 4
+    "2025/9/27": 4,
+    "2025/9/28": 186
   },
   "todaysWordCount": {
-    "Pieces/Pre-work.md": {
-      "initial": 1,
-      "current": 0
-    },
     "Pieces/Separate metacognition from the task at hand.md": {
-      "initial": 2,
+      "initial": 6,
       "current": 6
+    },
+    "Pieces/My 12 questions.md": {
+      "initial": 226,
+      "current": 236
+    },
+    "Pieces/Once goals are set, focus on the process.md": {
+      "initial": 6,
+      "current": 182
     }
   }
 }
