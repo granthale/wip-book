@@ -3,7 +3,7 @@
 >"Desire is a contract you make with yourself to be unhappy until you get what you want." 
 >	— [Naval](https://www.navalmanack.com/almanack-of-naval-ravikant/every-desire-is-a-chosen-unhappiness)
 
-It's great to set goals — they can act as north stars. But once they're set, it's easy to overly fixate on them and lose sight of the other 99.99% of 
+It's great to set goals — they can act as north stars. But once they're set, it's easy to overly fixate on them and lose sight of the other 99.99% of our life.
 
 How can I stay more present and derive more joy from the process?
 - Zoom in until steps are concrete (e.g., draft a bullet point outline vs. write an essay); clear next steps enable flow, while ambiguity requires constantly switching between planning and working
