@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Study habits (Huberman).md",
+                "file": "Pieces/Once goals are set, focus on the process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Study habits (Huberman)"
+              "title": "Once goals are set, focus on the process"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -228,6 +229,7 @@
   },
   "active": "aa3ecc7daba7fb80",
   "lastOpenFiles": [
+    "Notes/Study habits (Huberman).md",
     "Notes/Motivation & drive (Huberman).md",
     "Notes/AD&D & focus (Huberman).md",
     "Pieces/Once goals are set, focus on the process.md",
@@ -238,7 +240,6 @@
     "MISC PLANNING.md",
     "INTERNAL.md",
     "Notes/Multi-scale planning (Cal Newport).md",
-    "Notes/Study habits (Huberman).md",
     "Notes/Willpower (Huberman & Goggins).md",
     "Notes/Career planning (Marc Andreessen).md",
     "Notes/Ultradian cycles (Huberman).md",
