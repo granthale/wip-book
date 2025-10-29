@@ -18,3 +18,6 @@ How can we better enjoy the process (i.e., the incremental steps)?
 - Celebrate achieving these steps (e.g., run another half mile, write for 30 minutes); closed loops create momentum 
 - Keep a running log of tiny improvements and appreciate progress (e.g., evolution of a cleaner sentence, tighter arguments, faster feedback cycles, increase in strength)
 - Leave open threads at the end of a session (e.g., a highlighted question or next experiment) to allow for an easier start next time
+
+---
+See [[Motivation & drive (Huberman)]]

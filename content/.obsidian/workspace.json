@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pieces/My planning system.md",
+                "file": "Pieces/Once goals are set, focus on the process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "My planning system"
+              "title": "Once goals are set, focus on the process"
             }
           }
         ]
@@ -75,13 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "4c14fe70e16e0c32",
@@ -231,6 +229,7 @@
   },
   "active": "aa3ecc7daba7fb80",
   "lastOpenFiles": [
+    "Pieces/My planning system.md",
     "Pieces/Once goals are set, focus on the process.md",
     "Notes/Study habits (Huberman).md",
     "Notes/Motivation & drive (Huberman).md",
@@ -238,7 +237,6 @@
     "Pieces/Scheduled worry.md",
     "Pieces/My 12 questions.md",
     "Plots/career.md",
-    "Pieces/My planning system.md",
     "MISC PLANNING.md",
     "INTERNAL.md",
     "Notes/Multi-scale planning (Cal Newport).md",
