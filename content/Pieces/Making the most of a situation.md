@@ -1,0 +1,1 @@
+"Good mentality" is useful if you can't change something

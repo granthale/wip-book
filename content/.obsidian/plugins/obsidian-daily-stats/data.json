@@ -23,16 +23,17 @@
     "2025/9/23": 411,
     "2025/9/27": 4,
     "2025/9/28": 193,
-    "2025/9/29": 184
+    "2025/9/29": 184,
+    "2025/9/30": 19
   },
   "todaysWordCount": {
-    "Pieces/Once goals are set, focus on the process.md": {
-      "initial": 189,
-      "current": 364
+    "Pieces/Scheduled worry.md": {
+      "initial": 177,
+      "current": 187
     },
-    "Pieces/My planning system.md": {
-      "initial": 460,
-      "current": 469
+    "Pieces/Making the most of a situation.md": {
+      "initial": 1,
+      "current": 10
     }
   }
 }

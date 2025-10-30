@@ -5,6 +5,7 @@ Schedule a consistent time and place to worry (e.g., 4:45-5:00pm on my couch)
 
 As worries arise throughout the day:
 - If they're ruminative, jot down in notebook along with the associated cognitive distortion
+- Frame as "I'm having the though that..." (cognitive defusion)
 - If it's appropriate to jump into problem-solving mode, I'll time-box finding a solution and then move on (3-10 minutes usually does the trick)
 
 During my "worry time" (15 minutes)

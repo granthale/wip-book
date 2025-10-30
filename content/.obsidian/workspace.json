@@ -11,10 +11,15 @@
             "id": "339263d3b2e167bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pieces/Making the most of a situation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Making the most of a situation"
             }
           }
         ]
@@ -225,10 +230,11 @@
   },
   "active": "339263d3b2e167bf",
   "lastOpenFiles": [
+    "Pieces/Scheduled worry.md",
+    "Pieces/Making the most of a situation.md",
+    "Pieces/Once goals are set, focus on the process.md",
     "Notes/Study habits (Huberman).md",
     "Notes/AD&D & focus (Huberman).md",
-    "Pieces/Once goals are set, focus on the process.md",
-    "Pieces/Scheduled worry.md",
     "Pieces/My 12 questions.md",
     "Pieces/My planning system.md",
     "about.md",
@@ -250,7 +256,6 @@
     "Plots/purpose.md",
     "Plots/community.md",
     "Plots/agency.md",
-    "Plots/creativity-self-expression.md",
     "images/digital-garden.webp",
     "images/growth.webp",
     "images/skating.png",
