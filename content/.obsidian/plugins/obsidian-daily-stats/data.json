@@ -24,16 +24,13 @@
     "2025/9/27": 4,
     "2025/9/28": 193,
     "2025/9/29": 184,
-    "2025/9/30": 20
+    "2025/9/30": 20,
+    "2025/10/3": 0
   },
   "todaysWordCount": {
-    "Pieces/Scheduled worry.md": {
-      "initial": 177,
-      "current": 187
-    },
-    "Pieces/Making the most of a situation.md": {
-      "initial": 1,
-      "current": 11
+    "Plots/career.md": {
+      "initial": 376,
+      "current": 376
     }
   }
 }
