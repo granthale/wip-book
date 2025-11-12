@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "career"
             }
-          },
-          {
-            "id": "b6d5cc844f6ea96c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +228,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6d5cc844f6ea96c",
+  "active": "339263d3b2e167bf",
   "lastOpenFiles": [
     "Plots/writing.md",
     "Pieces/Making the most of a situation.md",
