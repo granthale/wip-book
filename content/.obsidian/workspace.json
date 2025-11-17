@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "career"
             }
+          },
+          {
+            "id": "d66982df7f9c26f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +239,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "339263d3b2e167bf",
+  "active": "d66982df7f9c26f1",
   "lastOpenFiles": [
+    "Plots/career.md",
     "Plots/writing.md",
     "Pieces/Making the most of a situation.md",
     "Pieces/Scheduled worry.md",
@@ -242,7 +254,6 @@
     "index.md",
     "Notes/Planning (misc).md",
     "Notes/Motivation & drive (Huberman).md",
-    "Plots/career.md",
     "INTERNAL.md",
     "Notes/Multi-scale planning (Cal Newport).md",
     "Notes/Willpower (Huberman & Goggins).md",
